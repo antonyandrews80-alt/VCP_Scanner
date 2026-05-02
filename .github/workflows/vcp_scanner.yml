@@ -1,0 +1,54 @@
+name: VCP Daily Scanner
+
+on:
+  # Runs every weekday at 3:30 PM UTC = 9:00 PM IST
+  schedule:
+    - cron: '30 15 * * 1-5'
+
+  # Also allows manual trigger from GitHub Actions tab
+  workflow_dispatch:
+
+jobs:
+  run-scanner:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      # Step 1 — Check out your repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Step 2 — Set up Python
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # Step 3 — Install dependencies
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # Step 4 — Run the VCP scanner
+      - name: Run VCP Scanner
+        env:
+          CLAUDE_API_KEY:       ${{ secrets.CLAUDE_API_KEY }}
+          TELEGRAM_TOKEN:       ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID:     ${{ secrets.TELEGRAM_CHAT_ID }}
+          CHARTINK_EMAIL:       ${{ secrets.CHARTINK_EMAIL }}
+          CHARTINK_PASSWORD:    ${{ secrets.CHARTINK_PASSWORD }}
+          CHARTINK_SCREEN1_ID:  ${{ secrets.CHARTINK_SCREEN1_ID }}
+          CHARTINK_SCREEN2_ID:  ${{ secrets.CHARTINK_SCREEN2_ID }}
+          CHARTINK_BREADTH_ID:  ${{ secrets.CHARTINK_BREADTH_ID }}
+        run: |
+          python vcp_scanner.py
+
+      # Step 5 — If anything fails, send error to Telegram
+      - name: Notify on failure
+        if: failure()
+        run: |
+          curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_TOKEN }}/sendMessage" \
+            -d "chat_id=${{ secrets.TELEGRAM_CHAT_ID }}" \
+            -d "text=VCP Scanner failed today. Check GitHub Actions logs for details." \
+            -d "parse_mode=HTML"
