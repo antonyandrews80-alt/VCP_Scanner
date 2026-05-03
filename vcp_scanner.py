@@ -66,36 +66,166 @@ def notify(msg):
 # ============================================================
 
 def chartink_login():
-    """Login to Chartink and return authenticated session."""
+    """Login to Chartink Atlas and return authenticated session."""
     session = requests.Session()
     session.headers.update({
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9",
     })
-    r = session.get("https://chartink.com/screener/", timeout=15)
 
-    # Extract CSRF token
+    # Step 1 — Load login page to get CSRF token
+    r = session.get("https://chartink.com/login", timeout=15)
     csrf = None
     match = re.search(r'<meta name="csrf-token" content="([^"]+)"', r.text)
     if match:
         csrf = match.group(1)
-
     if not csrf:
-        for line in r.text.split('\n'):
-            if 'csrf-token' in line.lower():
-                m = re.search(r'content="([^"]+)"', line)
-                if m:
-                    csrf = m.group(1)
-                    break
+        match = re.search(r'name="_token"[^>]+value="([^"]+)"', r.text)
+        if match:
+            csrf = match.group(1)
+    print(f"  CSRF token found: {'yes' if csrf else 'no'}")
 
+    # Step 2 — Post login credentials
     login_data = {
         "_token": csrf or "",
         "email": CHARTINK_EMAIL,
         "password": CHARTINK_PASSWORD,
+        "remember": "on",
     }
-    resp = session.post("https://chartink.com/login", data=login_data, timeout=15)
-    print(f"  Chartink login status: {resp.status_code}")
+    resp = session.post(
+        "https://chartink.com/login",
+        data=login_data,
+        headers={"Referer": "https://chartink.com/login"},
+        timeout=15,
+        allow_redirects=True
+    )
+    print(f"  Login POST status: {resp.status_code}, final URL: {resp.url}")
+
+    # Step 3 — Verify login succeeded by checking for user-specific content
+    check = session.get("https://chartink.com/dashboard", timeout=15)
+    logged_in = "logout" in check.text.lower() or "dashboard" in check.url
+    print(f"  Login verified: {logged_in} (status {check.status_code})")
+
     return session
 
+
+def normalise_symbol_column(df):
+    """Find the stock symbol column regardless of Chartink column naming."""
+    for col in df.columns:
+        if str(col).strip().lower() in ['symbol', 'stock', 'ticker', 'name', 'scrip']:
+            return col
+    return df.columns[0]  # fallback to first column
+
+
+def fetch_chartink_scanner(session, scanner_id):
+    """
+    Fetch stock symbols from a Chartink Atlas dashboard.
+    URL: https://chartink.com/dashboard/<scanner_id>
+    Tries multiple methods to extract the stock table.
+    """
+    dashboard_url = f"https://chartink.com/dashboard/{scanner_id}"
+
+    # --- Method 1: Atlas API endpoint ---
+    try:
+        # First load the dashboard page to get fresh CSRF
+        r = session.get(dashboard_url, timeout=20)
+        print(f"  Dashboard {scanner_id} page status: {r.status_code}")
+
+        csrf = None
+        m = re.search(r'<meta name="csrf-token" content="([^"]+)"', r.text)
+        if m:
+            csrf = m.group(1)
+
+        # Try Atlas screener data API
+        for api_path in [
+            "/api/dashboard/screener-data",
+            "/atlas/screener-data",
+            "/dashboard/screener-data",
+        ]:
+            try:
+                api_resp = session.post(
+                    f"https://chartink.com{api_path}",
+                    json={"dashboard_id": scanner_id},
+                    headers={
+                        "X-CSRF-TOKEN": csrf or "",
+                        "X-Requested-With": "XMLHttpRequest",
+                        "Accept": "application/json",
+                        "Content-Type": "application/json",
+                        "Referer": dashboard_url,
+                    },
+                    timeout=20
+                )
+                if api_resp.status_code == 200:
+                    data = api_resp.json()
+                    print(f"  API {api_path} keys: {list(data.keys()) if isinstance(data, dict) else type(data)}")
+                    stocks = None
+                    if isinstance(data, dict):
+                        for key in ["data", "stocks", "results", "items", "screener_data"]:
+                            if key in data and isinstance(data[key], list):
+                                stocks = data[key]
+                                break
+                    if stocks:
+                        df = pd.DataFrame(stocks)
+                        print(f"  Columns: {list(df.columns)[:8]}")
+                        sym_col = normalise_symbol_column(df)
+                        symbols = df[sym_col].dropna().astype(str).str.strip().str.upper().tolist()
+                        symbols = [s for s in symbols if len(s) > 1 and s not in ["NAN","NONE"]]
+                        if symbols:
+                            print(f"  Scanner {scanner_id} (API): {len(symbols)} stocks → {symbols[:5]}")
+                            return symbols
+            except Exception as e:
+                print(f"  API {api_path} failed: {e}")
+
+    except Exception as e:
+        print(f"  Dashboard page fetch failed: {e}")
+
+    # --- Method 2: Parse HTML table directly from dashboard page ---
+    try:
+        r = session.get(dashboard_url, timeout=20)
+
+        # Look for stock symbols in JSON embedded in page (common in JS apps)
+        # Pattern: array of objects with symbol field
+        json_matches = re.findall(r'\{"symbol":"([A-Z&-]{2,20})"', r.text)
+        if not json_matches:
+            json_matches = re.findall(r'"symbol"\s*:\s*"([A-Z&-]{2,20})"', r.text)
+        if not json_matches:
+            # Try broader pattern for NSE symbols
+            json_matches = re.findall(r'"([A-Z]{2,15})"\s*,\s*[\d.]+\s*,\s*[\d.]+', r.text)
+
+        if json_matches:
+            symbols = list(dict.fromkeys(json_matches))  # deduplicate preserving order
+            print(f"  Scanner {scanner_id} (JSON in HTML): {len(symbols)} stocks → {symbols[:5]}")
+            return symbols
+
+        # Try HTML tables
+        tables = pd.read_html(r.text)
+        print(f"  HTML tables found: {len(tables)}")
+        for i, df in enumerate(tables):
+            print(f"    Table {i}: shape={df.shape}, cols={list(df.columns)[:6]}")
+            sym_col = normalise_symbol_column(df)
+            symbols = df[sym_col].dropna().astype(str).str.strip().str.upper().tolist()
+            symbols = [s for s in symbols if len(s) > 1
+                       and s not in ['SYMBOL', 'STOCK', 'NAME', 'TICKER', 'SCRIP', 'NAN']]
+            if len(symbols) > 0:
+                print(f"  Scanner {scanner_id} (HTML table {i}): {len(symbols)} stocks → {symbols[:5]}")
+                return symbols
+
+        # Last resort — dump page for debugging
+        print(f"  Page length: {len(r.text)} chars")
+        print(f"  Page snippet 1: {r.text[:500]}")
+        print(f"  Page snippet 2: {r.text[2000:2500]}")
+        # Check if we got redirected to login (not authenticated)
+        if "login" in r.url or "sign" in r.url.lower():
+            print(f"  WARNING: Redirected to login page — session not authenticated!")
+        elif r.status_code == 404:
+            print(f"  WARNING: 404 — dashboard ID {scanner_id} may be wrong or private")
+
+    except Exception as e:
+        print(f"  HTML fallback failed: {e}")
+
+    print(f"  Scanner {scanner_id}: returned 0 stocks")
+    return []
 
 def normalise_symbol_column(df):
     """Find the stock symbol column regardless of Chartink column naming."""
