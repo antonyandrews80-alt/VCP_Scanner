@@ -360,9 +360,10 @@ def main():
     print(f"{'='*50}\n")
 
     # Skip weekends
-    if now_ist.weekday() >= 5:
-        print("Weekend — no scan today.")
-        return
+   # Skip weekends — DISABLED for manual testing
+# if now_ist.weekday() >= 5:
+#     print("Weekend — no scan today.")
+#     return
 
     notify(f"VCP Scanner started — {now_ist.strftime('%d %b %Y %H:%M IST')}")
 
