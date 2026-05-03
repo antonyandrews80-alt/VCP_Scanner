@@ -29,10 +29,7 @@ CHARTINK_EMAIL      = os.environ.get("CHARTINK_EMAIL", "")
 CHARTINK_PASSWORD   = os.environ.get("CHARTINK_PASSWORD", "")
 CHARTINK_SCREEN1_ID = os.environ.get("CHARTINK_SCREEN1_ID", "")  # numeric ID from your scanner URL
 CHARTINK_SCREEN2_ID = os.environ.get("CHARTINK_SCREEN2_ID", "")
-CHARTINK_BREADTH_ID = os.environ.get("CHARTINK_BREADTH_ID", "")  # your A/D dashboard ID
-
 # Filter settings
-BREADTH_MARGIN              = 0
 TOP_N_PICKS                 = 2
 MAX_BASE_DEPTH_PCT          = 40
 MIN_RS_RISE_DAYS            = 50
@@ -127,23 +124,6 @@ def fetch_chartink_scanner(session, scanner_id):
         return []
 
 
-def fetch_chartink_breadth(session, breadth_id):
-    """Fetch MACD breadth advance/decline counts."""
-    try:
-        url = f"https://chartink.com/screener/{breadth_id}"
-        r = session.get(url, timeout=20)
-        tables = pd.read_html(r.text)
-        if tables:
-            df = tables[0]
-            # The breadth dashboard returns two rows: ADVANCE and DECLINE counts
-            # Try to parse numeric values
-            vals = df.select_dtypes(include=[np.number]).values.flatten()
-            vals = [v for v in vals if v > 0 and v < 5000]
-            if len(vals) >= 2:
-                return int(vals[0]), int(vals[1])
-    except Exception as e:
-        print(f"Breadth fetch error: {e}")
-    return None, None
 
 
 # ============================================================
@@ -243,7 +223,7 @@ def apply_filters(symbol, ind):
 # STEP 4 — CLAUDE AI SCORING
 # ============================================================
 
-def score_with_claude(symbol, ind, rules, advance, decline):
+def score_with_claude(symbol, ind, rules):
     """Score a stock setup using Claude API."""
     client = anthropic.Anthropic(api_key=CLAUDE_API_KEY)
     rules_text = "\n".join([
@@ -255,11 +235,6 @@ Score this NSE stock as a VCP breakout candidate. Return ONLY valid JSON, no oth
 Stock: {symbol}
 Date: {datetime.now(IST).strftime('%Y-%m-%d')}
 
-MARKET CONTEXT:
-  MACD Breadth Advance: {advance}
-  MACD Breadth Decline: {decline}
-  Ratio: {round(advance/max(decline,1),2)}x
-
 INDICATORS:
   Price: {round(ind['current_price'],2)} | SMA50: {round(ind['sma50'],2)} | SMA150: {round(ind['sma150'],2)} | SMA200: {round(ind['sma200'],2)}
   52W High: {round(ind['high_52w'],2)} | % from high: {ind['pct_from_high']}%
@@ -270,7 +245,7 @@ INDICATORS:
 MINERVINI RULES:
 {rules_text}
 
-SCORING WEIGHTS: VCP quality 35%, RS strength 25%, Volume pattern 20%, Breadth 20%
+SCORING WEIGHTS: VCP quality 40%, RS strength 30%, Volume pattern 30%
 
 Return ONLY this JSON:
 {{
@@ -279,7 +254,6 @@ Return ONLY this JSON:
   "vcp_quality_score": <0-35>,
   "rs_score": <0-25>,
   "volume_score": <0-20>,
-  "breadth_score": <0-20>,
   "entry_zone": "<e.g. 245-252>",
   "pivot_level": <float>,
   "stop_loss": <float>,
@@ -309,21 +283,9 @@ Return ONLY this JSON:
 # STEP 5 — FORMAT TELEGRAM PICK MESSAGE
 # ============================================================
 
-def format_picks_message(picks, advance, decline):
+def format_picks_message(picks):
     today = datetime.now(IST).strftime('%d %b %Y')
-    ratio = round(advance / max(decline, 1), 1)
-
-    if ratio >= 3:
-        strength = "STRONG GO — breadth thrust"
-    elif ratio >= 1.5:
-        strength = "GO — internals positive"
-    else:
-        strength = "WEAK GO — smaller size"
-
     msg = f"""<b>VCP Daily Picks — {today}</b>
-
-<b>Market Breadth:</b> {strength}
-Advance: {advance} | Decline: {decline} | Ratio: {ratio}x
 
 """
     for i, p in enumerate(picks, 1):
@@ -344,7 +306,7 @@ Why: {p['why_this_stock']}
 Risk: {p['key_risk']}
 
 """
-    msg += """<i>System: Minervini VCP + MACD Breadth + Claude AI</i>
+    msg += """<i>System: Minervini VCP + Claude AI</i>
 <i>Hard stop -7% from entry. No exceptions.</i>"""
     return msg
 
@@ -359,11 +321,10 @@ def main():
     print(f"VCP Scanner starting at {now_ist.strftime('%Y-%m-%d %H:%M IST')}")
     print(f"{'='*50}\n")
 
-    # Skip weekends
-   # Skip weekends — DISABLED for manual testing
-# if now_ist.weekday() >= 5:
-#     print("Weekend — no scan today.")
-#     return
+    # Skip weekends — DISABLED for manual testing
+    # if now_ist.weekday() >= 5:
+    #     print("Weekend — no scan today.")
+    #     return
 
     notify(f"VCP Scanner started — {now_ist.strftime('%d %b %Y %H:%M IST')}")
 
@@ -385,27 +346,6 @@ def main():
     symbols_s2 = set(fetch_chartink_scanner(session, CHARTINK_SCREEN2_ID))
     print(f"Screen 2: {len(symbols_s2)} stocks")
 
-    # --- Fetch Breadth ---
-    print("Fetching breadth data...")
-    advance, decline = fetch_chartink_breadth(session, CHARTINK_BREADTH_ID)
-
-    if advance is None or decline is None:
-        notify("Could not fetch breadth data automatically. Please check CHARTINK_BREADTH_ID.")
-        return
-
-    print(f"Breadth: Advance={advance}, Decline={decline}")
-
-    # --- Breadth Gate ---
-    if advance <= (decline + BREADTH_MARGIN):
-        msg = f"""<b>VCP Scanner — {now_ist.strftime('%d %b %Y')}</b>
-
-NO-GO: Market breadth negative
-Advance: {advance} | Decline: {decline}
-
-No new trades today. Tighten stops on existing positions."""
-        send_telegram(msg)
-        print("Breadth gate failed — no picks today.")
-        return
 
     # --- Candidate stocks ---
     intersection = symbols_s1.intersection(symbols_s2)
@@ -466,7 +406,7 @@ No new trades today. Tighten stops on existing positions."""
     for item in shortlist:
         sym = item['symbol']
         print(f"  Scoring {sym}...", end=' ')
-        result = score_with_claude(sym, item['indicators'], item['rules'], advance, decline)
+        result = score_with_claude(sym, item['indicators'], item['rules'])
         if result:
             result['rule_score'] = item['rule_score']
             scored.append(result)
@@ -505,7 +445,7 @@ No new trades today. Tighten stops on existing positions."""
 
     # --- Send to Telegram ---
     print("\nSending picks to Telegram...")
-    message = format_picks_message(final_picks, advance, decline)
+    message = format_picks_message(final_picks)
     result = send_telegram(message)
 
     if result.get('ok'):
