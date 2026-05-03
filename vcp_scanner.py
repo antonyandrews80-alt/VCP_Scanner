@@ -28,8 +28,8 @@ TELEGRAM_TOKEN      = os.environ.get("TELEGRAM_TOKEN", "")
 TELEGRAM_CHAT_ID    = os.environ.get("TELEGRAM_CHAT_ID", "")
 CHARTINK_EMAIL      = os.environ.get("CHARTINK_EMAIL", "")
 CHARTINK_PASSWORD   = os.environ.get("CHARTINK_PASSWORD", "")
-CHARTINK_SCREEN1_ID = os.environ.get("CHARTINK_SCREEN1_ID", "")
-CHARTINK_SCREEN2_ID = os.environ.get("CHARTINK_SCREEN2_ID", "")
+CHARTINK_SCREEN1_ID = os.environ.get("CHARTINK_SCREEN1_ID", "")  # numeric ID from dashboard URL e.g. 441909
+CHARTINK_SCREEN2_ID = os.environ.get("CHARTINK_SCREEN2_ID", "")  # numeric ID from dashboard URL e.g. 441910
 
 # Filter settings — match Colab exactly
 TOP_N_PICKS                 = 2
@@ -107,62 +107,60 @@ def normalise_symbol_column(df):
 
 def fetch_chartink_scanner(session, scanner_id):
     """
-    Fetch scanner results from Chartink.
-    Tries the JSON API endpoint first (more reliable),
-    falls back to HTML table parsing.
+    Fetch scanner results from a Chartink dashboard.
+    URL format: https://chartink.com/dashboard/<scanner_id>
+    Uses Chartink's dashboard data API to get stock symbols.
     """
-    # --- Try JSON API first (Chartink's internal scan API) ---
+    # --- Try dashboard data API (JSON) ---
     try:
-        api_url = "https://chartink.com/screener/process"
-        # We need the scan_clause from the screener page
-        page_url = f"https://chartink.com/screener/{scanner_id}"
-        r = session.get(page_url, timeout=20)
-        print(f"  Scanner {scanner_id} page status: {r.status_code}")
+        dashboard_url = f"https://chartink.com/dashboard/{scanner_id}"
+        r = session.get(dashboard_url, timeout=20)
+        print(f"  Scanner {scanner_id} dashboard status: {r.status_code}")
 
-        # Extract scan clause from the page
-        scan_clause = None
-        clause_match = re.search(
-            r'var\s+scan_clause\s*=\s*["\'](.+?)["\']', r.text
+        # Extract CSRF token from dashboard page
+        csrf = None
+        m = re.search(r'<meta name="csrf-token" content="([^"]+)"', r.text)
+        if m:
+            csrf = m.group(1)
+
+        # Try dashboard stocks API endpoint
+        api_resp = session.post(
+            "https://chartink.com/dashboard/get-data",
+            data={"dashboard_id": scanner_id},
+            headers={
+                "X-CSRF-TOKEN": csrf or "",
+                "X-Requested-With": "XMLHttpRequest",
+                "Referer": dashboard_url,
+            },
+            timeout=20
         )
-        if clause_match:
-            scan_clause = clause_match.group(1)
+        print(f"  Dashboard API status: {api_resp.status_code}")
 
-        if not scan_clause:
-            # Try alternate extraction
-            clause_match = re.search(
-                r'"scan_clause"\s*:\s*"(.+?)"', r.text
-            )
-            if clause_match:
-                scan_clause = clause_match.group(1)
-
-        if scan_clause:
-            csrf = None
-            m = re.search(r'<meta name="csrf-token" content="([^"]+)"', r.text)
-            if m:
-                csrf = m.group(1)
-
-            api_resp = session.post(
-                api_url,
-                data={"scan_clause": scan_clause},
-                headers={"X-CSRF-TOKEN": csrf or "", "X-Requested-With": "XMLHttpRequest"},
-                timeout=20
-            )
+        try:
             data = api_resp.json()
-            if "data" in data:
-                df = pd.DataFrame(data["data"])
+            print(f"  Dashboard API response keys: {list(data.keys()) if isinstance(data, dict) else type(data)}")
+            # Try common response structures
+            stocks = None
+            if isinstance(data, dict):
+                stocks = data.get("data") or data.get("stocks") or data.get("results") or data.get("items")
+            if isinstance(stocks, list) and len(stocks) > 0:
+                df = pd.DataFrame(stocks)
+                print(f"  Dashboard data columns: {list(df.columns)[:8]}")
                 sym_col = normalise_symbol_column(df)
-                symbols = df[sym_col].dropna().str.strip().str.upper().tolist()
-                symbols = [s for s in symbols if len(s) > 1]
-                print(f"  Scanner {scanner_id} (API): {len(symbols)} stocks")
+                symbols = df[sym_col].dropna().astype(str).str.strip().str.upper().tolist()
+                symbols = [s for s in symbols if len(s) > 1 and s not in ["NAN", "NONE"]]
+                print(f"  Scanner {scanner_id} (dashboard API): {len(symbols)} stocks")
                 return symbols
+        except Exception as e:
+            print(f"  Dashboard API JSON parse failed: {e}")
 
     except Exception as e:
-        print(f"  Scanner {scanner_id} API attempt failed: {e}")
+        print(f"  Scanner {scanner_id} dashboard attempt failed: {e}")
 
-    # --- Fallback: parse HTML table ---
+    # --- Fallback: parse HTML tables from dashboard page ---
     try:
-        page_url = f"https://chartink.com/screener/{scanner_id}"
-        r = session.get(page_url, timeout=20)
+        dashboard_url = f"https://chartink.com/dashboard/{scanner_id}"
+        r = session.get(dashboard_url, timeout=20)
         tables = pd.read_html(r.text)
         print(f"  Scanner {scanner_id} HTML tables found: {len(tables)}")
         for i, df in enumerate(tables):
@@ -175,7 +173,7 @@ def fetch_chartink_scanner(session, scanner_id):
                 print(f"  Scanner {scanner_id} (HTML table {i}): {len(symbols)} stocks → {symbols[:5]}")
                 return symbols
     except Exception as e:
-        print(f"  Scanner {scanner_id} HTML parse failed: {e}")
+        print(f"  Scanner {scanner_id} HTML fallback failed: {e}")
 
     print(f"  Scanner {scanner_id}: returned 0 stocks")
     return []
