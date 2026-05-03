@@ -8,6 +8,9 @@ on:
   # Also allows manual trigger from GitHub Actions tab
   workflow_dispatch:
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   run-scanner:
     runs-on: ubuntu-latest
@@ -40,7 +43,6 @@ jobs:
           CHARTINK_PASSWORD:    ${{ secrets.CHARTINK_PASSWORD }}
           CHARTINK_SCREEN1_ID:  ${{ secrets.CHARTINK_SCREEN1_ID }}
           CHARTINK_SCREEN2_ID:  ${{ secrets.CHARTINK_SCREEN2_ID }}
-          CHARTINK_BREADTH_ID:  ${{ secrets.CHARTINK_BREADTH_ID }}
         run: |
           python vcp_scanner.py
 
