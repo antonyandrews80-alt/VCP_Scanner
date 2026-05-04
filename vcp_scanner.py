@@ -18,6 +18,7 @@ import pandas as pd
 import numpy as np
 import yfinance as yf
 import anthropic
+import urllib.request
 from datetime import datetime, timedelta
 import pytz
 
@@ -361,35 +362,120 @@ def main():
     sector_map  = {s['symbol']: s['sector'] for s in stocks}
     source_map  = {s['symbol']: s['source'] for s in stocks}
 
+    # --- Fetch price data using NSE India API ---
+    def fetch_nse_data(symbol, days=365):
+        """
+        Fetch historical OHLCV data from NSE India API.
+        More reliable than yfinance for Indian stocks in CI/CD environments.
+        """
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
+            'Accept': 'application/json',
+            'Accept-Language': 'en-US,en;q=0.9',
+            'Referer': 'https://www.nseindia.com/',
+        }
+        session = requests.Session()
+        session.headers.update(headers)
+
+        try:
+            # Hit homepage first to get cookies
+            session.get('https://www.nseindia.com', timeout=10)
+            time.sleep(0.5)
+
+            end_date   = datetime.now(IST)
+            start_date = end_date - timedelta(days=days)
+            url = (
+                f"https://www.nseindia.com/api/historical/cm/equity"
+                f"?symbol={symbol}"
+                f"&series=[%22EQ%22]"
+                f"&from={start_date.strftime('%d-%m-%Y')}"
+                f"&to={end_date.strftime('%d-%m-%Y')}"
+            )
+            r = session.get(url, timeout=15)
+            data = r.json()
+
+            rows = data.get('data', [])
+            if not rows:
+                return None
+
+            df = pd.DataFrame(rows)
+            df['Date']   = pd.to_datetime(df['CH_TIMESTAMP'])
+            df['Open']   = pd.to_numeric(df['CH_OPENING_PRICE'],  errors='coerce')
+            df['High']   = pd.to_numeric(df['CH_TRADE_HIGH_PRICE'], errors='coerce')
+            df['Low']    = pd.to_numeric(df['CH_TRADE_LOW_PRICE'],  errors='coerce')
+            df['Close']  = pd.to_numeric(df['CH_CLOSING_PRICE'],    errors='coerce')
+            df['Volume'] = pd.to_numeric(df['CH_TOT_TRADED_QTY'],   errors='coerce')
+            df = df.set_index('Date').sort_index()
+            df = df[['Open','High','Low','Close','Volume']].dropna()
+            return df
+
+        except Exception as e:
+            print(f"    NSE API error for {symbol}: {e}")
+            return None
+
+    def fetch_yf_data(symbol):
+        """Fallback: fetch via yfinance with retry."""
+        for suffix in ['.NS', '.BO']:
+            try:
+                raw = yf.download(
+                    symbol + suffix, period='1y', interval='1d',
+                    progress=False, auto_adjust=True, timeout=30
+                )
+                if len(raw) >= 30:
+                    raw.columns = [c[0] if isinstance(c, tuple) else c for c in raw.columns]
+                    return raw
+            except Exception:
+                pass
+        return None
+
     # --- Fetch Nifty 50 ---
-    print("\nFetching Nifty 50...")
-    nifty = yf.download('^NSEI', period='1y', interval='1d', progress=False, auto_adjust=True)
-    nifty.columns = [c[0] if isinstance(c, tuple) else c for c in nifty.columns]
-    print(f"Nifty: {len(nifty)} days")
+    print("\nFetching Nifty 50 index data...")
+    nifty = None
+    try:
+        nifty_raw = fetch_nse_data('NIFTY 50'.replace(' ','%20'), days=400)
+        if nifty_raw is not None and len(nifty_raw) >= 30:
+            nifty = nifty_raw
+            print(f"  Nifty (NSE API): {len(nifty)} days")
+    except Exception as e:
+        print(f"  NSE API for Nifty failed: {e}")
+
+    if nifty is None or len(nifty) < 30:
+        print("  Trying yfinance for Nifty...")
+        try:
+            raw = yf.download('^NSEI', period='1y', interval='1d', progress=False, auto_adjust=True, timeout=30)
+            raw.columns = [c[0] if isinstance(c, tuple) else c for c in raw.columns]
+            if len(raw) >= 30:
+                nifty = raw
+                print(f"  Nifty (yfinance): {len(nifty)} days")
+        except Exception as e:
+            print(f"  yfinance Nifty failed: {e}")
+
+    if nifty is None or len(nifty) < 30:
+        print("  WARNING: No Nifty data — RS scores will be skipped")
+        nifty = pd.DataFrame(columns=['Open','High','Low','Close','Volume'])
 
     # --- Fetch stock data ---
     print(f"\nFetching price data for {len(candidates)} stocks...")
     stock_data = {}
     for sym in candidates:
         df = None
-        # Try NSE first, then BSE as fallback
-        for suffix in ['.NS', '.BO']:
-            try:
-                raw = yf.download(sym + suffix, period='1y', interval='1d', progress=False, auto_adjust=True)
-                if len(raw) >= 30:
-                    raw.columns = [c[0] if isinstance(c, tuple) else c for c in raw.columns]
-                    df = raw
-                    print(f"  {sym}: {len(df)} days OK ({suffix})")
-                    break
-                else:
-                    print(f"  {sym}{suffix}: only {len(raw)} days")
-            except Exception as e:
-                print(f"  {sym}{suffix}: error — {e}")
-        if df is None:
-            print(f"  {sym}: no data from NSE or BSE — skipping")
+
+        # Method 1: NSE API
+        df = fetch_nse_data(sym)
+        if df is not None and len(df) >= 30:
+            print(f"  {sym}: {len(df)} days OK (NSE API)")
         else:
+            # Method 2: yfinance fallback
+            df = fetch_yf_data(sym)
+            if df is not None and len(df) >= 30:
+                print(f"  {sym}: {len(df)} days OK (yfinance)")
+            else:
+                print(f"  {sym}: no data — skipping")
+                df = None
+
+        if df is not None:
             stock_data[sym] = df
-        time.sleep(0.3)
+        time.sleep(0.8)
 
     if not stock_data:
         tried = ', '.join(candidates)
