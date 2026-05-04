@@ -66,69 +66,76 @@ def notify(msg):
 
 def load_csv():
     """
-    Load stocks from today's Chartink combined CSV.
+    Load all stocks from today's combined Chartink CSV.
     Filename: YYYY-MM-DD_All_Scans.csv
+    Processes ALL stocks across all scanner sources.
     Falls back up to 4 days to handle weekends/holidays.
-    Deduplicates symbols, picks best sector info available.
-    Returns list of dicts with 'symbol' and 'sector'.
+    Returns list of dicts with symbol, sector, source.
     """
     now_ist = datetime.now(IST)
 
     for days_back in range(5):
         date_str = (now_ist - timedelta(days=days_back)).strftime('%Y-%m-%d')
+        filename = f"{date_str}_All_Scans.csv"
 
-        # Support both filename formats
-        for filename in [f"{date_str}_All_Scans.csv", f"{date_str}_Screener_1.csv"]:
-            for path in [filename, f"data/{filename}", f"csv/{filename}"]:
-                if os.path.exists(path):
-                    print(f"  Loading: {path}")
-                    df = pd.read_csv(path, encoding='utf-8-sig')
-                    df.columns = [c.strip() for c in df.columns]
-                    print(f"  Columns: {list(df.columns)}")
-                    print(f"  Rows: {len(df)}")
+        for path in [filename, f"data/{filename}", f"csv/{filename}"]:
+            if os.path.exists(path):
+                print(f"  Loading: {path}")
+                df = pd.read_csv(path, encoding='utf-8-sig')
+                df.columns = [c.strip() for c in df.columns]
+                print(f"  Columns: {list(df.columns)}")
+                print(f"  Total rows: {len(df)}")
 
-                    # Find key columns
-                    sym_col = next(
-                        (c for c in df.columns if c.lower() in ['symbol','stock','ticker','scrip']),
-                        df.columns[1]
-                    )
-                    # Sector can be in 'Sector', 'Sectors', or 'sectors' column
-                    sec_col = next(
-                        (c for c in df.columns if c.lower() in ['sector','sectors','industry']),
-                        None
-                    )
-                    # Scanner source column to log where each stock came from
-                    src_col = next(
-                        (c for c in df.columns if c.lower() in ['scanner_source','source','screener']),
-                        None
-                    )
+                # Show scanner sources
+                if 'Scanner_Source' in df.columns:
+                    print(f"  Sources: {df['Scanner_Source'].value_counts().to_dict()}")
 
-                    # Build deduplicated stock list
-                    seen = {}
-                    for _, row in df.iterrows():
-                        sym = str(row[sym_col]).strip().upper()
-                        if len(sym) < 2 or sym in ['NAN', 'SYMBOL', 'NONE']:
-                            continue
-                        # Get sector — try both sector columns
-                        sec = 'NSE'
-                        if sec_col:
-                            val = str(row[sec_col]).strip()
-                            if val and val.lower() not in ['nan','none','']:
-                                sec = val
-                        # If this symbol seen before, keep version with better sector info
-                        if sym not in seen or seen[sym]['sector'] == 'NSE':
-                            src = str(row[src_col]).strip() if src_col else ''
-                            seen[sym] = {'symbol': sym, 'sector': sec, 'source': src}
+                # Find symbol column
+                sym_col = next(
+                    (c for c in df.columns if c.lower() in ['symbol','stock','ticker','scrip']),
+                    df.columns[1]
+                )
 
-                    stocks = list(seen.values())
-                    print(f"  Loaded {len(stocks)} unique stocks:")
-                    for s in stocks:
-                        print(f"    {s['symbol']} [{s['sector']}] — {s['source']}")
-                    return stocks, date_str
+                # Sector data is split: 'Sector' for some rows, 'Sectors' for others
+                sec_col1 = next((c for c in df.columns if c.strip().lower() == 'sector'), None)
+                sec_col2 = next((c for c in df.columns if c.strip().lower() == 'sectors'), None)
+
+                # Build deduplicated stock list (keep first occurrence of each symbol)
+                seen = {}
+                for _, row in df.iterrows():
+                    sym = str(row[sym_col]).strip().upper()
+                    # Clean symbol for yfinance (remove hyphens)
+                    sym_clean = sym.replace('-', '').replace('&', 'AND')
+                    if len(sym_clean) < 2 or sym_clean in ['NAN', 'SYMBOL', 'NONE']:
+                        continue
+
+                    # Get sector from whichever column has a value
+                    sec = 'NSE'
+                    for sc in [sec_col1, sec_col2]:
+                        if sc and sc in row:
+                            val = str(row[sc]).strip()
+                            if val and val.lower() not in ['nan', 'none', '']:
+                                sec = val.capitalize()
+                                break
+
+                    src = str(row.get('Scanner_Source', '')).strip()
+
+                    if sym_clean not in seen:
+                        seen[sym_clean] = {
+                            'symbol': sym_clean,
+                            'original': sym,
+                            'sector': sec,
+                            'source': src
+                        }
+
+                stocks = list(seen.values())
+                print(f"  Loaded {len(stocks)} unique stocks:")
+                for s in stocks:
+                    print(f"    {s['symbol']} | {s['sector']} | {s['source']}")
+                return stocks, date_str
 
     print("  No CSV file found in last 5 days")
     return [], None
-
 
 # ============================================================
 # STEP 3 — TECHNICAL INDICATORS
@@ -350,8 +357,9 @@ def main():
         return
 
     print(f"\nCSV date: {csv_date} | Stocks: {len(stocks)}")
-    candidates = [s['symbol'] for s in stocks]
-    sector_map = {s['symbol']: s['sector'] for s in stocks}
+    candidates  = [s['symbol'] for s in stocks]
+    sector_map  = {s['symbol']: s['sector'] for s in stocks}
+    source_map  = {s['symbol']: s['source'] for s in stocks}
 
     # --- Fetch Nifty 50 ---
     print("\nFetching Nifty 50...")
