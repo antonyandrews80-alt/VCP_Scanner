@@ -312,9 +312,13 @@ def format_picks_message(picks):
         rr = round(
             (p['target_20pct'] - p['pivot_level']) / max(p['pivot_level'] - p['stop_loss'], 1), 1
         )
+        # Escape < and > in text fields to avoid Telegram HTML parse errors
+        why  = str(p['why_this_stock']).replace('<','&lt;').replace('>','&gt;')
+        risk = str(p['key_risk']).replace('<','&lt;').replace('>','&gt;')
+        entry = str(p['entry_zone']).replace('<','&lt;').replace('>','&gt;')
         msg += f"""<b>Pick {i}: {p['symbol']}</b> [{p.get('sector','NSE')}]
 Score: {p['score']}/100 | Stage: {p['vcp_stage'].upper()} VCP
-Entry zone : {p['entry_zone']}
+Entry zone : {entry}
 Pivot level: {p['pivot_level']}
 Stop loss  : {p['stop_loss']} (-7%)
 Target 10% : {p['target_10pct']}
@@ -322,8 +326,8 @@ Target 20% : {p['target_20pct']}
 Target 30% : {p['target_30pct']}
 Hold est.  : {p['hold_days_estimate']} days | R:R 1:{rr}
 
-Why: {p['why_this_stock']}
-Risk: {p['key_risk']}
+Why: {why}
+Risk: {risk}
 
 """
     msg += "<i>System: Minervini VCP + Claude AI</i>\n"
