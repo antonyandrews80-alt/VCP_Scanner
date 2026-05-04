@@ -31,7 +31,7 @@ TELEGRAM_TOKEN   = os.environ.get("TELEGRAM_TOKEN", "")
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "")
 
 # Filter settings
-TOP_N_PICKS                = 2
+TOP_N_PICKS                = 10
 MAX_BASE_DEPTH_PCT         = 40
 MIN_RS_RISE_DAYS           = 50
 BREAKOUT_VOLUME_MULTIPLIER = 2.0
