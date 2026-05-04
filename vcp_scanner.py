@@ -305,34 +305,78 @@ Return ONLY this JSON (no markdown, no explanation):
 # STEP 5 — FORMAT TELEGRAM MESSAGE
 # ============================================================
 
-def format_picks_message(picks):
-    today = datetime.now(IST).strftime('%d %b %Y')
-    msg = f"<b>VCP Daily Picks — {today}</b>\n\n"
-    for i, p in enumerate(picks, 1):
-        rr = round(
-            (p['target_20pct'] - p['pivot_level']) / max(p['pivot_level'] - p['stop_loss'], 1), 1
-        )
-        # Escape < and > in text fields to avoid Telegram HTML parse errors
-        why  = str(p['why_this_stock']).replace('<','&lt;').replace('>','&gt;')
-        risk = str(p['key_risk']).replace('<','&lt;').replace('>','&gt;')
-        entry = str(p['entry_zone']).replace('<','&lt;').replace('>','&gt;')
-        msg += f"""<b>Pick {i}: {p['symbol']}</b> [{p.get('sector','NSE')}]
-Score: {p['score']}/100 | Stage: {p['vcp_stage'].upper()} VCP
-Entry zone : {entry}
-Pivot level: {p['pivot_level']}
-Stop loss  : {p['stop_loss']} (-7%)
-Target 10% : {p['target_10pct']}
-Target 20% : {p['target_20pct']}
-Target 30% : {p['target_30pct']}
-Hold est.  : {p['hold_days_estimate']} days | R:R 1:{rr}
+def score_bar(score):
+    """Visual score bar out of 10 blocks."""
+    filled = round(score / 10)
+    return "█" * filled + "░" * (10 - filled)
 
-Why: {why}
-Risk: {risk}
+def format_header(today, total_picks, total_passed):
+    """Send a clean header message first."""
+    return (
+        f"┌─────────────────────────────┐\n"
+        f"│  📊 <b>VCP SCANNER REPORT</b>       │\n"
+        f"│  📅 {today:<24}│\n"
+        f"│  ✅ {total_passed} passed filters          │\n"
+        f"│  🏆 {total_picks} top picks selected      │\n"
+        f"└─────────────────────────────┘\n"
+        f"\n<i>Minervini VCP + Claude AI scoring</i>"
+    )
 
-"""
-    msg += "<i>System: Minervini VCP + Claude AI</i>\n"
-    msg += "<i>Hard stop -7% from entry. No exceptions.</i>"
+def format_pick_message(pick, rank, total):
+    """Format a single stock pick as a clean Telegram message."""
+    rr = round(
+        (pick['target_20pct'] - pick['pivot_level']) / max(pick['pivot_level'] - pick['stop_loss'], 1), 1
+    )
+    why  = str(pick['why_this_stock']).replace('<','&lt;').replace('>','&gt;')
+    risk = str(pick['key_risk']).replace('<','&lt;').replace('>','&gt;')
+    entry = str(pick['entry_zone']).replace('<','&lt;').replace('>','&gt;')
+    score = pick['score']
+    stage = pick['vcp_stage'].upper()
+    sector = pick.get('sector', 'NSE').title()
+
+    # Stage emoji
+    stage_emoji = {"EARLY": "🌱", "MID": "📈", "LATE": "🔥"}.get(stage, "📊")
+
+    # Score colour indicator
+    if score >= 80:
+        score_icon = "🟢"
+    elif score >= 65:
+        score_icon = "🟡"
+    else:
+        score_icon = "🔴"
+
+    msg = (
+        f"━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
+        f"{score_icon} <b>#{rank} {pick['symbol']}</b>  |  {stage_emoji} {stage} VCP\n"
+        f"📂 {sector}\n"
+        f"━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
+        f"\n"
+        f"<b>Score:</b>  {score}/100  {score_bar(score)}\n"
+        f"\n"
+        f"<b>💰 Trade Setup</b>\n"
+        f"  Entry Zone  : ₹{entry}\n"
+        f"  Pivot Level : ₹{pick['pivot_level']}\n"
+        f"  Stop Loss   : ₹{pick['stop_loss']}  🛑 (-7%)\n"
+        f"\n"
+        f"<b>🎯 Targets</b>\n"
+        f"  +10% → ₹{pick['target_10pct']}\n"
+        f"  +20% → ₹{pick['target_20pct']}\n"
+        f"  +30% → ₹{pick['target_30pct']}\n"
+        f"\n"
+        f"<b>⏱ Hold:</b> ~{pick['hold_days_estimate']} days  |  <b>R:R</b> 1:{rr}\n"
+        f"\n"
+        f"<b>💡 Why:</b> {why}\n"
+        f"<b>⚠️ Risk:</b> {risk}\n"
+    )
     return msg
+
+def format_footer(total_picks):
+    return (
+        f"━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
+        f"<i>🤖 Powered by Minervini VCP + Claude AI</i>\n"
+        f"<i>🛑 Hard stop -7% from entry. No exceptions.</i>\n"
+        f"<i>📌 Do your own research before trading.</i>"
+    )
 
 
 # ============================================================
@@ -345,7 +389,7 @@ def main():
     print(f"VCP Scanner starting at {now_ist.strftime('%Y-%m-%d %H:%M IST')}")
     print(f"{'='*50}\n")
 
-    notify(f"VCP Scanner started — {now_ist.strftime('%d %b %Y %H:%M IST')}")
+    notify(f"🔍 <b>VCP Scanner</b> started\n📅 {now_ist.strftime('%d %b %Y')}&nbsp; ⏰ {now_ist.strftime('%H:%M IST')}")
 
     # --- Load stocks from CSV ---
     print("Loading Chartink CSV...")
@@ -353,9 +397,9 @@ def main():
 
     if not stocks:
         send_telegram(
-            f"<b>VCP Scanner — {now_ist.strftime('%d %b %Y')}</b>\n\n"
+            f"⚠️ <b>VCP Scanner — {now_ist.strftime('%d %b %Y')}</b>\n\n"
             f"No CSV file found in repo.\n"
-            f"Please push <code>YYYY-MM-DD_Screener_1.csv</code> to the repo before running."
+            f"Please run <code>github_push.py</code> to upload today's Chartink data."
         )
         return
 
@@ -433,10 +477,9 @@ def main():
     if not shortlist:
         checked = len(stock_data)
         send_telegram(
-            f"<b>VCP Scanner — {now_ist.strftime('%d %b %Y')}</b>\n\n"
-            f"Checked {checked} stocks from Screener 1.\n"
-            f"No stocks passed all Minervini filters today.\n\n"
-            f"<i>Try again on next trading day.</i>"
+            f"📉 <b>VCP Scanner — {now_ist.strftime('%d %b %Y')}</b>\n\n"
+            f"Checked <b>{checked}</b> stocks — none passed Minervini filters today.\n\n"
+            f"<i>Market may be in a weak phase. Check again tomorrow.</i>"
         )
         return
 
@@ -481,13 +524,26 @@ def main():
 
     print(f"\nFinal {len(final_picks)} picks: {[p['symbol'] for p in final_picks]}")
 
-    # --- Send to Telegram ---
-    message = format_picks_message(final_picks)
-    result = send_telegram(message)
-    if result.get('ok'):
-        print("Picks sent to Telegram!")
-    else:
-        print(f"Telegram send failed: {result}")
+    # --- Send to Telegram — one message per stock + header/footer ---
+    today = datetime.now(IST).strftime('%d %b %Y')
+
+    # 1. Send header
+    header = format_header(today, len(final_picks), len(shortlist))
+    r = send_telegram(header)
+    print(f"Header sent: {r.get('ok')}")
+    time.sleep(0.8)
+
+    # 2. Send each pick as individual message
+    for rank, pick in enumerate(final_picks, 1):
+        msg = format_pick_message(pick, rank, len(final_picks))
+        r = send_telegram(msg)
+        print(f"Pick {rank} ({pick['symbol']}) sent: {r.get('ok')}")
+        time.sleep(0.8)
+
+    # 3. Send footer
+    footer = format_footer(len(final_picks))
+    r = send_telegram(footer)
+    print(f"Footer sent: {r.get('ok')}")
 
     print(f"\nDone at {datetime.now(IST).strftime('%H:%M IST')}")
     print("=" * 50)
