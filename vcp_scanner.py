@@ -363,22 +363,33 @@ def main():
     print(f"\nFetching price data for {len(candidates)} stocks...")
     stock_data = {}
     for sym in candidates:
-        try:
-            df = yf.download(sym + '.NS', period='1y', interval='1d', progress=False, auto_adjust=True)
-            if len(df) >= 50:
-                df.columns = [c[0] if isinstance(c, tuple) else c for c in df.columns]
-                stock_data[sym] = df
-                print(f"  {sym}: {len(df)} days OK")
-            else:
-                print(f"  {sym}: only {len(df)} days — skipping")
-        except Exception as e:
-            print(f"  {sym}: fetch failed — {e}")
+        df = None
+        # Try NSE first, then BSE as fallback
+        for suffix in ['.NS', '.BO']:
+            try:
+                raw = yf.download(sym + suffix, period='1y', interval='1d', progress=False, auto_adjust=True)
+                if len(raw) >= 30:
+                    raw.columns = [c[0] if isinstance(c, tuple) else c for c in raw.columns]
+                    df = raw
+                    print(f"  {sym}: {len(df)} days OK ({suffix})")
+                    break
+                else:
+                    print(f"  {sym}{suffix}: only {len(raw)} days")
+            except Exception as e:
+                print(f"  {sym}{suffix}: error — {e}")
+        if df is None:
+            print(f"  {sym}: no data from NSE or BSE — skipping")
+        else:
+            stock_data[sym] = df
         time.sleep(0.3)
 
     if not stock_data:
+        tried = ', '.join(candidates)
         send_telegram(
             f"<b>VCP Scanner — {now_ist.strftime('%d %b %Y')}</b>\n\n"
-            f"Could not fetch price data for any stock.\nCheck yfinance connectivity."
+            f"Could not fetch price data for any stock.\n"
+            f"Stocks tried: {tried}\n"
+            f"This may happen if symbols are not listed on NSE or yfinance returned no data."
         )
         return
 
