@@ -64,13 +64,6 @@ def notify(msg):
 # ============================================================
 
 def load_csv():
-    """
-    Load all stocks from today's combined Chartink CSV.
-    Filename: YYYY-MM-DD_All_Scans.csv
-    Processes ALL stocks across all scanner sources.
-    Falls back up to 4 days to handle weekends/holidays.
-    Returns list of dicts with symbol, sector, source.
-    """
     now_ist = datetime.now(IST)
 
     for days_back in range(5):
@@ -85,30 +78,24 @@ def load_csv():
                 print(f"  Columns: {list(df.columns)}")
                 print(f"  Total rows: {len(df)}")
 
-                # Show scanner sources
                 if 'Scanner_Source' in df.columns:
                     print(f"  Sources: {df['Scanner_Source'].value_counts().to_dict()}")
 
-                # Find symbol column
                 sym_col = next(
                     (c for c in df.columns if c.lower() in ['symbol','stock','ticker','scrip']),
                     df.columns[1]
                 )
 
-                # Sector data is split: 'Sector' for some rows, 'Sectors' for others
                 sec_col1 = next((c for c in df.columns if c.strip().lower() == 'sector'), None)
                 sec_col2 = next((c for c in df.columns if c.strip().lower() == 'sectors'), None)
 
-                # Build deduplicated stock list (keep first occurrence of each symbol)
                 seen = {}
                 for _, row in df.iterrows():
                     sym = str(row[sym_col]).strip().upper()
-                    # Clean symbol for yfinance (remove hyphens)
                     sym_clean = sym.replace('-', '').replace('&', 'AND')
                     if len(sym_clean) < 2 or sym_clean in ['NAN', 'SYMBOL', 'NONE']:
                         continue
 
-                    # Get sector from whichever column has a value
                     sec = 'NSE'
                     for sc in [sec_col1, sec_col2]:
                         if sc and sc in row:
@@ -142,21 +129,18 @@ def load_csv():
 # ============================================================
 
 def compute_indicators(df, nifty_df):
-    """Compute all Minervini indicators — matches Colab exactly."""
     d = {}
     close  = df['Close'].squeeze()
     volume = df['Volume'].squeeze()
     high   = df['High'].squeeze()
     low    = df['Low'].squeeze()
 
-    # Moving averages
     d['sma50']          = close.rolling(50).mean().iloc[-1]
     d['sma150']         = close.rolling(150).mean().iloc[-1]
     d['sma200']         = close.rolling(200).mean().iloc[-1]
     d['sma200_20d_ago'] = close.rolling(200).mean().iloc[-20]
     d['current_price']  = close.iloc[-1]
 
-    # Stage 2 MA stack
     d['ma_stack_ok'] = (
         d['current_price'] > d['sma50'] and
         d['sma50']  > d['sma150'] and
@@ -164,7 +148,6 @@ def compute_indicators(df, nifty_df):
         d['sma200'] > d['sma200_20d_ago']
     )
 
-    # 52-week metrics
     d['high_52w']       = high.iloc[-252:].max() if len(high) >= 252 else high.max()
     d['low_52w']        = low.iloc[-252:].min()  if len(low)  >= 252 else low.min()
     d['base_depth_pct'] = round((d['high_52w'] - d['low_52w']) / d['high_52w'] * 100, 1)
@@ -172,7 +155,6 @@ def compute_indicators(df, nifty_df):
     d['base_depth_ok']  = d['base_depth_pct'] < MAX_BASE_DEPTH_PCT
     d['near_high_ok']   = d['pct_from_high'] < 15
 
-    # Volume contraction
     vol_20d = volume.iloc[-20:].mean()
     vol_60d = volume.iloc[-60:-20].mean() if len(volume) >= 60 else volume.mean()
     d['vol_20d_avg']         = round(vol_20d)
@@ -180,11 +162,9 @@ def compute_indicators(df, nifty_df):
     d['vol_contraction_pct'] = round((vol_60d - vol_20d) / vol_60d * 100, 1) if vol_60d > 0 else 0
     d['vol_contraction_ok']  = vol_20d < vol_60d
 
-    # Breakout volume surge
     d['recent_vol_ratio'] = round(volume.iloc[-3:].max() / vol_20d, 2) if vol_20d > 0 else 0
     d['vol_breakout_ok']  = d['recent_vol_ratio'] >= BREAKOUT_VOLUME_MULTIPLIER
 
-    # RS ratio vs Nifty
     try:
         stock_a, nifty_a = close.align(nifty_df['Close'].squeeze(), join='inner')
         rs = stock_a / nifty_a
@@ -198,11 +178,9 @@ def compute_indicators(df, nifty_df):
         d['rs_change_pct'] = 0
         d['rs_ok'] = False
 
-    # Price contraction tightness (last 20 days)
     d['contraction_range_pct'] = round((high.iloc[-20:].max() - low.iloc[-20:].min()) / high.iloc[-20:].max() * 100, 1)
     d['contraction_ok']        = d['contraction_range_pct'] < 25
 
-    # MACD cooling
     exp12 = close.ewm(span=12, adjust=False).mean()
     exp26 = close.ewm(span=26, adjust=False).mean()
     macd  = exp12 - exp26
@@ -214,7 +192,6 @@ def compute_indicators(df, nifty_df):
 
 
 def apply_filters(symbol, ind):
-    """Apply all 8 Minervini rules."""
     rules = {
         'Stage 2 MA stack'        : ind['ma_stack_ok'],
         'Base depth < 40%'        : ind['base_depth_ok'],
@@ -235,7 +212,6 @@ def apply_filters(symbol, ind):
 # ============================================================
 
 def score_with_claude(symbol, ind, rules):
-    """Score a stock setup using Claude API."""
     client = anthropic.Anthropic(api_key=CLAUDE_API_KEY)
     rules_text = "\n".join([f"  - {r}: {'PASS' if v else 'FAIL'}" for r, v in rules.items()])
 
@@ -312,26 +288,25 @@ Return ONLY this JSON (no markdown, no explanation):
 # ============================================================
 
 def score_bar(score):
-    """Visual score bar out of 10 blocks."""
+    """Telegram-safe visual score bar using plain ASCII."""
     filled = round(score / 10)
-    return "█" * filled + "░" * (10 - filled)
+    empty  = 10 - filled
+    return ("[" + ("=" * filled) + ("." * empty) + "]")
 
 
 def format_header(today, total_picks, total_passed):
-    """Send a clean header message first."""
     return (
-        f"┌─────────────────────────────┐\n"
-        f"│  📊 <b>VCP SCANNER REPORT</b>       │\n"
-        f"│  📅 {today:<24}│\n"
-        f"│  ✅ {total_passed} passed filters          │\n"
-        f"│  🏆 {total_picks} top picks selected      │\n"
-        f"└─────────────────────────────┘\n"
-        f"\n<i>Minervini VCP + Claude AI scoring</i>"
+        f"📊 <b>VCP SCANNER — DAILY PICKS</b>\n"
+        f"📅 {today}  |  🤖 Minervini + Claude AI\n"
+        f"〰〰〰〰〰〰〰〰〰〰〰〰〰\n"
+        f"🔍 Stocks passed filters: <b>{total_passed}</b>\n"
+        f"🏆 Top picks selected: <b>{total_picks}</b>\n"
+        f"〰〰〰〰〰〰〰〰〰〰〰〰〰"
     )
 
 
 def format_pick_message(pick, rank, total):
-    """Format a single stock pick as a rich Telegram message."""
+    """Format a single stock pick — clean Telegram-safe rich text."""
 
     # Risk:Reward
     rr = round(
@@ -340,17 +315,17 @@ def format_pick_message(pick, rank, total):
 
     # Sanitise all text fields
     def safe(text):
-        return str(text).replace('<', '&lt;').replace('>', '&gt;')
+        return str(text).replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
 
     entry       = safe(pick['entry_zone'])
     risk        = safe(pick['key_risk'])
     hold_signal = safe(pick.get('hold_signal', 'Stay above stop loss at all times'))
     exit_signal = safe(pick.get('exit_signal', 'Exit if daily close below stop loss'))
     buy_reasons = pick.get('buy_reasons', [])
-    sector      = pick.get('sector', 'NSE').title()
+    sector      = safe(pick.get('sector', 'NSE').title())
     score       = pick['score']
-    rs_rating   = pick.get('rs_rating', '—')
-    vcp_pivots  = pick.get('vcp_pivots', '—')
+    rs_rating   = pick.get('rs_rating', '-')
+    vcp_pivots  = pick.get('vcp_pivots', '-')
     stage       = str(pick['vcp_stage']).upper()
 
     # Rank medal
@@ -360,7 +335,7 @@ def format_pick_message(pick, rank, total):
     # Stage emoji
     stage_emoji = {"EARLY": "🌱", "MID": "📈", "LATE": "🔥"}.get(stage, "📊")
 
-    # Score colour indicator
+    # Score icon
     if score >= 80:
         score_icon = "🟢"
     elif score >= 65:
@@ -368,54 +343,54 @@ def format_pick_message(pick, rank, total):
     else:
         score_icon = "🔴"
 
-    # Score bar
+    # Score bar — plain ASCII, works on all devices
     bar = score_bar(score)
 
-    # Buy reasons as bullet points (max 3)
+    # Buy reasons
     if buy_reasons:
-        reasons_text = "\n".join([f"  · {safe(r)}" for r in buy_reasons[:3]])
+        reasons_text = "\n".join([f"  ▸ {safe(r)}" for r in buy_reasons[:3]])
     else:
-        reasons_text = f"  · {safe(pick.get('why_this_stock', '—'))}"
+        reasons_text = f"  ▸ {safe(pick.get('why_this_stock', '-'))}"
 
     msg = (
-        f"━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
+        f"〰〰〰〰〰〰〰〰〰〰〰〰〰\n"
         f"{medal} <b>{pick['symbol']}</b>  {score_icon}  {stage_emoji} {stage} VCP\n"
-        f"📂 {sector}  ·  Pivots: {vcp_pivots}\n"
-        f"━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
+        f"📂 {sector}  |  Pivots: {vcp_pivots}\n"
+        f"〰〰〰〰〰〰〰〰〰〰〰〰〰\n"
         f"\n"
-        f"<b>Score:</b> {score}/100  {bar}\n"
-        f"<b>RS Rating:</b> {rs_rating}  ·  <b>R:R</b> 1:{rr}  ·  <b>Hold:</b> ~{pick['hold_days_estimate']}d\n"
+        f"<b>Score:</b> {score}/100  <code>{bar}</code>\n"
+        f"<b>RS Rating:</b> {rs_rating}  |  <b>R:R</b> 1:{rr}  |  <b>Hold:</b> ~{pick['hold_days_estimate']}d\n"
         f"\n"
-        f"<b>💰 Trade Setup</b>\n"
-        f"  Entry Zone  :  ₹{entry}\n"
-        f"  Pivot Level :  ₹{pick['pivot_level']}\n"
-        f"  Stop Loss   :  ₹{pick['stop_loss']} 🛑\n"
+        f"💰 <b>Trade Setup</b>\n"
+        f"  Entry Zone   :  Rs.{entry}\n"
+        f"  Pivot Level  :  Rs.{pick['pivot_level']}\n"
+        f"  Stop Loss    :  Rs.{pick['stop_loss']}  🛑\n"
         f"\n"
-        f"<b>🎯 Targets</b>\n"
-        f"  +10%  →  ₹{pick['target_10pct']}\n"
-        f"  +20%  →  ₹{pick['target_20pct']}\n"
-        f"  +30%  →  ₹{pick['target_30pct']}\n"
+        f"🎯 <b>Targets</b>\n"
+        f"  +10%  →  Rs.{pick['target_10pct']}\n"
+        f"  +20%  →  Rs.{pick['target_20pct']}\n"
+        f"  +30%  →  Rs.{pick['target_30pct']}\n"
         f"\n"
-        f"<b>✅ Why Buy:</b>\n"
+        f"✅ <b>Why Buy:</b>\n"
         f"{reasons_text}\n"
         f"\n"
-        f"<b>📌 Hold Signal:</b>\n"
+        f"📌 <b>Hold Signal:</b>\n"
         f"  {hold_signal}\n"
         f"\n"
-        f"<b>🚪 Exit Signal:</b>\n"
+        f"🚪 <b>Exit Signal:</b>\n"
         f"  {exit_signal}\n"
         f"\n"
-        f"<b>⚠️ Risk:</b> {risk}\n"
+        f"⚠️ <b>Risk:</b>  {risk}\n"
     )
     return msg
 
 
 def format_footer(total_picks):
     return (
-        f"━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
-        f"<i>🤖 Powered by Minervini VCP + Claude AI</i>\n"
-        f"<i>🛑 Hard stop -7% from entry. No exceptions.</i>\n"
-        f"<i>📌 Do your own research before trading.</i>"
+        f"〰〰〰〰〰〰〰〰〰〰〰〰〰\n"
+        f"🤖 <i>Powered by Minervini VCP + Claude AI</i>\n"
+        f"🛑 <i>Hard stop -7% from entry. No exceptions.</i>\n"
+        f"📌 <i>Do your own research before trading.</i>"
     )
 
 
@@ -429,7 +404,7 @@ def main():
     print(f"VCP Scanner starting at {now_ist.strftime('%Y-%m-%d %H:%M IST')}")
     print(f"{'='*50}\n")
 
-    notify(f"🔍 <b>VCP Scanner</b> started\n📅 {now_ist.strftime('%d %b %Y')}&nbsp; ⏰ {now_ist.strftime('%H:%M IST')}")
+    notify(f"🔍 <b>VCP Scanner</b> started\n📅 {now_ist.strftime('%d %b %Y')}  |  ⏰ {now_ist.strftime('%H:%M IST')}")
 
     # --- Load stocks from CSV ---
     print("Loading Chartink CSV...")
@@ -444,11 +419,11 @@ def main():
         return
 
     print(f"\nCSV date: {csv_date} | Stocks: {len(stocks)}")
-    candidates  = [s['symbol'] for s in stocks]
-    sector_map  = {s['symbol']: s['sector'] for s in stocks}
-    source_map  = {s['symbol']: s['source'] for s in stocks}
+    candidates = [s['symbol'] for s in stocks]
+    sector_map = {s['symbol']: s['sector'] for s in stocks}
+    source_map = {s['symbol']: s['source'] for s in stocks}
 
-    # --- Load Nifty 50 from pre-fetched CSV ---
+    # --- Load Nifty 50 ---
     print("\nLoading Nifty 50...")
     nifty = pd.DataFrame(columns=['Open','High','Low','Close','Volume'])
     nifty_file = f"{csv_date}_NIFTY50.csv"
@@ -460,7 +435,7 @@ def main():
     else:
         print(f"  WARNING: {nifty_file} not found — RS scores will be zero")
 
-    # --- Load pre-fetched stock price data from prices/ folder ---
+    # --- Load pre-fetched stock price data ---
     print(f"\nLoading price data for {len(candidates)} stocks...")
     stock_data = {}
     for sym in candidates:
@@ -497,7 +472,7 @@ def main():
         try:
             ind = compute_indicators(df, nifty)
             passed, rules, count = apply_filters(sym, ind)
-            status = 'PASS ✓' if passed else f'FAIL  ({count}/8)'
+            status = 'PASS' if passed else f'FAIL ({count}/8)'
             print(f"  {sym}: {status}")
             for name, val in rules.items():
                 print(f"    {'✓' if val else '✗'} {name}")
@@ -558,29 +533,28 @@ def main():
             final_picks.append(s)
             used_sectors.append(s['sector'])
 
-    # If sector diversification leaves us short, just take top scores
     if len(final_picks) < TOP_N_PICKS and len(scored) >= TOP_N_PICKS:
         final_picks = scored[:TOP_N_PICKS]
 
     print(f"\nFinal {len(final_picks)} picks: {[p['symbol'] for p in final_picks]}")
 
-    # --- Send to Telegram — one message per stock + header/footer ---
+    # --- Send to Telegram — one message per stock ---
     today = datetime.now(IST).strftime('%d %b %Y')
 
-    # 1. Send header
+    # 1. Header
     header = format_header(today, len(final_picks), len(shortlist))
     r = send_telegram(header)
     print(f"Header sent: {r.get('ok')}")
     time.sleep(0.8)
 
-    # 2. Send each pick as individual message
+    # 2. Each pick individually
     for rank, pick in enumerate(final_picks, 1):
         msg = format_pick_message(pick, rank, len(final_picks))
         r = send_telegram(msg)
         print(f"Pick {rank} ({pick['symbol']}) sent: {r.get('ok')}")
         time.sleep(0.8)
 
-    # 3. Send footer
+    # 3. Footer
     footer = format_footer(len(final_picks))
     r = send_telegram(footer)
     print(f"Footer sent: {r.get('ok')}")
@@ -591,4 +565,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
