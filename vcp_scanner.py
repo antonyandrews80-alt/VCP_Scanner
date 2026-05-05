@@ -4,7 +4,7 @@ Your local script downloads Chartink CSV and pushes to GitHub repo.
 GitHub Actions reads today's CSV and runs the full scanner pipeline.
 
 Expected CSV filename in repo root:
-  YYYY-MM-DD_Screener_1.csv
+  YYYY-MM-DD_All_Scans.csv
 
 CSV format: Date, Symbol, Mcap, Change, Dpower, Mpower, Sector
 """
@@ -135,6 +135,7 @@ def load_csv():
 
     print("  No CSV file found in last 5 days")
     return [], None
+
 
 # ============================================================
 # STEP 3 — TECHNICAL INDICATORS
@@ -276,6 +277,7 @@ Return ONLY this JSON (no markdown, no explanation):
   "vcp_quality_score": <integer 0-40>,
   "rs_score": <integer 0-30>,
   "volume_score": <integer 0-30>,
+  "rs_rating": <integer 1-99>,
   "entry_zone": "<price range e.g. 245-252>",
   "pivot_level": <float>,
   "stop_loss": <float>,
@@ -283,7 +285,11 @@ Return ONLY this JSON (no markdown, no explanation):
   "target_20pct": <float>,
   "target_30pct": <float>,
   "vcp_stage": "<early|mid|late>",
+  "vcp_pivots": <integer 1-5>,
   "why_this_stock": "<2 sentence max>",
+  "buy_reasons": ["<reason 1>", "<reason 2>", "<reason 3>"],
+  "hold_signal": "<1 sentence — what to watch to stay in trade>",
+  "exit_signal": "<1 sentence — what triggers the exit>",
   "key_risk": "<1 sentence>",
   "hold_days_estimate": <integer>
 }}"""
@@ -310,6 +316,7 @@ def score_bar(score):
     filled = round(score / 10)
     return "█" * filled + "░" * (10 - filled)
 
+
 def format_header(today, total_picks, total_passed):
     """Send a clean header message first."""
     return (
@@ -322,17 +329,33 @@ def format_header(today, total_picks, total_passed):
         f"\n<i>Minervini VCP + Claude AI scoring</i>"
     )
 
+
 def format_pick_message(pick, rank, total):
-    """Format a single stock pick as a clean Telegram message."""
+    """Format a single stock pick as a rich Telegram message."""
+
+    # Risk:Reward
     rr = round(
         (pick['target_20pct'] - pick['pivot_level']) / max(pick['pivot_level'] - pick['stop_loss'], 1), 1
     )
-    why  = str(pick['why_this_stock']).replace('<','&lt;').replace('>','&gt;')
-    risk = str(pick['key_risk']).replace('<','&lt;').replace('>','&gt;')
-    entry = str(pick['entry_zone']).replace('<','&lt;').replace('>','&gt;')
-    score = pick['score']
-    stage = pick['vcp_stage'].upper()
-    sector = pick.get('sector', 'NSE').title()
+
+    # Sanitise all text fields
+    def safe(text):
+        return str(text).replace('<', '&lt;').replace('>', '&gt;')
+
+    entry       = safe(pick['entry_zone'])
+    risk        = safe(pick['key_risk'])
+    hold_signal = safe(pick.get('hold_signal', 'Stay above stop loss at all times'))
+    exit_signal = safe(pick.get('exit_signal', 'Exit if daily close below stop loss'))
+    buy_reasons = pick.get('buy_reasons', [])
+    sector      = pick.get('sector', 'NSE').title()
+    score       = pick['score']
+    rs_rating   = pick.get('rs_rating', '—')
+    vcp_pivots  = pick.get('vcp_pivots', '—')
+    stage       = str(pick['vcp_stage']).upper()
+
+    # Rank medal
+    medals = {1: "🥇", 2: "🥈", 3: "🥉"}
+    medal  = medals.get(rank, f"#{rank}")
 
     # Stage emoji
     stage_emoji = {"EARLY": "🌱", "MID": "📈", "LATE": "🔥"}.get(stage, "📊")
@@ -345,30 +368,47 @@ def format_pick_message(pick, rank, total):
     else:
         score_icon = "🔴"
 
+    # Score bar
+    bar = score_bar(score)
+
+    # Buy reasons as bullet points (max 3)
+    if buy_reasons:
+        reasons_text = "\n".join([f"  · {safe(r)}" for r in buy_reasons[:3]])
+    else:
+        reasons_text = f"  · {safe(pick.get('why_this_stock', '—'))}"
+
     msg = (
         f"━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
-        f"{score_icon} <b>#{rank} {pick['symbol']}</b>  |  {stage_emoji} {stage} VCP\n"
-        f"📂 {sector}\n"
+        f"{medal} <b>{pick['symbol']}</b>  {score_icon}  {stage_emoji} {stage} VCP\n"
+        f"📂 {sector}  ·  Pivots: {vcp_pivots}\n"
         f"━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n"
         f"\n"
-        f"<b>Score:</b>  {score}/100  {score_bar(score)}\n"
+        f"<b>Score:</b> {score}/100  {bar}\n"
+        f"<b>RS Rating:</b> {rs_rating}  ·  <b>R:R</b> 1:{rr}  ·  <b>Hold:</b> ~{pick['hold_days_estimate']}d\n"
         f"\n"
         f"<b>💰 Trade Setup</b>\n"
-        f"  Entry Zone  : ₹{entry}\n"
-        f"  Pivot Level : ₹{pick['pivot_level']}\n"
-        f"  Stop Loss   : ₹{pick['stop_loss']}  🛑 (-7%)\n"
+        f"  Entry Zone  :  ₹{entry}\n"
+        f"  Pivot Level :  ₹{pick['pivot_level']}\n"
+        f"  Stop Loss   :  ₹{pick['stop_loss']} 🛑\n"
         f"\n"
         f"<b>🎯 Targets</b>\n"
-        f"  +10% → ₹{pick['target_10pct']}\n"
-        f"  +20% → ₹{pick['target_20pct']}\n"
-        f"  +30% → ₹{pick['target_30pct']}\n"
+        f"  +10%  →  ₹{pick['target_10pct']}\n"
+        f"  +20%  →  ₹{pick['target_20pct']}\n"
+        f"  +30%  →  ₹{pick['target_30pct']}\n"
         f"\n"
-        f"<b>⏱ Hold:</b> ~{pick['hold_days_estimate']} days  |  <b>R:R</b> 1:{rr}\n"
+        f"<b>✅ Why Buy:</b>\n"
+        f"{reasons_text}\n"
         f"\n"
-        f"<b>💡 Why:</b> {why}\n"
+        f"<b>📌 Hold Signal:</b>\n"
+        f"  {hold_signal}\n"
+        f"\n"
+        f"<b>🚪 Exit Signal:</b>\n"
+        f"  {exit_signal}\n"
+        f"\n"
         f"<b>⚠️ Risk:</b> {risk}\n"
     )
     return msg
+
 
 def format_footer(total_picks):
     return (
@@ -551,3 +591,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
