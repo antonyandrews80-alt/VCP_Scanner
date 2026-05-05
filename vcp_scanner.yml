@@ -1,18 +1,16 @@
 name: VCP Daily Scanner
 
 on:
-  # Auto-run when you push today's CSV to the repo
+  # Auto-run when github_push.py pushes today's files to repo
   push:
     paths:
-      - '*_Screener_1.csv'
-      - 'data/*_Screener_1.csv'
-      - 'csv/*_Screener_1.csv'
-
-  # Scheduled run every weekday 9:00 PM IST (3:30 PM UTC)
-  # CSV must already be in repo by this time
+      - '*_All_Scans.csv'          # Chartink CSV
+      - '*_NIFTY50.csv'            # Nifty index data
+      - 'prices/*.csv'             # Individual stock price files
+  # Scheduled backup — 7:30 PM Dubai time (15:30 UTC)
+  # Runs only on weekdays Mon-Fri
   schedule:
     - cron: '30 15 * * 1-5'
-
   # Manual trigger from GitHub Actions tab
   workflow_dispatch:
 
@@ -51,5 +49,5 @@ jobs:
         run: |
           curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_TOKEN }}/sendMessage" \
             -d "chat_id=${{ secrets.TELEGRAM_CHAT_ID }}" \
-            -d "text=VCP Scanner failed. Check GitHub Actions logs." \
+            -d "text=⚠️ VCP Scanner failed. Check GitHub Actions logs." \
             -d "parse_mode=HTML"
