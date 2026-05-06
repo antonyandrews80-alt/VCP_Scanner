@@ -1,14 +1,11 @@
 name: VCP Daily Scanner
 
 on:
-  # Auto-run when github_push.py pushes today's files to repo
+  # Triggered by last_push.txt — always changes with new timestamp
   push:
     paths:
-      - '*_All_Scans.csv'          # Chartink CSV
-      - '*_NIFTY50.csv'            # Nifty index data
-      - 'prices/*.csv'             # Individual stock price files
+      - 'last_push.txt'
   # Scheduled backup — 7:30 PM Dubai time (15:30 UTC)
-  # Runs only on weekdays Mon-Fri
   schedule:
     - cron: '30 15 * * 1-5'
   # Manual trigger from GitHub Actions tab
