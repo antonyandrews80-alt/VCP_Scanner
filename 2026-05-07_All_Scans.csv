@@ -1,0 +1,46 @@
+Date,Symbol,Mcap,Change,Dpower,Mpower,Sector,Scanner_Source,Volume multiples,Marketcap,Sectors
+7th May'26,LTF,largecap,1.12,66.28,66.94,financials,Screener 1,,,
+7th May'26,HINDZINC,largecap,0.307,65.12,62.08,metals & mining,Screener 1,,,
+7th May'26,QPOWER,midcap,6.72,59.97,70.71,industrials,Screener 1,,,
+7th May'26,AVANTIFEED,midcap,7.56,59.97,76.22,fmcg,Screener 1,,,
+7th May'26,NTPC,largecap,1.39,58.01,65.7,power & utilities,Screener 1,,,
+7th May'26,SEAMECLTD,smallcap,1.35,57.83,67.41,miscellaneous,Screener 1,,,
+7th May'26,SMSPHARMA,smallcap,1.81,57.18,74.76,healthcare,Screener 1,,,
+7th May'26,CENTUM,smallcap,4.83,57.03,66.04,consumer discretionary,Screener 1,,,
+7th May'26,CHENNPETRO,midcap,0.345,55.38,65.58,energy,Screener 1,,,
+7th May'26,BHARATGEAR,,4.45,,,,Tiger breakouts,9.88,smallcap,auto
+7th May'26,RICOAUTO,,6.83,,,,Tiger breakouts,9.22,smallcap,auto
+7th May'26,MENONBE,,6.64,,,,Tiger breakouts,7.74,smallcap,auto
+7th May'26,MAYURUNIQ,,5.33,,,,Tiger breakouts,7.64,smallcap,consumer discretionary
+7th May'26,BHARATFORG,,6.36,,,,Tiger breakouts,5.96,largecap,industrials
+7th May'26,HAPPYFORGE,,4.31,,,,Tiger breakouts,5.26,midcap,industrials
+7th May'26,ANURAS,,0.485,,,,Tiger breakouts,4.57,midcap,chemicals
+7th May'26,SKMEGGPROD,,6.37,,,,Tiger breakouts,4.52,smallcap,fmcg
+7th May'26,ORIENTELEC,,4.57,,,,Tiger breakouts,4.2,smallcap,consumer discretionary
+7th May'26,LINDEINDIA,,3.6,,,,Tiger breakouts,3.99,largecap,chemicals
+7th May'26,HPIL,,4.84,,,,Tiger breakouts,3.98,smallcap,chemicals
+7th May'26,HINDCOPPER,,3.29,,,,Tiger breakouts,3.62,largecap,metals & mining
+7th May'26,NARMADA,,0.161,,,,Tiger breakouts,3.61,smallcap,fmcg
+7th May'26,BAJAJ-AUTO,,2.77,,,,Tiger breakouts,3.6,largecap,auto
+7th May'26,GRMOVER,,-0.82,,,,Tiger breakouts,3.2,smallcap,fmcg
+7th May'26,SALONA,,3.47,,,,Tiger breakouts,3.13,smallcap,textiles
+7th May'26,VAIBHAVGBL,,3.46,,,,Tiger breakouts,2.94,smallcap,consumer discretionary
+7th May'26,TVSSCS,,4.91,,,,Tiger breakouts,2.88,midcap,transportation
+7th May'26,KICL,,4.68,,,,Tiger breakouts,2.83,smallcap,financials
+7th May'26,GAEL,,4.12,,,,Tiger breakouts,2.82,midcap,fmcg
+7th May'26,WELSPUNLIV,,-0.504,,,,Tiger breakouts,2.82,midcap,textiles
+7th May'26,SANDHAR,,3.72,,,,Tiger breakouts,2.8,smallcap,auto
+7th May'26,CREST,,2.54,,,,Tiger breakouts,2.79,smallcap,financials
+7th May'26,PRICOLLTD,,5.62,,,,Tiger breakouts,2.79,midcap,auto
+7th May'26,RPEL,,2.74,,,,Tiger breakouts,2.78,smallcap,building materials
+7th May'26,SRGHFL,,6.54,,,,Tiger breakouts,2.77,smallcap,financials
+7th May'26,VIYASH,,0.956,,,,Tiger breakouts,2.71,midcap,healthcare
+7th May'26,BRNL,,0.593,,,,Tiger breakouts,2.71,smallcap,realty
+7th May'26,IFCI,,4.57,,,,Tiger breakouts,2.65,midcap,financials
+7th May'26,TIIL,,-1.58,,,,Tiger breakouts,2.57,midcap,metals & mining
+7th May'26,KARURVYSYA,,2.74,,,,Tiger breakouts,2.47,largecap,bank
+7th May'26,MUNJALAU,,2.03,,,,Tiger breakouts,2.4,smallcap,auto
+7th May'26,LMW,,0.867,,,,Tiger breakouts,2.39,midcap,industrials
+7th May'26,NUVAMA,,4.31,,,,Tiger breakouts,2.25,largecap,financials
+7th May'26,MOTHERSON,,2.37,,,,Tiger breakouts,2.13,largecap,auto
+7th May'26,STCINDIA,,2.05,,,,Tiger breakouts,1.97,smallcap,services
