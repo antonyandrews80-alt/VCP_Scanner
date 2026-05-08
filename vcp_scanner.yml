@@ -1,14 +1,14 @@
 name: VCP Daily Scanner
-
 on:
-  # Triggered by last_push.txt — always changes with new timestamp
+  # Triggered by any push to main branch
   push:
-    paths:
-      - 'last_push.txt'
-  # Scheduled backup — 7:30 PM Dubai time (15:30 UTC)
+    branches:
+      - main
+  # Scheduled backup — 7:35 PM Dubai time (15:35 UTC)
   schedule:
-    - cron: '30 15 * * 1-5'
+    - cron: '35 15 * * 1-5'
   # Manual trigger from GitHub Actions tab
+
   workflow_dispatch:
 
 env:
