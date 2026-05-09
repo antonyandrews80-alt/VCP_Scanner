@@ -1,0 +1,149 @@
+🎯 SMART MONEY ACCUMULATION REPORT
+📅 Date: 2026-05-09
+⏰ Generated: 11:55:51
+
+📈 Stocks Analyzed: 37
+✅ Qualified: 35 (Score >= 50)
+🚨 Block Buying Detected: 0
+
+──────────────────────────────────────────────────
+
+📊 ALL QUALIFIED STOCKS (Score >= 50):
+
+```
+#   Symbol       Score  Block  Signal      
+─────────────────────────────────────────────
+1   TATACONSUM   65     No     Buy         
+2   PRICOLLTD    62     No     Watch       
+3   APOLLOHOSP   62     No     Watch       
+4   GRAPHITE     62     No     Watch       
+5   TITAN        61     No     Watch       
+6   SUPRAJIT     61     No     Watch       
+7   ASIANPAINT   61     No     Watch       
+8   TIMKEN       61     No     Watch       
+9   JKPAPER      60     No     Watch       
+10  FIEMIND      59     No     Watch       
+11  PIDILITIND   59     No     Watch       
+12  SENCO        59     No     Watch       
+13  WELSPUNLIV   59     No     Watch       
+14  DBSTOCKBRO   58     No     Watch       
+15  FLAIR        58     No     Watch       
+16  MMTC         58     No     Watch       
+17  LUMAXIND     57     No     Watch       
+18  GALAPREC     57     No     Watch       
+19  DLINKINDIA   57     No     Watch       
+20  GEOJITFSL    57     No     Watch       
+21  RAIN         57     No     Watch       
+22  SANSTAR      56     No     Watch       
+23  RICOAUTO     56     No     Watch       
+24  BANARBEADS   56     No     Watch       
+25  ASPINWALL    56     No     Watch       
+26  MOREPENLAB   56     No     Watch       
+27  JBMA         56     No     Watch       
+28  BALPHARMA    56     No     Watch       
+29  MAYURUNIQ    56     No     Watch       
+30  ELDEHSG      54     No     Watch       
+31  KARURVYSYA   54     No     Watch       
+32  UJJIVANSFB   54     No     Watch       
+33  PPAP         52     No     Watch       
+34  NIBL         52     No     Watch       
+35  IMFA         50     No     Watch       
+```
+
+📋 KEY METRICS:
+```
+Symbol       Del%   VolDist  FII%   Bonus 
+─────────────────────────────────────────────
+TATACONSUM   0.0    43.6     20.8   3     
+PRICOLLTD    0.0    75.2     15.6   2     
+APOLLOHOSP   0.0    59.4     42.6   0     
+GRAPHITE     0.0    80.2     6.7    5     
+TITAN        0.0    58.1     15.7   0     
+SUPRAJIT     0.0    76.0     6.5    2     
+ASIANPAINT   0.0    71.5     12.1   5     
+TIMKEN       0.0    65.9     7.0    2     
+JKPAPER      0.0    63.0     11.6   3     
+FIEMIND      0.0    81.7     6.9    2     
+```
+
+──────────────────────────────────────────────────
+
+🔍 DETAILED ANALYSIS (Top 3):
+
+#1. TATACONSUM — 65/100 — ✅ Buy
+
+  📊 Score Breakdown:
+     • Volume Conviction:    25/40
+     • Accumulation Pattern: 30/30
+     • Sector Strength:      10/20
+     • Institutional Score:  10/10
+     • 🆕 Multibagger Bonus:  3/20
+
+  🎯 Multibagger Signals:
+     🚨 Block Buying (30-40x): No
+     📊 Sustained Volume:      No
+     🔄 Price Tightening:      YES ✓
+     📈 Volume Distribution:   43.6%
+
+  📈 Other Metrics:
+     • Delivery %:        0.0%
+     • FII Holdings:      20.8%
+     • DII Holdings:      24.2%
+     • Volume Trend:      Normal
+     • 5-Day Momentum:    +1.36%
+
+──────────────────────────────────────────────────
+
+#2. PRICOLLTD — 62/100 — 👀 Watch
+
+  📊 Score Breakdown:
+     • Volume Conviction:    25/40
+     • Accumulation Pattern: 30/30
+     • Sector Strength:      10/20
+     • Institutional Score:  8/10
+     • 🆕 Multibagger Bonus:  2/20
+
+  🎯 Multibagger Signals:
+     🚨 Block Buying (30-40x): No
+     📊 Sustained Volume:      No
+     🔄 Price Tightening:      No
+     📈 Volume Distribution:   75.2%
+
+  📈 Other Metrics:
+     • Delivery %:        0.0%
+     • FII Holdings:      15.6%
+     • DII Holdings:      12.4%
+     • Volume Trend:      Above Average
+     • 5-Day Momentum:    +7.95%
+
+──────────────────────────────────────────────────
+
+#3. APOLLOHOSP — 62/100 — 👀 Watch
+
+  📊 Score Breakdown:
+     • Volume Conviction:    25/40
+     • Accumulation Pattern: 30/30
+     • Sector Strength:      10/20
+     • Institutional Score:  10/10
+     • 🆕 Multibagger Bonus:  0/20
+
+  🎯 Multibagger Signals:
+     🚨 Block Buying (30-40x): No
+     📊 Sustained Volume:      No
+     🔄 Price Tightening:      No
+     📈 Volume Distribution:   59.4%
+
+  📈 Other Metrics:
+     • Delivery %:        0.0%
+     • FII Holdings:      42.6%
+     • DII Holdings:      22.8%
+     • Volume Trend:      Normal
+     • 5-Day Momentum:    +4.65%
+
+──────────────────────────────────────────────────
+
+Legend:
+  Block: 🚨YES = Institutional block buying
+  Del% = Delivery percentage
+  VolDist = % of volume on up days
+  Bonus = Multibagger bonus points
