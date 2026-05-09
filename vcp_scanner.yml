@@ -1,50 +1,41 @@
-name: VCP Daily Scanner
+name: Send Telegram Notification
+
 on:
-  # Triggered by any push to main branch
   push:
     branches:
       - main
-  # Scheduled backup — 7:35 PM Dubai time (15:35 UTC)
-  schedule:
-    - cron: '35 15 * * 1-5'
-  # Manual trigger from GitHub Actions tab
-
-  workflow_dispatch:
-
-env:
-  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 jobs:
-  run-scanner:
+  notify:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
-
+    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
-      - name: Set up Python 3.11
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-
-      - name: Install dependencies
+      
+      - name: Send Telegram Summary
         run: |
-          pip install --upgrade pip
-          pip install -r requirements.txt
-
-      - name: Run VCP Scanner
-        env:
-          CLAUDE_API_KEY:   ${{ secrets.CLAUDE_API_KEY }}
-          TELEGRAM_TOKEN:   ${{ secrets.TELEGRAM_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: |
-          python github_push.py
-
-      - name: Notify on failure
-        if: failure()
-        run: |
-          curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_TOKEN }}/sendMessage" \
-            -d "chat_id=${{ secrets.TELEGRAM_CHAT_ID }}" \
-            -d "text=⚠️ VCP Scanner failed. Check GitHub Actions logs." \
-            -d "parse_mode=HTML"
+          # Find the most recent Telegram summary file
+          SUMMARY_FILE=$(ls -t *_Telegram_Summary.txt 2>/dev/null | head -n 1)
+          
+          if [ -f "$SUMMARY_FILE" ]; then
+            echo "Found summary file: $SUMMARY_FILE"
+            
+            # Read the summary
+            SUMMARY=$(cat "$SUMMARY_FILE")
+            
+            # Send to Telegram
+            curl -X POST \
+              "https://api.telegram.org/bot${{ secrets.TELEGRAM_TOKEN }}/sendMessage" \
+              -H 'Content-Type: application/json' \
+              -d "{\"chat_id\": \"${{ secrets.TELEGRAM_CHAT_ID }}\", \"text\": $(echo "$SUMMARY" | jq -Rs .), \"parse_mode\": \"Markdown\"}"
+            
+            echo "✓ Summary sent to Telegram"
+          else
+            echo "⚠ No summary file found"
+            
+            curl -X POST \
+              "https://api.telegram.org/bot${{ secrets.TELEGRAM_TOKEN }}/sendMessage" \
+              -H 'Content-Type: application/json' \
+              -d "{\"chat_id\": \"${{ secrets.TELEGRAM_CHAT_ID }}\", \"text\": \"VCP Scanner completed - check GitHub for results\"}"
+          fi
