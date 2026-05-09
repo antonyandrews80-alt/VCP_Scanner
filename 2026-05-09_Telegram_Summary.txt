@@ -1,5 +1,5 @@
 🎯 *SMART MONEY REPORT*
-📅 2026-05-09 | ⏰ 13:13
+📅 2026-05-09 | ⏰ 14:22
 
 📊 Analyzed: 37 | Qualified: 9
 
@@ -45,7 +45,7 @@
 
 ━━━━━━━━━━━━━━━━━━━━━━━━
 
-🔍 *TOP 3 ANALYSIS*
+🔍 *TOP 10 ANALYSIS*
 
 *#1. TATACONSUM* — 65/100
 
@@ -107,6 +107,132 @@
 📈 *Metrics:*
    Del: 0.0% | FII: 42.6% | DII: 22.8%
    Momentum: +4.65%
+
+─────────────────────
+
+*#4. GRAPHITE* — 62/100
+
+📊 *Scores:*
+   • Volume: 25/40
+   • Pattern: 30/30
+   • Sector: 10/20
+   • Institutional: 4/10
+   • 🆕 Multibagger: 5/20
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 80.2%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 6.7% | DII: 10.5%
+   Momentum: +6.07%
+
+─────────────────────
+
+*#5. TITAN* — 61/100
+
+📊 *Scores:*
+   • Volume: 25/40
+   • Pattern: 30/30
+   • Sector: 10/20
+   • Institutional: 8/10
+   • 🆕 Multibagger: 0/20
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 58.1%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 15.7% | DII: 14.8%
+   Momentum: +3.35%
+
+─────────────────────
+
+*#6. SUPRAJIT* — 61/100
+
+📊 *Scores:*
+   • Volume: 25/40
+   • Pattern: 30/30
+   • Sector: 10/20
+   • Institutional: 6/10
+   • 🆕 Multibagger: 2/20
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 76.0%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 6.5% | DII: 17.2%
+   Momentum: +6.51%
+
+─────────────────────
+
+*#7. ASIANPAINT* — 61/100
+
+📊 *Scores:*
+   • Volume: 25/40
+   • Pattern: 30/30
+   • Sector: 10/20
+   • Institutional: 3/10
+   • 🆕 Multibagger: 5/20
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 71.5%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 12.1% | DII: 0.0%
+   Momentum: +6.20%
+
+─────────────────────
+
+*#8. TIMKEN* — 61/100
+
+📊 *Scores:*
+   • Volume: 25/40
+   • Pattern: 30/30
+   • Sector: 10/20
+   • Institutional: 6/10
+   • 🆕 Multibagger: 2/20
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 65.9%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 7.0% | DII: 30.6%
+   Momentum: +3.44%
+
+─────────────────────
+
+*#9. JKPAPER* — 60/100
+
+📊 *Scores:*
+   • Volume: 25/40
+   • Pattern: 30/30
+   • Sector: 10/20
+   • Institutional: 4/10
+   • 🆕 Multibagger: 3/20
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 63.0%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 11.6% | DII: 6.2%
+   Momentum: +2.57%
 
 ─────────────────────
 
