@@ -1,70 +1,266 @@
 🎯 *SMART MONEY REPORT*
-📅 2026-05-09 | ⏰ 18:53
+📅 2026-05-09 | ⏰ 20:44
 
 
 📈 *MARKET STATUS*
 ⚠️ MARKET CAUTIOUS: Nifty 0.8% above 50 MA
 💰 Position Sizing: REDUCE SIZE 50%
 
-📊 Analyzed: 37 | Qualified: 2
+📊 Analyzed: 37 | Qualified: 15
 
 ━━━━━━━━━━━━━━━━━━━━━━━━
 
 🏆 *TOP 10 PICKS*
 
-1. *VENUSREM* 
-   Score: 67 | ✅ Buy
-   Vol: 73% | RS: 13/15 | FII: 2.8%
+1. *FIEMIND* 
+   Score: 62 | 👀 Watch
+   Vol: 82% | FII: 6.9%
 
-2. *IMFA* 
+2. *PRICOLLTD* 
    Score: 61 | 👀 Watch
-   Vol: 65% | RS: 13/15 | FII: 3.9%
+   Vol: 75% | FII: 15.6%
+
+3. *MAYURUNIQ* 
+   Score: 58 | 👀 Watch
+   Vol: 85% | FII: 3.7%
+
+4. *SUPRAJIT* 
+   Score: 57 | 👀 Watch
+   Vol: 76% | FII: 6.5%
+
+5. *TIMKEN* 
+   Score: 57 | 👀 Watch
+   Vol: 66% | FII: 7.0%
+
+6. *GRAPHITE* 
+   Score: 55 | 👀 Watch
+   Vol: 80% | FII: 6.7%
+
+7. *FLAIR* 
+   Score: 54 | 👀 Watch
+   Vol: 88% | FII: 0.3%
+
+8. *GALAPREC* 
+   Score: 54 | 👀 Watch
+   Vol: 73% | FII: 1.3%
+
+9. *RAIN* 
+   Score: 53 | 👀 Watch
+   Vol: 82% | FII: 8.1%
+
+10. *IMFA* 
+   Score: 53 | 👀 Watch
+   Vol: 64% | FII: 3.9%
 
 ━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔍 *TOP 10 ANALYSIS*
 
-*#1. VENUSREM* — 67/100
+*#1. FIEMIND* — 62/100
 
 📊 *Scores:*
-   • Volume: 25/30
-   • Pattern: 17/25
-   • RS vs Nifty: 13/15
-   • Sector: 6/12
+   • Volume: 22/30
+   • Pattern: 30/25
+   • Sector: 10/12
+   • Institutional: 6/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 81.7%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 6.9% | DII: 11.4%
+   Momentum: -0.15%
+
+─────────────────────
+
+*#2. PRICOLLTD* — 61/100
+
+📊 *Scores:*
+   • Volume: 22/30
+   • Pattern: 25/25
+   • Sector: 10/12
+   • Institutional: 10/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 75.2%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 15.6% | DII: 12.4%
+   Momentum: +7.95%
+
+─────────────────────
+
+*#3. MAYURUNIQ* — 58/100
+
+📊 *Scores:*
+   • Volume: 28/30
+   • Pattern: 30/25
+   • Sector: 10/12
    • Institutional: 2/8
-   • 🆕 Multibagger: 1/10
+   • 🆕 Multibagger: 0/10
 
 🎯 *Signals:*
       Block Buy: No
       Sustained Vol: No
       Tightening: No
-   📈 VolDist: 72.7%
+   📈 VolDist: 84.6%
 
 📈 *Metrics:*
-   RS Status: Strong RS | Strong RS uptrend ✓ | vs Nifty 50
-   Del: 0.0% | FII: 2.8% | DII: 1.2%
-   Momentum: +2.31%
+   Del: 0.0% | FII: 3.7% | DII: 3.6%
+   Momentum: +11.06%
 
 ─────────────────────
 
-*#2. IMFA* — 61/100
+*#4. SUPRAJIT* — 57/100
 
 📊 *Scores:*
-   • Volume: 22/30
-   • Pattern: 14/25
-   • RS vs Nifty: 13/15
-   • Sector: 6/12
-   • Institutional: 2/8
-   • 🆕 Multibagger: 3/10
+   • Volume: 20/30
+   • Pattern: 25/25
+   • Sector: 10/12
+   • Institutional: 8/8
+   • 🆕 Multibagger: 6/10
 
 🎯 *Signals:*
       Block Buy: No
-   ✓ Sustained Vol: YES
-      Tightening: No
-   📈 VolDist: 65.2%
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 76.0%
 
 📈 *Metrics:*
-   RS Status: Strong RS | Strong RS uptrend ✓ | vs MidCap Index
+   Del: 0.0% | FII: 6.5% | DII: 17.2%
+   Momentum: +6.51%
+
+─────────────────────
+
+*#5. TIMKEN* — 57/100
+
+📊 *Scores:*
+   • Volume: 17/30
+   • Pattern: 25/25
+   • Sector: 10/12
+   • Institutional: 10/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 65.9%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 7.0% | DII: 30.6%
+   Momentum: +3.44%
+
+─────────────────────
+
+*#6. GRAPHITE* — 55/100
+
+📊 *Scores:*
+   • Volume: 20/30
+   • Pattern: 30/25
+   • Sector: 10/12
+   • Institutional: 6/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 80.2%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 6.7% | DII: 10.5%
+   Momentum: +6.07%
+
+─────────────────────
+
+*#7. FLAIR* — 54/100
+
+📊 *Scores:*
+   • Volume: 20/30
+   • Pattern: 25/25
+   • Sector: 10/12
+   • Institutional: 4/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 87.7%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.3% | DII: 10.3%
+   Momentum: +4.96%
+
+─────────────────────
+
+*#8. GALAPREC* — 54/100
+
+📊 *Scores:*
+   • Volume: 28/30
+   • Pattern: 25/25
+   • Sector: 10/12
+   • Institutional: 2/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 73.3%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 1.3% | DII: 5.5%
+   Momentum: +9.33%
+
+─────────────────────
+
+*#9. RAIN* — 53/100
+
+📊 *Scores:*
+   • Volume: 20/30
+   • Pattern: 30/25
+   • Sector: 10/12
+   • Institutional: 4/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 82.1%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 8.1% | DII: 2.1%
+   Momentum: +12.69%
+
+─────────────────────
+
+*#10. IMFA* — 53/100
+
+📊 *Scores:*
+   • Volume: 22/30
+   • Pattern: 30/25
+   • Sector: 10/12
+   • Institutional: 2/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 64.3%
+
+📈 *Metrics:*
    Del: 0.0% | FII: 3.9% | DII: 0.8%
    Momentum: +8.27%
 
