@@ -1,238 +1,99 @@
 🎯 *SMART MONEY REPORT*
-📅 2026-05-09 | ⏰ 14:39
+📅 2026-05-09 | ⏰ 18:21
 
-📊 Analyzed: 37 | Qualified: 9
+
+📈 *MARKET STATUS*
+⚠️ MARKET CAUTIOUS: Nifty 0.8% above 50 MA
+💰 Position Sizing: REDUCE SIZE 50%
+
+📊 Analyzed: 37 | Qualified: 3
 
 ━━━━━━━━━━━━━━━━━━━━━━━━
 
 🏆 *TOP 10 PICKS*
 
-1. *TATACONSUM* 
-   Score: 65 | ✅ Buy
-   Vol: 44% ↑ | FII: 20.8% | Bonus: 3
+1. *VENUSREM* 
+   Score: 64 | 👀 Watch
+   Vol: 73% | RS: 13/15 | FII: 2.8%
 
-2. *PRICOLLTD* 
-   Score: 62 | 👀 Watch
-   Vol: 75% ↑ | FII: 15.6% | Bonus: 2
-
-3. *APOLLOHOSP* 
-   Score: 62 | 👀 Watch
-   Vol: 59% ↑ | FII: 42.6% | Bonus: 0
-
-4. *GRAPHITE* 
-   Score: 62 | 👀 Watch
-   Vol: 80% ↑ | FII: 6.7% | Bonus: 5
-
-5. *TITAN* 
-   Score: 61 | 👀 Watch
-   Vol: 58% ↑ | FII: 15.7% | Bonus: 0
-
-6. *SUPRAJIT* 
-   Score: 61 | 👀 Watch
-   Vol: 76% ↑ | FII: 6.5% | Bonus: 2
-
-7. *ASIANPAINT* 
-   Score: 61 | 👀 Watch
-   Vol: 72% ↑ | FII: 12.1% | Bonus: 5
-
-8. *TIMKEN* 
-   Score: 61 | 👀 Watch
-   Vol: 66% ↑ | FII: 7.0% | Bonus: 2
-
-9. *JKPAPER* 
+2. *IMFA* 
    Score: 60 | 👀 Watch
-   Vol: 63% ↑ | FII: 11.6% | Bonus: 3
+   Vol: 65% | RS: 13/15 | FII: 3.9%
+
+3. *SUPRAJIT* 
+   Score: 60 | 👀 Watch
+   Vol: 58% | RS: 10/15 | FII: 6.5%
 
 ━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔍 *TOP 10 ANALYSIS*
 
-*#1. TATACONSUM* — 65/100
+*#1. VENUSREM* — 64/100
 
 📊 *Scores:*
-   • Volume: 25/40
-   • Pattern: 30/30
-   • Sector: 10/20
-   • Institutional: 10/10
-   • 🆕 Multibagger: 3/20
+   • Volume: 25/30
+   • Pattern: 17/25
+   • RS vs Nifty: 13/15
+   • Sector: 6/12
+   • Institutional: 2/8
+   • 🆕 Multibagger: 1/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 72.7%
+
+📈 *Metrics:*
+   RS Status: Strong RS | Strong RS uptrend ✓
+   Del: 0.0% | FII: 2.8% | DII: 1.2%
+   Momentum: +2.31%
+
+─────────────────────
+
+*#2. IMFA* — 60/100
+
+📊 *Scores:*
+   • Volume: 22/30
+   • Pattern: 14/25
+   • RS vs Nifty: 13/15
+   • Sector: 6/12
+   • Institutional: 2/8
+   • 🆕 Multibagger: 3/10
+
+🎯 *Signals:*
+      Block Buy: No
+   ✓ Sustained Vol: YES
+      Tightening: No
+   📈 VolDist: 65.2%
+
+📈 *Metrics:*
+   RS Status: Strong RS | Strong RS uptrend ✓
+   Del: 0.0% | FII: 3.9% | DII: 0.8%
+   Momentum: +8.27%
+
+─────────────────────
+
+*#3. SUPRAJIT* — 60/100
+
+📊 *Scores:*
+   • Volume: 13/30
+   • Pattern: 22/25
+   • RS vs Nifty: 10/15
+   • Sector: 6/12
+   • Institutional: 7/8
+   • 🆕 Multibagger: 2/10
 
 🎯 *Signals:*
       Block Buy: No
       Sustained Vol: No
    ✓ Tightening: YES
-   📈 VolDist: 43.6%
-
-📈 *Metrics:*
-   Del: 0.0% | FII: 20.8% | DII: 24.2%
-   Momentum: +1.36%
-
-─────────────────────
-
-*#2. PRICOLLTD* — 62/100
-
-📊 *Scores:*
-   • Volume: 25/40
-   • Pattern: 30/30
-   • Sector: 10/20
-   • Institutional: 8/10
-   • 🆕 Multibagger: 2/20
-
-🎯 *Signals:*
-      Block Buy: No
-      Sustained Vol: No
-      Tightening: No
-   📈 VolDist: 75.2%
-
-📈 *Metrics:*
-   Del: 0.0% | FII: 15.6% | DII: 12.4%
-   Momentum: +7.95%
-
-─────────────────────
-
-*#3. APOLLOHOSP* — 62/100
-
-📊 *Scores:*
-   • Volume: 25/40
-   • Pattern: 30/30
-   • Sector: 10/20
-   • Institutional: 10/10
-   • 🆕 Multibagger: 0/20
-
-🎯 *Signals:*
-      Block Buy: No
-      Sustained Vol: No
-      Tightening: No
-   📈 VolDist: 59.4%
-
-📈 *Metrics:*
-   Del: 0.0% | FII: 42.6% | DII: 22.8%
-   Momentum: +4.65%
-
-─────────────────────
-
-*#4. GRAPHITE* — 62/100
-
-📊 *Scores:*
-   • Volume: 25/40
-   • Pattern: 30/30
-   • Sector: 10/20
-   • Institutional: 4/10
-   • 🆕 Multibagger: 5/20
-
-🎯 *Signals:*
-      Block Buy: No
-      Sustained Vol: No
-   ✓ Tightening: YES
-   📈 VolDist: 80.2%
-
-📈 *Metrics:*
-   Del: 0.0% | FII: 6.7% | DII: 10.5%
-   Momentum: +6.07%
-
-─────────────────────
-
-*#5. TITAN* — 61/100
-
-📊 *Scores:*
-   • Volume: 25/40
-   • Pattern: 30/30
-   • Sector: 10/20
-   • Institutional: 8/10
-   • 🆕 Multibagger: 0/20
-
-🎯 *Signals:*
-      Block Buy: No
-      Sustained Vol: No
-      Tightening: No
    📈 VolDist: 58.1%
 
 📈 *Metrics:*
-   Del: 0.0% | FII: 15.7% | DII: 14.8%
-   Momentum: +3.35%
-
-─────────────────────
-
-*#6. SUPRAJIT* — 61/100
-
-📊 *Scores:*
-   • Volume: 25/40
-   • Pattern: 30/30
-   • Sector: 10/20
-   • Institutional: 6/10
-   • 🆕 Multibagger: 2/20
-
-🎯 *Signals:*
-      Block Buy: No
-      Sustained Vol: No
-      Tightening: No
-   📈 VolDist: 76.0%
-
-📈 *Metrics:*
+   RS Status: Strong RS | Weak RS uptrend
    Del: 0.0% | FII: 6.5% | DII: 17.2%
    Momentum: +6.51%
-
-─────────────────────
-
-*#7. ASIANPAINT* — 61/100
-
-📊 *Scores:*
-   • Volume: 25/40
-   • Pattern: 30/30
-   • Sector: 10/20
-   • Institutional: 3/10
-   • 🆕 Multibagger: 5/20
-
-🎯 *Signals:*
-      Block Buy: No
-      Sustained Vol: No
-   ✓ Tightening: YES
-   📈 VolDist: 71.5%
-
-📈 *Metrics:*
-   Del: 0.0% | FII: 12.1% | DII: 0.0%
-   Momentum: +6.20%
-
-─────────────────────
-
-*#8. TIMKEN* — 61/100
-
-📊 *Scores:*
-   • Volume: 25/40
-   • Pattern: 30/30
-   • Sector: 10/20
-   • Institutional: 6/10
-   • 🆕 Multibagger: 2/20
-
-🎯 *Signals:*
-      Block Buy: No
-      Sustained Vol: No
-      Tightening: No
-   📈 VolDist: 65.9%
-
-📈 *Metrics:*
-   Del: 0.0% | FII: 7.0% | DII: 30.6%
-   Momentum: +3.44%
-
-─────────────────────
-
-*#9. JKPAPER* — 60/100
-
-📊 *Scores:*
-   • Volume: 25/40
-   • Pattern: 30/30
-   • Sector: 10/20
-   • Institutional: 4/10
-   • 🆕 Multibagger: 3/20
-
-🎯 *Signals:*
-      Block Buy: No
-      Sustained Vol: No
-   ✓ Tightening: YES
-   📈 VolDist: 63.0%
-
-📈 *Metrics:*
-   Del: 0.0% | FII: 11.6% | DII: 6.2%
-   Momentum: +2.57%
 
 ─────────────────────
 
