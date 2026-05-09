@@ -21,14 +21,11 @@ jobs:
           if [ -f "$SUMMARY_FILE" ]; then
             echo "Found summary file: $SUMMARY_FILE"
             
-            # Read the summary
-            SUMMARY=$(cat "$SUMMARY_FILE")
-            
-            # Send to Telegram
+            # Send to Telegram (using -F for multipart form data)
             curl -X POST \
               "https://api.telegram.org/bot${{ secrets.TELEGRAM_TOKEN }}/sendMessage" \
-              -H 'Content-Type: application/json' \
-              -d "{\"chat_id\": \"${{ secrets.TELEGRAM_CHAT_ID }}\", \"text\": $(echo "$SUMMARY" | jq -Rs .), \"parse_mode\": \"Markdown\"}"
+              -F "chat_id=${{ secrets.TELEGRAM_CHAT_ID }}" \
+              -F "text=<$SUMMARY_FILE"
             
             echo "✓ Summary sent to Telegram"
           else
@@ -36,6 +33,6 @@ jobs:
             
             curl -X POST \
               "https://api.telegram.org/bot${{ secrets.TELEGRAM_TOKEN }}/sendMessage" \
-              -H 'Content-Type: application/json' \
-              -d "{\"chat_id\": \"${{ secrets.TELEGRAM_CHAT_ID }}\", \"text\": \"VCP Scanner completed - check GitHub for results\"}"
+              -F "chat_id=${{ secrets.TELEGRAM_CHAT_ID }}" \
+              -F "text=VCP Scanner completed - check GitHub for results"
           fi
