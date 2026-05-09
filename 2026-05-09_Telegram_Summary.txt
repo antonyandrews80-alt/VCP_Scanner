@@ -1,34 +1,30 @@
 🎯 *SMART MONEY REPORT*
-📅 2026-05-09 | ⏰ 18:21
+📅 2026-05-09 | ⏰ 18:53
 
 
 📈 *MARKET STATUS*
 ⚠️ MARKET CAUTIOUS: Nifty 0.8% above 50 MA
 💰 Position Sizing: REDUCE SIZE 50%
 
-📊 Analyzed: 37 | Qualified: 3
+📊 Analyzed: 37 | Qualified: 2
 
 ━━━━━━━━━━━━━━━━━━━━━━━━
 
 🏆 *TOP 10 PICKS*
 
 1. *VENUSREM* 
-   Score: 64 | 👀 Watch
+   Score: 67 | ✅ Buy
    Vol: 73% | RS: 13/15 | FII: 2.8%
 
 2. *IMFA* 
-   Score: 60 | 👀 Watch
+   Score: 61 | 👀 Watch
    Vol: 65% | RS: 13/15 | FII: 3.9%
-
-3. *SUPRAJIT* 
-   Score: 60 | 👀 Watch
-   Vol: 58% | RS: 10/15 | FII: 6.5%
 
 ━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔍 *TOP 10 ANALYSIS*
 
-*#1. VENUSREM* — 64/100
+*#1. VENUSREM* — 67/100
 
 📊 *Scores:*
    • Volume: 25/30
@@ -45,13 +41,13 @@
    📈 VolDist: 72.7%
 
 📈 *Metrics:*
-   RS Status: Strong RS | Strong RS uptrend ✓
+   RS Status: Strong RS | Strong RS uptrend ✓ | vs Nifty 50
    Del: 0.0% | FII: 2.8% | DII: 1.2%
    Momentum: +2.31%
 
 ─────────────────────
 
-*#2. IMFA* — 60/100
+*#2. IMFA* — 61/100
 
 📊 *Scores:*
    • Volume: 22/30
@@ -68,32 +64,9 @@
    📈 VolDist: 65.2%
 
 📈 *Metrics:*
-   RS Status: Strong RS | Strong RS uptrend ✓
+   RS Status: Strong RS | Strong RS uptrend ✓ | vs MidCap Index
    Del: 0.0% | FII: 3.9% | DII: 0.8%
    Momentum: +8.27%
-
-─────────────────────
-
-*#3. SUPRAJIT* — 60/100
-
-📊 *Scores:*
-   • Volume: 13/30
-   • Pattern: 22/25
-   • RS vs Nifty: 10/15
-   • Sector: 6/12
-   • Institutional: 7/8
-   • 🆕 Multibagger: 2/10
-
-🎯 *Signals:*
-      Block Buy: No
-      Sustained Vol: No
-   ✓ Tightening: YES
-   📈 VolDist: 58.1%
-
-📈 *Metrics:*
-   RS Status: Strong RS | Weak RS uptrend
-   Del: 0.0% | FII: 6.5% | DII: 17.2%
-   Momentum: +6.51%
 
 ─────────────────────
 
