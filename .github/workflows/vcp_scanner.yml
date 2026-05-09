@@ -1,4 +1,20 @@
-- name: Send Telegram Summary
+name: Send Telegram Notification
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Send Telegram Summary
         run: |
           # Find the most recent Telegram summary file
           SUMMARY_FILE=$(ls -t *_Telegram_Summary.txt 2>/dev/null | head -n 1)
