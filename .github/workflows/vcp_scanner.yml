@@ -44,7 +44,7 @@ jobs:
           CHARTINK_SCREEN1_ID:  ${{ secrets.CHARTINK_SCREEN1_ID }}
           CHARTINK_SCREEN2_ID:  ${{ secrets.CHARTINK_SCREEN2_ID }}
         run: |
-          python vcp_scanner.py
+          python github_push.py
 
       # Step 5 — If anything fails, send error to Telegram
       - name: Notify on failure
