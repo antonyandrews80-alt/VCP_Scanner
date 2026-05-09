@@ -1,38 +1,38 @@
-symbol,volume_conviction,accumulation_pattern,sector_strength,institutional_score,multibagger_bonus,delivery_pct,fii_holding,dii_holding,volume_trend,price_momentum,block_buying_detected,sustained_volume,price_tightening,volume_distribution,total_score,signal
-TATACONSUM,25,30,10,10,3,0.0,20.79,24.18,Normal,1.36,False,False,True,43.6,65.0,✅ Buy
-PRICOLLTD,25,30,10,8,2,0.0,15.61,12.44,Above Average,7.95,False,False,False,75.2,62.5,👀 Watch
-APOLLOHOSP,25,30,10,10,0,0.0,42.62,22.76,Normal,4.65,False,False,False,59.4,62.5,👀 Watch
-GRAPHITE,25,30,10,4,5,0.0,6.7,10.49,Low,6.07,False,False,True,80.2,61.66666666666667,👀 Watch
-TITAN,25,30,10,8,0,0.0,15.65,14.84,Above Average,3.35,False,False,False,58.1,60.83333333333333,👀 Watch
-SUPRAJIT,25,30,10,6,2,0.0,6.5,17.17,Low,6.51,False,False,False,76.0,60.83333333333333,👀 Watch
-ASIANPAINT,25,30,10,3,5,0.0,12.11,0.0,Low,6.2,False,False,True,71.5,60.83333333333333,👀 Watch
-TIMKEN,25,30,10,6,2,0.0,6.96,30.63,Normal,3.44,False,False,False,65.9,60.83333333333333,👀 Watch
-JKPAPER,25,30,10,4,3,0.0,11.59,6.15,Normal,2.57,False,False,True,63.0,60.0,👀 Watch
-FIEMIND,25,30,10,4,2,0.0,6.86,11.4,Above Average,-0.15,False,False,False,81.7,59.166666666666664,👀 Watch
-PIDILITIND,25,30,10,4,2,0.0,11.75,9.56,Above Average,8.16,False,False,False,74.1,59.166666666666664,👀 Watch
-SENCO,25,30,10,4,2,0.0,7.6,12.61,Normal,8.98,False,False,False,76.6,59.166666666666664,👀 Watch
-WELSPUNLIV,25,30,10,3,3,0.0,4.99,11.18,Above Average,3.34,False,False,True,60.6,59.166666666666664,👀 Watch
-DBSTOCKBRO,25,30,10,0,5,0.0,0.0,0.0,Above Average,1.42,False,False,True,71.5,58.333333333333336,👀 Watch
-FLAIR,25,30,10,3,2,0.0,0.3,10.34,Above Average,4.96,False,False,False,87.7,58.333333333333336,👀 Watch
-MMTC,25,30,10,0,5,0.0,0.13,1.77,Low,3.94,False,False,True,74.1,58.333333333333336,👀 Watch
-LUMAXIND,25,30,10,1,2,0.0,1.63,6.07,Above Average,14.03,False,False,False,73.0,56.666666666666664,👀 Watch
-GALAPREC,25,30,10,1,2,0.0,1.3,5.46,High,9.33,False,False,False,73.3,56.666666666666664,👀 Watch
-DLINKINDIA,25,30,10,0,3,0.0,1.26,0.01,Low,4.69,False,False,True,63.7,56.666666666666664,👀 Watch
-GEOJITFSL,25,30,10,1,2,0.0,1.87,9.87,Above Average,9.74,False,False,False,81.9,56.666666666666664,👀 Watch
-RAIN,25,30,10,1,2,0.0,8.06,2.15,Above Average,12.69,False,False,False,82.1,56.666666666666664,👀 Watch
-SANSTAR,25,30,10,0,2,0.0,0.01,0.31,Normal,4.69,False,False,False,92.6,55.833333333333336,👀 Watch
-RICOAUTO,25,30,10,0,2,0.0,2.14,0.09,Above Average,9.77,False,False,False,87.0,55.833333333333336,👀 Watch
-BANARBEADS,25,30,10,0,2,0.0,0.0,0.0,Above Average,9.95,False,False,False,87.4,55.833333333333336,👀 Watch
-ASPINWALL,25,30,10,0,2,0.0,0.0,0.0,Low,9.67,False,False,False,73.5,55.833333333333336,👀 Watch
-MOREPENLAB,25,30,10,0,2,0.0,1.59,1.25,Normal,8.67,False,False,False,71.5,55.833333333333336,👀 Watch
-JBMA,25,30,10,0,2,0.0,1.97,0.1,Low,3.37,False,False,False,73.2,55.833333333333336,👀 Watch
-BALPHARMA,25,30,10,0,2,0.0,0.14,0.0,Above Average,6.16,False,False,False,80.0,55.833333333333336,👀 Watch
-MAYURUNIQ,25,30,10,0,2,0.0,3.68,3.65,Above Average,11.06,False,False,False,84.6,55.833333333333336,👀 Watch
-ELDEHSG,25,30,10,0,0,0.0,0.82,0.32,Normal,4.36,False,False,False,44.5,54.166666666666664,👀 Watch
-KARURVYSYA,15,30,10,10,0,0.0,19.25,39.26,Above Average,2.44,False,False,False,58.3,54.166666666666664,👀 Watch
-UJJIVANSFB,15,30,10,10,0,0.0,17.23,31.12,Above Average,1.68,False,False,False,60.1,54.166666666666664,👀 Watch
-PPAP,20,30,10,1,2,0.0,5.66,0.0,High,15.22,False,False,False,66.4,52.5,👀 Watch
-NIBL,25,25,10,0,2,0.0,0.0,0.01,Normal,5.1,False,False,False,67.6,51.66666666666667,👀 Watch
-IMFA,20,30,10,0,0,0.0,3.87,0.82,Above Average,8.27,False,False,False,64.3,50.0,👀 Watch
-EIFFL,0,25,10,0,0,0.0,0.05,2.03,High,0.5,False,False,False,17.6,29.166666666666668,❌ Avoid
-VENUSREM,5,15,10,0,0,0.0,2.8,1.2,Above Average,2.31,False,False,False,41.4,25.0,❌ Avoid
+symbol,total_score,volume_conviction,accumulation_pattern,rs_score,rs_status,sector_strength,institutional_score,multibagger_bonus,block_buying_detected,sustained_volume,price_tightening,volume_distribution,delivery_pct,fii_holding,dii_holding,volume_trend,price_momentum,signal,close
+VENUSREM,64,25,17,13,Strong RS | Strong RS uptrend ✓,6,2,1,False,False,False,72.68474856970293,0.0,2.8,1.2,Surging,2.311991869918699,👀 Watch,1006.75
+IMFA,60,22,14,13,Strong RS | Strong RS uptrend ✓,6,2,3,False,True,False,65.18354593287825,0.0,3.87,0.82,Surging,8.266308773601876,👀 Watch,1548.0999755859375
+SUPRAJIT,60,13,22,10,Strong RS | Weak RS uptrend,6,7,2,False,False,True,58.0852994800717,0.0,6.5,17.17,Rising,6.50590894184334,👀 Watch,446.1000061035156
+UJJIVANSFB,59,16,14,15,At 52W RS high ✓ | Strong RS uptrend ✓,6,8,0,False,False,False,59.06296607737873,0.0,17.23,31.12,Rising,1.6783487240033226,👀 Watch,62.400001525878906
+MMTC,59,25,14,11,Above avg RS | Strong RS uptrend ✓,6,2,1,False,False,False,80.36176595663203,0.0,0.13,1.77,Rising,3.9405085046340207,👀 Watch,67.79000091552734
+TATACONSUM,59,13,19,13,At 52W RS high ✓ | Moderate RS uptrend,6,8,0,False,False,False,55.47543050707851,0.0,20.79,24.18,Rising,1.3615931080138148,👀 Watch,1176.199951171875
+PRICOLLTD,58,12,17,15,At 52W RS high ✓ | Strong RS uptrend ✓,6,8,0,False,False,False,61.72220388711239,0.0,15.61,12.44,Declining,7.954540882010916,👀 Watch,622.25
+JKPAPER,58,15,17,13,Strong RS | Strong RS uptrend ✓,6,6,1,False,False,False,67.84771829688924,0.0,11.59,6.15,Normal,2.571041948579161,👀 Watch,379.0
+GRAPHITE,58,19,11,15,At 52W RS high ✓ | Strong RS uptrend ✓,6,6,1,False,False,False,68.55569175932837,0.0,6.7,10.49,Rising,6.067019400352733,👀 Watch,751.75
+MAYURUNIQ,56,16,17,15,At 52W RS high ✓ | Strong RS uptrend ✓,6,2,0,False,False,False,60.38167051764209,0.0,3.68,3.65,Rising,11.064056971314338,👀 Watch,629.4000244140625
+GEOJITFSL,55,19,14,11,Above avg RS | Strong RS uptrend ✓,6,4,1,False,False,False,69.87835114351194,0.0,1.87,9.87,Normal,9.740366145318816,👀 Watch,71.43000030517578
+TITAN,55,10,16,15,At 52W RS high ✓ | Strong RS uptrend ✓,6,8,0,False,False,False,52.6166811369023,0.0,15.65,14.84,Normal,3.346321338528535,👀 Watch,4509.0
+KARURVYSYA,55,16,17,8,Near 52W RS high | RS downtrend ⚠️,6,8,0,False,False,False,64.03896860780172,0.0,19.25,39.26,Normal,2.437794266574026,👀 Watch,304.6499938964844
+RICOAUTO,54,18,14,13,At 52W RS high ✓ | Moderate RS uptrend,6,2,1,False,False,False,71.8216379163635,0.0,2.14,0.09,Declining,9.76647257709934,⚠️ Avoid,126.44000244140625
+DLINKINDIA,52,19,14,11,Above avg RS | Strong RS uptrend ✓,6,2,0,False,False,False,62.86359546624769,0.0,1.26,0.01,Surging,4.687673793960182,⚠️ Avoid,466.75
+TIMKEN,52,16,9,13,At 52W RS high ✓ | Moderate RS uptrend,6,8,0,False,False,False,63.75369945738962,0.0,6.96,30.63,Normal,3.4413334009589445,⚠️ Avoid,3595.0
+WELSPUNLIV,51,12,14,13,Strong RS | Strong RS uptrend ✓,6,6,0,False,False,False,63.57011754609731,0.0,4.99,11.18,Declining,3.336428380264403,⚠️ Avoid,133.8000030517578
+JBMA,51,18,11,13,Strong RS | Strong RS uptrend ✓,6,2,1,False,False,False,79.1360498779152,0.0,1.97,0.1,Declining,3.3720394139343632,⚠️ Avoid,649.9000244140625
+GALAPREC,51,13,17,11,Strong RS | Moderate RS uptrend,6,2,2,False,True,False,53.75802141100413,0.0,1.3,5.46,Rising,9.332146034626328,⚠️ Avoid,857.0
+PIDILITIND,50,13,16,8,Near 52W RS high | RS downtrend ⚠️,6,7,0,False,False,False,52.13304138806859,0.0,11.75,9.56,Rising,8.163566349635108,⚠️ Avoid,1476.0
+BANARBEADS,50,22,14,5,Above avg RS | RS downtrend ⚠️,6,2,1,False,False,False,71.528449438337,0.0,0.0,0.0,Rising,9.949253050755383,⚠️ Avoid,121.33999633789062
+DBSTOCKBRO,50,12,19,11,Above avg RS | Strong RS uptrend ✓,6,2,0,False,False,False,61.06932323270835,0.0,0.0,0.0,Declining,1.423362417615938,⚠️ Avoid,27.790000915527344
+APOLLOHOSP,50,6,16,12,At 52W RS high ✓ | Weak RS uptrend,6,8,2,False,False,True,49.88449035525592,0.0,42.62,22.76,Declining,4.646203554119547,⚠️ Avoid,8097.0
+ELDEHSG,50,15,19,7,Strong RS | RS downtrend ⚠️,6,2,1,False,False,False,68.83868903220323,0.0,0.82,0.32,Declining,4.3649846130040455,⚠️ Avoid,859.5499877929688
+FLAIR,50,12,13,15,At 52W RS high ✓ | Strong RS uptrend ✓,6,4,0,False,False,False,60.16324479445032,0.0,0.3,10.34,Normal,4.959571326724165,⚠️ Avoid,337.54998779296875
+SENCO,50,12,11,14,Near 52W RS high | Strong RS uptrend ✓,6,7,0,False,False,False,61.740061922902825,0.0,7.6,12.61,Declining,8.977037637740953,⚠️ Avoid,365.3999938964844
+PPAP,49,18,11,9,Above avg RS | Moderate RS uptrend,6,2,3,False,True,False,72.29450969875661,0.0,5.66,0.0,Declining,15.220514739791366,⚠️ Avoid,232.25
+LUMAXIND,48,15,17,7,Strong RS | RS downtrend ⚠️,6,2,1,False,False,False,65.04122897347905,0.0,1.63,6.07,Declining,14.025536969217065,⚠️ Avoid,5760.0
+ASIANPAINT,48,6,19,13,Strong RS | Strong RS uptrend ✓,6,4,0,False,False,False,54.88000134018998,0.0,12.11,0.0,Normal,6.200718869004962,⚠️ Avoid,2599.89990234375
+FIEMIND,46,9,11,14,Near 52W RS high | Strong RS uptrend ✓,6,6,0,False,False,False,55.57291211879196,0.0,6.86,11.4,Declining,-0.14535738700390757,⚠️ Avoid,2267.0
+NIBL,43,12,14,9,Above avg RS | Moderate RS uptrend,6,2,0,False,False,False,61.913608690996156,0.0,0.0,0.01,Declining,5.100070543579592,⚠️ Avoid,32.560001373291016
+SANSTAR,42,9,11,14,Near 52W RS high | Strong RS uptrend ✓,6,2,0,False,False,False,59.84559930943084,0.0,0.01,0.31,Declining,4.69401049020826,⚠️ Avoid,95.45999908447266
+RAIN,39,9,11,9,Above avg RS | Moderate RS uptrend,6,4,0,False,False,False,58.35998566042721,0.0,8.06,2.15,Declining,12.69393843362113,⚠️ Avoid,143.82000732421875
+MOREPENLAB,39,9,14,8,Weak RS | Strong RS uptrend ✓,6,2,0,False,False,False,58.43203679843831,0.0,1.59,1.25,Declining,8.666665213448661,⚠️ Avoid,45.63999938964844
+ASPINWALL,39,6,14,11,Above avg RS | Strong RS uptrend ✓,6,2,0,False,False,False,45.44891969714113,0.0,0.0,0.0,Declining,9.67391304347826,⚠️ Avoid,252.25
+BALPHARMA,37,6,14,9,Moderate RS | Strong RS uptrend ✓,6,2,0,False,False,False,47.349879975133696,0.0,0.14,0.0,Declining,6.158942418382658,⚠️ Avoid,80.1500015258789
+EIFFL,34,6,11,9,Above avg RS | Moderate RS uptrend,6,2,0,False,False,False,49.092031845912985,0.0,0.05,2.03,Declining,0.4996123787893475,⚠️ Avoid,247.4199981689453
