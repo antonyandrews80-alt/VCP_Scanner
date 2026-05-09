@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - main
+    paths:
+      - '*_Telegram_Summary.txt'  # Only trigger when summary file changes
   workflow_dispatch:
 
 jobs:
@@ -24,10 +26,10 @@ jobs:
             
             # Split the file at the detailed analysis section
             # Part 1: Everything up to "DETAILED ANALYSIS"
-            PART1=$(sed -n '1,/🔍 DETAILED ANALYSIS/p' "$SUMMARY_FILE" | head -n -1)
+            PART1=$(sed -n '1,/🔍.*TOP.*ANALYSIS/p' "$SUMMARY_FILE" | head -n -1)
             
             # Part 2: Detailed analysis section
-            PART2=$(sed -n '/🔍 DETAILED ANALYSIS/,$p' "$SUMMARY_FILE")
+            PART2=$(sed -n '/🔍.*TOP.*ANALYSIS/,$p' "$SUMMARY_FILE")
             
             # Send Part 1 (Summary & Table)
             curl -X POST \
