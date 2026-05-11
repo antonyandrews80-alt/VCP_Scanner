@@ -1,11 +1,9 @@
 name: Send Telegram Notification
-
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - '*_Telegram_Summary.txt'  # Only trigger when summary file changes
+  # Scheduled — 7:35 PM Dubai time (15:35 UTC)
+  schedule:
+    - cron: '35 15 * * 1-5'
+  # Manual trigger from GitHub Actions tab
   workflow_dispatch:
 
 jobs:
