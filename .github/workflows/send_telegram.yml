@@ -1,0 +1,59 @@
+name: Send Telegram Notification
+on:
+  schedule:
+    - cron: '35 15 * * 1-5'
+  workflow_dispatch:
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Send Telegram Summary
+        run: |
+          # Find the most recent Telegram summary file
+          SUMMARY_FILE=$(ls -t *_Telegram_Summary.txt 2>/dev/null | head -n 1)
+          
+          if [ -f "$SUMMARY_FILE" ]; then
+            echo "Found summary file: $SUMMARY_FILE"
+            
+            # Split the file at the detailed analysis section
+            # Part 1: Everything up to "DETAILED ANALYSIS"
+            PART1=$(sed -n '1,/🔍.*TOP.*ANALYSIS/p' "$SUMMARY_FILE" | head -n -1)
+            
+            # Part 2: Detailed analysis section
+            PART2=$(sed -n '/🔍.*TOP.*ANALYSIS/,$p' "$SUMMARY_FILE")
+            
+            # Send Part 1 (Summary & Table)
+            curl -X POST \
+              "https://api.telegram.org/bot${{ secrets.TELEGRAM_TOKEN }}/sendMessage" \
+              -F "chat_id=${{ secrets.TELEGRAM_CHAT_ID }}" \
+              -F "text=$PART1"
+            
+            echo "✓ Part 1 sent (Summary Table)"
+            
+            # Wait 1 second to maintain message order
+            sleep 1
+            
+            # Send Part 2 (Detailed Analysis)
+            curl -X POST \
+              "https://api.telegram.org/bot${{ secrets.TELEGRAM_TOKEN }}/sendMessage" \
+              -F "chat_id=${{ secrets.TELEGRAM_CHAT_ID }}" \
+              -F "text=$PART2"
+            
+            echo "✓ Part 2 sent (Detailed Analysis)"
+            
+          else
+            echo "⚠ No summary file found"
+            
+            curl -X POST \
+              "https://api.telegram.org/bot${{ secrets.TELEGRAM_TOKEN }}/sendMessage" \
+              -F "chat_id=${{ secrets.TELEGRAM_CHAT_ID }}" \
+              -F "text=VCP Scanner completed - check GitHub for results"
+          fi
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
