@@ -1,50 +1,67 @@
 🎯 *SMART MONEY REPORT*
-📅 2026-05-12 | ⏰ 12:04
+📅 2026-05-12 | ⏰ 19:21
 
 
 📈 *MARKET STATUS*
-🚨 MARKET WEAK: Nifty 1.6% BELOW 50 MA
+🚨 MARKET WEAK: Nifty 2.2% BELOW 50 MA
 💰 Position Sizing: CASH/MINIMAL POSITIONS ONLY
 
-📊 Analyzed: 11 | Qualified: 7
+📊 Analyzed: 11 | Qualified: 6
 
 ━━━━━━━━━━━━━━━━━━━━━━━━
 
 🏆 *TOP 10 PICKS*
 
-1. *FIEMIND* 
-   Score: 57 | 👀 Watch
-   Vol: 76% | FII: 6.9%
+1. *GANDHITUBE* 
+   Score: 59 | 👀 Watch
+   Vol: 73% | FII: 1.2%
 
-2. *GANDHITUBE* 
+2. *FIEMIND* 
    Score: 57 | 👀 Watch
-   Vol: 70% | FII: 1.2%
+   Vol: 68% | FII: 6.9%
 
-3. *TATASTEEL* 
-   Score: 57 | 👀 Watch
-   Vol: 60% | FII: 18.6%
-
-4. *OIL* 
+3. *OIL* 
    Score: 56 | 👀 Watch
-   Vol: 63% | FII: 7.7%
+   Vol: 65% | FII: 7.7%
 
-5. *INSPIRISYS* 
+4. *INSPIRISYS* 
    Score: 56 | 👀 Watch
-   Vol: 87% | FII: 0.0%
+   Vol: 89% | FII: 0.0%
 
-6. *JINDRILL* 
+5. *JINDRILL* 
    Score: 54 | 👀 Watch
-   Vol: 91% | FII: 0.6%
+   Vol: 93% | FII: 0.6%
 
-7. *PANACHE* 
+6. *PANACHE* 
    Score: 50 | 👀 Watch
-   Vol: 77% | FII: 0.0%
+   Vol: 78% | FII: 0.0%
 
 ━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔍 *TOP 10 ANALYSIS*
 
-*#1. FIEMIND* — 57/100
+*#1. GANDHITUBE* — 59/100
+
+📊 *Scores:*
+   • Volume: 28/30
+   • Pattern: 25/25
+   • Sector: 10/12
+   • Institutional: 2/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 72.6%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 1.2% | DII: 0.1%
+   Momentum: +1.46%
+
+─────────────────────
+
+*#2. FIEMIND* — 57/100
 
 📊 *Scores:*
    • Volume: 22/30
@@ -57,78 +74,36 @@
       Block Buy: No
       Sustained Vol: No
    ✓ Tightening: YES
-   📈 VolDist: 75.9%
+   📈 VolDist: 68.4%
 
 📈 *Metrics:*
    Del: 0.0% | FII: 6.9% | DII: 11.4%
-   Momentum: -0.50%
+   Momentum: -2.68%
 
 ─────────────────────
 
-*#2. GANDHITUBE* — 57/100
+*#3. OIL* — 56/100
 
 📊 *Scores:*
-   • Volume: 25/30
-   • Pattern: 25/25
-   • Sector: 10/12
-   • Institutional: 2/8
-   • 🆕 Multibagger: 6/10
-
-🎯 *Signals:*
-      Block Buy: No
-      Sustained Vol: No
-   ✓ Tightening: YES
-   📈 VolDist: 69.7%
-
-📈 *Metrics:*
-   Del: 0.0% | FII: 1.2% | DII: 0.1%
-   Momentum: +2.63%
-
-─────────────────────
-
-*#3. TATASTEEL* — 57/100
-
-📊 *Scores:*
-   • Volume: 14/30
+   • Volume: 19/30
    • Pattern: 22/25
    • Sector: 10/12
    • Institutional: 10/8
-   • 🆕 Multibagger: 12/10
-
-🎯 *Signals:*
-      Block Buy: No
-   ✓ Sustained Vol: YES
-   ✓ Tightening: YES
-   📈 VolDist: 60.1%
-
-📈 *Metrics:*
-   Del: 0.0% | FII: 18.6% | DII: 26.7%
-   Momentum: -1.07%
-
-─────────────────────
-
-*#4. OIL* — 56/100
-
-📊 *Scores:*
-   • Volume: 16/30
-   • Pattern: 25/25
-   • Sector: 10/12
-   • Institutional: 10/8
    • 🆕 Multibagger: 6/10
 
 🎯 *Signals:*
       Block Buy: No
       Sustained Vol: No
    ✓ Tightening: YES
-   📈 VolDist: 62.6%
+   📈 VolDist: 65.2%
 
 📈 *Metrics:*
    Del: 0.0% | FII: 7.7% | DII: 19.4%
-   Momentum: +9.48%
+   Momentum: +9.04%
 
 ─────────────────────
 
-*#5. INSPIRISYS* — 56/100
+*#4. INSPIRISYS* — 56/100
 
 📊 *Scores:*
    • Volume: 25/30
@@ -141,15 +116,15 @@
       Block Buy: No
       Sustained Vol: No
       Tightening: No
-   📈 VolDist: 87.2%
+   📈 VolDist: 88.8%
 
 📈 *Metrics:*
    Del: 0.0% | FII: 0.0% | DII: 0.0%
-   Momentum: +10.97%
+   Momentum: +9.89%
 
 ─────────────────────
 
-*#6. JINDRILL* — 54/100
+*#5. JINDRILL* — 54/100
 
 📊 *Scores:*
    • Volume: 28/30
@@ -162,15 +137,15 @@
       Block Buy: No
       Sustained Vol: No
       Tightening: No
-   📈 VolDist: 91.3%
+   📈 VolDist: 93.2%
 
 📈 *Metrics:*
    Del: 0.0% | FII: 0.6% | DII: 0.0%
-   Momentum: +8.89%
+   Momentum: +8.82%
 
 ─────────────────────
 
-*#7. PANACHE* — 50/100
+*#6. PANACHE* — 50/100
 
 📊 *Scores:*
    • Volume: 28/30
@@ -183,11 +158,11 @@
       Block Buy: No
       Sustained Vol: No
       Tightening: No
-   📈 VolDist: 77.0%
+   📈 VolDist: 78.4%
 
 📈 *Metrics:*
    Del: 0.0% | FII: 0.0% | DII: 0.0%
-   Momentum: +4.99%
+   Momentum: +4.26%
 
 ─────────────────────
 
