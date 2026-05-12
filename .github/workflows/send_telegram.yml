@@ -1,5 +1,8 @@
 name: Send Telegram Notification
 on:
+  push:
+    paths:
+      - '*_Telegram_Summary.txt'
   schedule:
     - cron: '35 15 * * 1-5'
   workflow_dispatch:
