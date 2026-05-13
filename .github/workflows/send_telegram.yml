@@ -1,6 +1,11 @@
 name: Send Telegram Notification
 on:
-  workflow_dispatch:  # ONLY manual trigger, nothing else
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '35 15 * * 1-5'
+  workflow_dispatch:
 jobs:
   notify:
     runs-on: ubuntu-latest
