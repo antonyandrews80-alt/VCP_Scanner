@@ -3,6 +3,9 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - '.github/workflows/**'  # Ignore all workflow file changes
+      - 'README.md'              # Ignore README changes
   workflow_dispatch:
 
 jobs:
