@@ -1,0 +1,80 @@
+name: Keep Only Last 5 Files
+
+on:
+  workflow_dispatch:  # Manual trigger
+  schedule:
+    - cron: '0 3 * * 0'  # Weekly on Sunday at 3 AM UTC (7 AM Dubai)
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Fetch all history
+      
+      - name: Keep only last 5 of each file type
+        run: |
+          echo "🗑️ Keeping only last 5 files of each type..."
+          
+          # Function to keep only last N files
+          keep_last_n() {
+            pattern=$1
+            keep=$2
+            echo "Processing: $pattern"
+            
+            # List files sorted by date (newest first), skip first N, delete rest
+            ls -t $pattern 2>/dev/null | tail -n +$((keep + 1)) | while read file; do
+              echo "  Deleting: $file"
+              git rm -f "$file" || rm -f "$file"
+            done
+          }
+          
+          # Keep last 5 of each file type
+          keep_last_n "*_All_Scans.csv" 5
+          keep_last_n "*_Telegram_Summary.txt" 5
+          keep_last_n "*_Accumulation_Analysis.csv" 5
+          keep_last_n "*_NIFTY50.csv" 5
+          
+          # Clean up prices folder (keep last 5 days worth)
+          if [ -d "prices" ]; then
+            echo "Cleaning prices folder..."
+            cd prices
+            # Get unique dates from filenames
+            dates=$(ls *.csv 2>/dev/null | cut -d'_' -f1 | sort -u | tail -n +6)
+            for date in $dates; do
+              echo "  Deleting prices from: $date"
+              rm -f ${date}_*.csv
+            done
+            cd ..
+          fi
+          
+          # Clean up sectors folder (keep last 5)
+          if [ -d "sectors" ]; then
+            echo "Cleaning sectors folder..."
+            cd sectors
+            ls -t *.csv 2>/dev/null | tail -n +6 | while read file; do
+              echo "  Deleting: $file"
+              rm -f "$file"
+            done
+            cd ..
+          fi
+          
+          echo "✅ Cleanup complete!"
+      
+      - name: Commit and push cleanup
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Check if there are changes
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            git commit -m "🗑️ Auto-cleanup: Keep only last 5 files"
+            git push
+            echo "✅ Changes committed and pushed"
+          else
+            echo "ℹ️ No files to clean up"
+          fi
