@@ -1,4 +1,4 @@
-name: Keep Only Last 5 Files
+name: Keep Only Last 3 Days Files
 
 on:
   workflow_dispatch:  # Manual trigger
@@ -18,9 +18,9 @@ jobs:
         with:
           fetch-depth: 0  # Fetch all history
       
-      - name: Keep only last 5 of each file type
+      - name: Keep only last 3 days of files
         run: |
-          echo "🗑️ Keeping only last 5 files of each type..."
+          echo "🗑️ Keeping only last 3 days of files..."
           
           # Function to keep only last N files
           keep_last_n() {
@@ -35,18 +35,18 @@ jobs:
             done
           }
           
-          # Keep last 5 of each file type
-          keep_last_n "*_All_Scans.csv" 5
-          keep_last_n "*_Telegram_Summary.txt" 5
-          keep_last_n "*_Accumulation_Analysis.csv" 5
-          keep_last_n "*_NIFTY50.csv" 5
+          # Keep last 3 of each file type (3 days = 3 files)
+          keep_last_n "*_All_Scans.csv" 3
+          keep_last_n "*_Telegram_Summary.txt" 3
+          keep_last_n "*_Accumulation_Analysis.csv" 3
+          keep_last_n "*_NIFTY50.csv" 3
           
-          # Clean up prices folder (keep last 5 days worth)
+          # Clean up prices folder (keep last 3 days worth)
           if [ -d "prices" ]; then
             echo "Cleaning prices folder..."
             cd prices
-            # Get unique dates from filenames
-            dates=$(ls *.csv 2>/dev/null | cut -d'_' -f1 | sort -u | tail -n +6)
+            # Get unique dates from filenames and keep only last 3 dates
+            dates=$(ls *.csv 2>/dev/null | cut -d'_' -f1 | sort -u | tail -n +4)
             for date in $dates; do
               echo "  Deleting prices from: $date"
               rm -f ${date}_*.csv
@@ -54,11 +54,11 @@ jobs:
             cd ..
           fi
           
-          # Clean up sectors folder (keep last 5)
+          # Clean up sectors folder (keep last 3)
           if [ -d "sectors" ]; then
             echo "Cleaning sectors folder..."
             cd sectors
-            ls -t *.csv 2>/dev/null | tail -n +6 | while read file; do
+            ls -t *.csv 2>/dev/null | tail -n +4 | while read file; do
               echo "  Deleting: $file"
               rm -f "$file"
             done
@@ -75,7 +75,7 @@ jobs:
           # Check if there are changes
           if [ -n "$(git status --porcelain)" ]; then
             git add -A
-            git commit -m "🗑️ Auto-cleanup: Keep only last 5 files"
+            git commit -m "🗑️ Auto-cleanup: Keep only last 3 days"
             git push
             echo "✅ Changes committed and pushed"
           else
