@@ -1,0 +1,247 @@
+🎯 *SMART MONEY REPORT*
+📅 2026-05-13 | ⏰ 10:38
+
+
+📈 *MARKET STATUS*
+🚨 MARKET WEAK: Nifty 1.6% BELOW 50 MA
+💰 Position Sizing: CASH/MINIMAL POSITIONS ONLY
+
+📊 Analyzed: 20 | Qualified: 9
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 *TOP 10 PICKS*
+
+1. *FOSECOIND* 
+   Score: 58 | 👀 Watch
+   Vol: 86% | FII: 0.1%
+
+2. *BERGEPAINT* 
+   Score: 57 | 👀 Watch
+   Vol: 93% | FII: 4.7%
+
+3. *LINDEINDIA* 
+   Score: 57 | 👀 Watch
+   Vol: 76% | FII: 2.0%
+
+4. *USHAMART* 
+   Score: 56 | 👀 Watch
+   Vol: 51% | FII: 14.8%
+
+5. *TATASTEEL* 
+   Score: 54 | 👀 Watch
+   Vol: 45% | FII: 18.6%
+
+6. *MANAPPURAM* 
+   Score: 53 | 👀 Watch
+   Vol: 70% | FII: 23.2%
+
+7. *BHARATSE* 
+   Score: 51 | 👀 Watch
+   Vol: 58% | FII: 0.1%
+
+8. *NLCINDIA* 
+   Score: 51 | 👀 Watch
+   Vol: 61% | FII: 3.6%
+
+9. *DBSTOCKBRO* 
+   Score: 50 | 👀 Watch
+   Vol: 80% | FII: 0.0%
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 *TOP 10 ANALYSIS*
+
+*#1. FOSECOIND* — 58/100
+
+📊 *Scores:*
+   • Volume: 28/30
+   • Pattern: 30/25
+   • Sector: 10/12
+   • Institutional: 2/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 86.2%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.1% | DII: 0.6%
+   Momentum: +10.39%
+
+─────────────────────
+
+*#2. BERGEPAINT* — 57/100
+
+📊 *Scores:*
+   • Volume: 28/30
+   • Pattern: 25/25
+   • Sector: 10/12
+   • Institutional: 6/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 93.4%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 4.7% | DII: 11.7%
+   Momentum: +6.63%
+
+─────────────────────
+
+*#3. LINDEINDIA* — 57/100
+
+📊 *Scores:*
+   • Volume: 25/30
+   • Pattern: 25/25
+   • Sector: 10/12
+   • Institutional: 2/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 76.4%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 2.0% | DII: 6.9%
+   Momentum: -4.55%
+
+─────────────────────
+
+*#4. USHAMART* — 56/100
+
+📊 *Scores:*
+   • Volume: 16/30
+   • Pattern: 25/25
+   • Sector: 10/12
+   • Institutional: 10/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 51.1%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 14.8% | DII: 14.8%
+   Momentum: +1.43%
+
+─────────────────────
+
+*#5. TATASTEEL* — 54/100
+
+📊 *Scores:*
+   • Volume: 8/30
+   • Pattern: 25/25
+   • Sector: 10/12
+   • Institutional: 10/8
+   • 🆕 Multibagger: 12/10
+
+🎯 *Signals:*
+      Block Buy: No
+   ✓ Sustained Vol: YES
+   ✓ Tightening: YES
+   📈 VolDist: 44.7%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 18.6% | DII: 26.7%
+   Momentum: +0.00%
+
+─────────────────────
+
+*#6. MANAPPURAM* — 53/100
+
+📊 *Scores:*
+   • Volume: 19/30
+   • Pattern: 25/25
+   • Sector: 10/12
+   • Institutional: 10/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 69.9%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 23.2% | DII: 13.0%
+   Momentum: -3.29%
+
+─────────────────────
+
+*#7. BHARATSE* — 51/100
+
+📊 *Scores:*
+   • Volume: 19/30
+   • Pattern: 30/25
+   • Sector: 10/12
+   • Institutional: 2/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 57.6%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.1% | DII: 0.2%
+   Momentum: -4.08%
+
+─────────────────────
+
+*#8. NLCINDIA* — 51/100
+
+📊 *Scores:*
+   • Volume: 14/30
+   • Pattern: 25/25
+   • Sector: 10/12
+   • Institutional: 6/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+   ✓ Sustained Vol: YES
+      Tightening: No
+   📈 VolDist: 61.3%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 3.6% | DII: 14.0%
+   Momentum: -3.56%
+
+─────────────────────
+
+*#9. DBSTOCKBRO* — 50/100
+
+📊 *Scores:*
+   • Volume: 22/30
+   • Pattern: 20/25
+   • Sector: 10/12
+   • Institutional: 2/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 79.7%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.0% | DII: 0.0%
+   Momentum: -0.15%
+
+─────────────────────
+
+💡 *Legend:*
+Vol = % volume on up days (target >65%)
+Bonus = Multibagger signal points
+Del = Delivery %
