@@ -1,10 +1,10 @@
 name: Send Telegram Notification
 on:
- push:
+  push:
     branches:
       - main
-  schedule:
-    - cron: '35 15 * * 1-5'
+  # schedule:
+  #   - cron: '35 15 * * 1-5'
   workflow_dispatch:
 
 jobs:
