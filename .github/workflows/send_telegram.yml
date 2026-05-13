@@ -1,6 +1,9 @@
 name: Send Telegram Notification
+
 on:
-  workflow_dispatch:
+  schedule:
+    - cron: '35 15 * * 1-5'  # 7:35 PM Dubai time (Mon-Fri)
+  workflow_dispatch:  # Manual trigger
 
 jobs:
   notify:
