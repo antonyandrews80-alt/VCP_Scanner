@@ -1,9 +1,14 @@
 name: Send Telegram Notification
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - '*_Telegram_Summary.txt'  # Only trigger on summary file
   schedule:
-    - cron: '35 15 * * 1-5'  # 7:35 PM Dubai time (Mon-Fri)
-  workflow_dispatch:  # Manual trigger
+    - cron: '35 15 * * 1-5'  # Backup schedule
+  workflow_dispatch:
 
 jobs:
   notify:
