@@ -1,0 +1,247 @@
+🎯 *SMART MONEY REPORT*
+📅 2026-05-14 | ⏰ 19:33
+
+
+📈 *MARKET STATUS*
+🚨 MARKET WEAK: Nifty 0.6% BELOW 50 MA
+💰 Position Sizing: CASH/MINIMAL POSITIONS ONLY
+
+📊 Analyzed: 15 | Qualified: 9
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 *TOP 10 PICKS*
+
+1. *JBCHEPHARM* 
+   Score: 62 | 👀 Watch
+   Vol: 66% | FII: 16.3%
+
+2. *ZYDUSLIFE* 
+   Score: 60 | 👀 Watch
+   Vol: 87% | FII: 7.0%
+
+3. *GOKUL* 
+   Score: 54 | 👀 Watch
+   Vol: 75% | FII: 0.3%
+
+4. *HINDCOPPER* 
+   Score: 53 | 👀 Watch
+   Vol: 80% | FII: 6.3%
+
+5. *JSWSTEEL* 
+   Score: 52 | 👀 Watch
+   Vol: 68% | FII: 25.4%
+
+6. *KEI* 
+   Score: 52 | 👀 Watch
+   Vol: 33% | FII: 27.3%
+
+7. *RBLBANK* 
+   Score: 50 | 👀 Watch
+   Vol: 52% | FII: 20.2%
+
+8. *BAIDFIN* 
+   Score: 50 | 👀 Watch
+   Vol: 74% | FII: 0.2%
+
+9. *CARERATING* 
+   Score: 50 | 👀 Watch
+   Vol: 66% | FII: 23.2%
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 *TOP 10 ANALYSIS*
+
+*#1. JBCHEPHARM* — 62/100
+
+📊 *Scores:*
+   • Volume: 19/30
+   • Pattern: 30/25
+   • Sector: 10/12
+   • Institutional: 10/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 66.4%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 16.3% | DII: 21.4%
+   Momentum: -0.56%
+
+─────────────────────
+
+*#2. ZYDUSLIFE* — 60/100
+
+📊 *Scores:*
+   • Volume: 25/30
+   • Pattern: 25/25
+   • Sector: 10/12
+   • Institutional: 6/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 86.9%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 7.0% | DII: 11.2%
+   Momentum: +5.49%
+
+─────────────────────
+
+*#3. GOKUL* — 54/100
+
+📊 *Scores:*
+   • Volume: 28/30
+   • Pattern: 25/25
+   • Sector: 10/12
+   • Institutional: 2/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 74.8%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.3% | DII: 0.0%
+   Momentum: +6.84%
+
+─────────────────────
+
+*#4. HINDCOPPER* — 53/100
+
+📊 *Scores:*
+   • Volume: 20/30
+   • Pattern: 30/25
+   • Sector: 10/12
+   • Institutional: 4/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 80.5%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 6.3% | DII: 5.4%
+   Momentum: +6.54%
+
+─────────────────────
+
+*#5. JSWSTEEL* — 52/100
+
+📊 *Scores:*
+   • Volume: 17/30
+   • Pattern: 20/25
+   • Sector: 10/12
+   • Institutional: 10/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 67.6%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 25.4% | DII: 11.2%
+   Momentum: +1.49%
+
+─────────────────────
+
+*#6. KEI* — 52/100
+
+📊 *Scores:*
+   • Volume: 16/30
+   • Pattern: 20/25
+   • Sector: 10/12
+   • Institutional: 10/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 33.2%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 27.3% | DII: 25.8%
+   Momentum: +0.88%
+
+─────────────────────
+
+*#7. RBLBANK* — 50/100
+
+📊 *Scores:*
+   • Volume: 8/30
+   • Pattern: 20/25
+   • Sector: 10/12
+   • Institutional: 10/8
+   • 🆕 Multibagger: 12/10
+
+🎯 *Signals:*
+      Block Buy: No
+   ✓ Sustained Vol: YES
+   ✓ Tightening: YES
+   📈 VolDist: 52.1%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 20.2% | DII: 43.0%
+   Momentum: -1.82%
+
+─────────────────────
+
+*#8. BAIDFIN* — 50/100
+
+📊 *Scores:*
+   • Volume: 22/30
+   • Pattern: 20/25
+   • Sector: 10/12
+   • Institutional: 2/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 73.9%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.2% | DII: 0.0%
+   Momentum: +2.58%
+
+─────────────────────
+
+*#9. CARERATING* — 50/100
+
+📊 *Scores:*
+   • Volume: 25/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 10/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 66.3%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 23.2% | DII: 31.4%
+   Momentum: +5.17%
+
+─────────────────────
+
+💡 *Legend:*
+Vol = % volume on up days (target >65%)
+Bonus = Multibagger signal points
+Del = Delivery %
