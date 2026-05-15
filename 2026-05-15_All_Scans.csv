@@ -1,0 +1,21 @@
+Date,Symbol,Mcap,Change,Dpower,Mpower,Sector,Scanner_Source,Volume multiples,Marketcap,Sectors
+15th May'26,SAKAR,smallcap,16.16,66.87,82.68,healthcare,Screener 1,,,
+15th May'26,KIRLOSENG,largecap,8.99,61.91,74.22,industrials,Screener 1,,,
+15th May'26,EMCURE,largecap,1.74,57.28,62.79,healthcare,Screener 1,,,
+15th May'26,ABCAPITAL,largecap,2.15,56.95,65.97,financials,Screener 1,,,
+15th May'26,CENTUM,smallcap,1.04,56.45,66.85,consumer discretionary,Screener 1,,,
+15th May'26,GESHIP,largecap,3.3,56.09,71.53,transportation,Screener 1,,,
+15th May'26,SOUTHWEST,smallcap,2.3,55.55,66.23,metals & mining,Screener 1,,,
+15th May'26,KMEW,smallcap,1.65,55.17,68.49,transportation,Screener 1,,,
+15th May'26,PGIL,,9.34,,,,Tiger breakouts,66.24,midcap,consumer discretionary
+15th May'26,PRICOLLTD,,7.47,,,,Tiger breakouts,42.93,midcap,auto
+15th May'26,NAZARA,,12.76,,,,Tiger breakouts,27.1,midcap,i.t
+15th May'26,TEAMGTY,,13.11,,,,Tiger breakouts,25.08,smallcap,financials
+15th May'26,NIBL,,8.05,,,,Tiger breakouts,14.64,smallcap,industrials
+15th May'26,MEDPLUS,,6.16,,,,Tiger breakouts,6.65,midcap,consumer discretionary
+15th May'26,WELSPUNLIV,,5.06,,,,Tiger breakouts,5.47,midcap,textiles
+15th May'26,ATULAUTO,,5.87,,,,Tiger breakouts,5.39,smallcap,auto
+15th May'26,SAKAR,,16.16,,,,Tiger breakouts,4.69,smallcap,healthcare
+15th May'26,IPCALAB,,1.33,,,,Tiger breakouts,3.62,largecap,healthcare
+15th May'26,GMRP&UI,,0.397,,,,Tiger breakouts,2.43,midcap,realty
+15th May'26,JSWSTEEL,,-1.4,,,,Tiger breakouts,2.4,largecap,metals & mining
