@@ -1,0 +1,197 @@
+🎯 *SMART MONEY REPORT*
+📅 2026-05-18 | ⏰ 19:37
+
+
+📈 *MARKET STATUS*
+🚨 MARKET WEAK: Nifty 0.5% BELOW 50 MA
+💰 Position Sizing: CASH/MINIMAL POSITIONS ONLY
+
+📊 Analyzed: 15 | Qualified: 7
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 *TOP 10 PICKS*
+
+1. *IMPAL* 
+   Score: 63 | 👀 Watch
+   Vol: 82% | FII: 3.6%
+
+2. *GESHIP* 
+   Score: 61 | 👀 Watch
+   Vol: 92% | FII: 28.4%
+
+3. *MONARCH* 
+   Score: 59 | 👀 Watch
+   Vol: 74% | FII: 1.5%
+
+4. *MUKANDLTD* 
+   Score: 54 | 👀 Watch
+   Vol: 92% | FII: 0.3%
+
+5. *TIIL* 
+   Score: 54 | 👀 Watch
+   Vol: 74% | FII: 0.4%
+
+6. *GLENMARK* 
+   Score: 52 | 👀 Watch
+   Vol: 45% | FII: 20.4%
+
+7. *TEAMGTY* 
+   Score: 50 | 👀 Watch
+   Vol: 90% | FII: 2.1%
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 *TOP 10 ANALYSIS*
+
+*#1. IMPAL* — 63/100
+
+📊 *Scores:*
+   • Volume: 28/30
+   • Pattern: 30/25
+   • Sector: 10/12
+   • Institutional: 2/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 82.0%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 3.6% | DII: 1.3%
+   Momentum: +3.40%
+
+─────────────────────
+
+*#2. GESHIP* — 61/100
+
+📊 *Scores:*
+   • Volume: 28/30
+   • Pattern: 25/25
+   • Sector: 10/12
+   • Institutional: 10/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 91.6%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 28.4% | DII: 15.2%
+   Momentum: +12.31%
+
+─────────────────────
+
+*#3. MONARCH* — 59/100
+
+📊 *Scores:*
+   • Volume: 28/30
+   • Pattern: 25/25
+   • Sector: 10/12
+   • Institutional: 2/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 74.0%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 1.5% | DII: 0.1%
+   Momentum: +7.23%
+
+─────────────────────
+
+*#4. MUKANDLTD* — 54/100
+
+📊 *Scores:*
+   • Volume: 28/30
+   • Pattern: 25/25
+   • Sector: 10/12
+   • Institutional: 2/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 91.9%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.3% | DII: 1.1%
+   Momentum: +10.07%
+
+─────────────────────
+
+*#5. TIIL* — 54/100
+
+📊 *Scores:*
+   • Volume: 22/30
+   • Pattern: 25/25
+   • Sector: 10/12
+   • Institutional: 2/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 74.3%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.4% | DII: 6.8%
+   Momentum: +4.07%
+
+─────────────────────
+
+*#6. GLENMARK* — 52/100
+
+📊 *Scores:*
+   • Volume: 13/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 10/8
+   • 🆕 Multibagger: 12/10
+
+🎯 *Signals:*
+      Block Buy: No
+   ✓ Sustained Vol: YES
+   ✓ Tightening: YES
+   📈 VolDist: 44.9%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 20.4% | DII: 19.3%
+   Momentum: +3.67%
+
+─────────────────────
+
+*#7. TEAMGTY* — 50/100
+
+📊 *Scores:*
+   • Volume: 28/30
+   • Pattern: 20/25
+   • Sector: 10/12
+   • Institutional: 2/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 90.5%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 2.1% | DII: 0.1%
+   Momentum: +14.65%
+
+─────────────────────
+
+💡 *Legend:*
+Vol = % volume on up days (target >65%)
+Bonus = Multibagger signal points
+Del = Delivery %
