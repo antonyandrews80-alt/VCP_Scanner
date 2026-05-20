@@ -1,0 +1,272 @@
+🎯 *SMART MONEY REPORT*
+📅 2026-05-20 | ⏰ 19:33
+
+
+📈 *MARKET STATUS*
+🚨 MARKET WEAK: Nifty 0.3% BELOW 50 MA
+💰 Position Sizing: CASH/MINIMAL POSITIONS ONLY
+
+📊 Analyzed: 31 | Qualified: 14
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 *TOP 10 PICKS*
+
+1. *TIMKEN* 
+   Score: 66 | ✅ Buy
+   Vol: 81% | FII: 7.0%
+
+2. *MOTHERSON* 
+   Score: 61 | 👀 Watch
+   Vol: 74% | FII: 12.4%
+
+3. *PANAMAPET* 
+   Score: 57 | 👀 Watch
+   Vol: 83% | FII: 11.3%
+
+4. *ZYDUSLIFE* 
+   Score: 57 | 👀 Watch
+   Vol: 91% | FII: 7.0%
+
+5. *CGPOWER* 
+   Score: 56 | 👀 Watch
+   Vol: 68% | FII: 12.0%
+
+6. *DIVISLAB* 
+   Score: 54 | 👀 Watch
+   Vol: 61% | FII: 20.3%
+
+7. *SONAMLTD* 
+   Score: 54 | 👀 Watch
+   Vol: 73% | FII: 0.3%
+
+8. *TATACOMM* 
+   Score: 54 | 👀 Watch
+   Vol: 81% | FII: 14.4%
+
+9. *FAZE3Q* 
+   Score: 54 | 👀 Watch
+   Vol: 76% | FII: 0.1%
+
+10. *ELGIEQUIP* 
+   Score: 52 | 👀 Watch
+   Vol: 67% | FII: 22.2%
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 *TOP 10 ANALYSIS*
+
+*#1. TIMKEN* — 66/100
+
+📊 *Scores:*
+   • Volume: 28/30
+   • Pattern: 25/25
+   • Sector: 10/12
+   • Institutional: 10/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 80.8%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 7.0% | DII: 30.6%
+   Momentum: +4.01%
+
+─────────────────────
+
+*#2. MOTHERSON* — 61/100
+
+📊 *Scores:*
+   • Volume: 22/30
+   • Pattern: 25/25
+   • Sector: 10/12
+   • Institutional: 10/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 74.2%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 12.4% | DII: 21.1%
+   Momentum: +4.81%
+
+─────────────────────
+
+*#3. PANAMAPET* — 57/100
+
+📊 *Scores:*
+   • Volume: 25/30
+   • Pattern: 30/25
+   • Sector: 10/12
+   • Institutional: 4/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 82.8%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 11.3% | DII: 0.7%
+   Momentum: +8.74%
+
+─────────────────────
+
+*#4. ZYDUSLIFE* — 57/100
+
+📊 *Scores:*
+   • Volume: 28/30
+   • Pattern: 25/25
+   • Sector: 10/12
+   • Institutional: 6/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 91.4%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 7.0% | DII: 11.2%
+   Momentum: +4.96%
+
+─────────────────────
+
+*#5. CGPOWER* — 56/100
+
+📊 *Scores:*
+   • Volume: 19/30
+   • Pattern: 22/25
+   • Sector: 10/12
+   • Institutional: 10/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 68.5%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 12.0% | DII: 18.0%
+   Momentum: +0.59%
+
+─────────────────────
+
+*#6. DIVISLAB* — 54/100
+
+📊 *Scores:*
+   • Volume: 19/30
+   • Pattern: 20/25
+   • Sector: 10/12
+   • Institutional: 10/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 61.4%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 20.3% | DII: 19.1%
+   Momentum: -0.41%
+
+─────────────────────
+
+*#7. SONAMLTD* — 54/100
+
+📊 *Scores:*
+   • Volume: 28/30
+   • Pattern: 25/25
+   • Sector: 10/12
+   • Institutional: 2/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 72.6%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.3% | DII: 0.0%
+   Momentum: +9.95%
+
+─────────────────────
+
+*#8. TATACOMM* — 54/100
+
+📊 *Scores:*
+   • Volume: 25/30
+   • Pattern: 20/25
+   • Sector: 10/12
+   • Institutional: 10/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 81.0%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 14.4% | DII: 19.1%
+   Momentum: +7.22%
+
+─────────────────────
+
+*#9. FAZE3Q* — 54/100
+
+📊 *Scores:*
+   • Volume: 22/30
+   • Pattern: 25/25
+   • Sector: 10/12
+   • Institutional: 2/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 75.9%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.1% | DII: 0.8%
+   Momentum: +6.57%
+
+─────────────────────
+
+*#10. ELGIEQUIP* — 52/100
+
+📊 *Scores:*
+   • Volume: 17/30
+   • Pattern: 20/25
+   • Sector: 10/12
+   • Institutional: 10/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 67.2%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 22.2% | DII: 9.1%
+   Momentum: +7.79%
+
+─────────────────────
+
+💡 *Legend:*
+Vol = % volume on up days (target >65%)
+Bonus = Multibagger signal points
+Del = Delivery %
