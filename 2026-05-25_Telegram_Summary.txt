@@ -1,0 +1,247 @@
+🎯 *SMART MONEY REPORT*
+📅 2026-05-25 | ⏰ 19:32
+
+
+📈 *MARKET STATUS*
+⚠️ MARKET CAUTIOUS: Nifty 1.4% above 50 MA
+💰 Position Sizing: REDUCE SIZE 50%
+
+📊 Analyzed: 21 | Qualified: 9
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 *TOP 10 PICKS*
+
+1. *NH* 
+   Score: 62 | 👀 Watch
+   Vol: 71% | FII: 10.0%
+
+2. *SUPRAJIT* 
+   Score: 62 | 👀 Watch
+   Vol: 78% | FII: 6.5%
+
+3. *CONSOFINVT* 
+   Score: 59 | 👀 Watch
+   Vol: 78% | FII: 2.6%
+
+4. *TORNTPHARM* 
+   Score: 56 | 👀 Watch
+   Vol: 65% | FII: 16.2%
+
+5. *ROSSTECH* 
+   Score: 56 | 👀 Watch
+   Vol: 75% | FII: 1.6%
+
+6. *JAGRAN* 
+   Score: 52 | 👀 Watch
+   Vol: 62% | FII: 2.2%
+
+7. *GAIL* 
+   Score: 52 | 👀 Watch
+   Vol: 53% | FII: 13.0%
+
+8. *USHAMART* 
+   Score: 52 | 👀 Watch
+   Vol: 57% | FII: 14.8%
+
+9. *KIRLOSENG* 
+   Score: 51 | 👀 Watch
+   Vol: 63% | FII: 10.8%
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 *TOP 10 ANALYSIS*
+
+*#1. NH* — 62/100
+
+📊 *Scores:*
+   • Volume: 28/30
+   • Pattern: 25/25
+   • Sector: 10/12
+   • Institutional: 6/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 71.2%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 10.0% | DII: 9.1%
+   Momentum: +2.97%
+
+─────────────────────
+
+*#2. SUPRAJIT* — 62/100
+
+📊 *Scores:*
+   • Volume: 20/30
+   • Pattern: 30/25
+   • Sector: 10/12
+   • Institutional: 8/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 78.3%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 6.5% | DII: 17.2%
+   Momentum: +6.93%
+
+─────────────────────
+
+*#3. CONSOFINVT* — 59/100
+
+📊 *Scores:*
+   • Volume: 28/30
+   • Pattern: 25/25
+   • Sector: 10/12
+   • Institutional: 2/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 78.1%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 2.6% | DII: 0.0%
+   Momentum: +1.38%
+
+─────────────────────
+
+*#4. TORNTPHARM* — 56/100
+
+📊 *Scores:*
+   • Volume: 16/30
+   • Pattern: 25/25
+   • Sector: 10/12
+   • Institutional: 10/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 65.0%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 16.2% | DII: 9.0%
+   Momentum: +2.52%
+
+─────────────────────
+
+*#5. ROSSTECH* — 56/100
+
+📊 *Scores:*
+   • Volume: 25/30
+   • Pattern: 30/25
+   • Sector: 10/12
+   • Institutional: 2/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 74.7%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 1.6% | DII: 3.5%
+   Momentum: +13.00%
+
+─────────────────────
+
+*#6. JAGRAN* — 52/100
+
+📊 *Scores:*
+   • Volume: 14/30
+   • Pattern: 30/25
+   • Sector: 10/12
+   • Institutional: 2/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 62.3%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 2.2% | DII: 6.3%
+   Momentum: +2.70%
+
+─────────────────────
+
+*#7. GAIL* — 52/100
+
+📊 *Scores:*
+   • Volume: 16/30
+   • Pattern: 20/25
+   • Sector: 10/12
+   • Institutional: 10/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 53.2%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 13.0% | DII: 20.5%
+   Momentum: +8.04%
+
+─────────────────────
+
+*#8. USHAMART* — 52/100
+
+📊 *Scores:*
+   • Volume: 11/30
+   • Pattern: 25/25
+   • Sector: 10/12
+   • Institutional: 10/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 57.4%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 14.8% | DII: 14.8%
+   Momentum: +0.84%
+
+─────────────────────
+
+*#9. KIRLOSENG* — 51/100
+
+📊 *Scores:*
+   • Volume: 16/30
+   • Pattern: 25/25
+   • Sector: 10/12
+   • Institutional: 10/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 63.5%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 10.8% | DII: 26.7%
+   Momentum: +2.56%
+
+─────────────────────
+
+💡 *Legend:*
+Vol = % volume on up days (target >65%)
+Bonus = Multibagger signal points
+Del = Delivery %
