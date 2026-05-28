@@ -1,0 +1,25 @@
+Date,Symbol,Mcap,Change,Dpower,Mpower,Sector,Scanner_Source,Volume multiples,Marketcap,Sectors
+27th May'26,ABB,largecap,6.1,64.12,64.75,industrials,Screener 1,,,
+27th May'26,GOKULAGRO,midcap,2.69,59.1,69.73,fmcg,Screener 1,,,
+27th May'26,NETWEB,largecap,5.72,58.82,64.85,i.t,Screener 1,,,
+27th May'26,HAPPYFORGE,midcap,2.36,58.4,63.61,industrials,Screener 1,,,
+27th May'26,GOODLUCK,smallcap,3.25,58.11,63.46,metals & mining,Screener 1,,,
+27th May'26,NTPC,largecap,2.17,56.65,65.19,power & utilities,Screener 1,,,
+27th May'26,TATASTEEL,largecap,2.01,56.35,65.85,metals & mining,Screener 1,,,
+27th May'26,GLENMARK,largecap,1.42,56.34,72.68,healthcare,Screener 1,,,
+27th May'26,EMCURE,largecap,1.58,56.05,63.37,healthcare,Screener 1,,,
+27th May'26,BHARATSE,smallcap,2.12,55.07,67.27,auto,Screener 1,,,
+27th May'26,BBTCL,,8.06,,,,Tiger breakouts,14.77,smallcap,industrials
+27th May'26,ASAHIINDIA,,3.02,,,,Tiger breakouts,10.7,largecap,building materials
+27th May'26,STCINDIA,,4.58,,,,Tiger breakouts,7.28,smallcap,services
+27th May'26,UNIVASTU,,4.76,,,,Tiger breakouts,4.85,smallcap,realty
+27th May'26,WSTCSTPAPR,,2.36,,,,Tiger breakouts,4.23,smallcap,building materials
+27th May'26,FACT,,2.21,,,,Tiger breakouts,4.16,largecap,chemicals
+27th May'26,VARROC,,2.19,,,,Tiger breakouts,4.12,midcap,auto
+27th May'26,SIEMENS,,5.48,,,,Tiger breakouts,3.81,largecap,industrials
+27th May'26,ELGIEQUIP,,2.65,,,,Tiger breakouts,3.42,midcap,industrials
+27th May'26,APARINDS,,7.1,,,,Tiger breakouts,3.13,largecap,industrials
+27th May'26,RICOAUTO,,3.57,,,,Tiger breakouts,3.11,smallcap,auto
+27th May'26,MGEL,,3.46,,,,Tiger breakouts,2.91,smallcap,services
+27th May'26,MUNJALSHOW,,2.73,,,,Tiger breakouts,2.87,smallcap,auto
+27th May'26,STOVEKRAFT,,7.17,,,,Tiger breakouts,2.47,smallcap,consumer discretionary
