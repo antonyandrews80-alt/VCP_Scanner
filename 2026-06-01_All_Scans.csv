@@ -1,0 +1,24 @@
+Date,Symbol,Mcap,Change,Dpower,Mpower,Sector,Scanner_Source,Volume multiples,Marketcap,Sectors
+1st Jun'26,THANGAMAYL,midcap,1.88,66.22,75.08,consumer discretionary,Screener 1,,,
+1st Jun'26,VISHNU,smallcap,7.02,62.48,63.92,chemicals,Screener 1,,,
+1st Jun'26,TMB,midcap,5.15,61.2,68.04,bank,Screener 1,,,
+1st Jun'26,COALINDIA,largecap,3.21,59.92,62.81,metals & mining,Screener 1,,,
+1st Jun'26,HAPPYFORGE,midcap,2.93,58.65,63.99,industrials,Screener 1,,,
+1st Jun'26,JSWSTEEL,largecap,1.67,57.86,66.7,metals & mining,Screener 1,,,
+1st Jun'26,KRISHANA,smallcap,1.74,56.61,74.23,chemicals,Screener 1,,,
+1st Jun'26,PRIVISCL,midcap,1.55,56.38,67.9,chemicals,Screener 1,,,
+1st Jun'26,GOKULAGRO,midcap,1.69,55.88,68.82,fmcg,Screener 1,,,
+1st Jun'26,PTCIL,,14.19,,,,Tiger breakouts,24.95,largecap,industrials
+1st Jun'26,SALONA,,3.78,,,,Tiger breakouts,19.83,smallcap,textiles
+1st Jun'26,VISHNU,,7.02,,,,Tiger breakouts,18.01,smallcap,chemicals
+1st Jun'26,DONEAR,,2.19,,,,Tiger breakouts,10.96,smallcap,textiles
+1st Jun'26,SANGAMIND,,1.9,,,,Tiger breakouts,7.65,smallcap,textiles
+1st Jun'26,IVC,,4.5,,,,Tiger breakouts,5.81,smallcap,financials
+1st Jun'26,KPRMILL,,2.64,,,,Tiger breakouts,5.32,largecap,consumer discretionary
+1st Jun'26,BAFNAPH,,5.0,,,,Tiger breakouts,4.04,smallcap,healthcare
+1st Jun'26,NMDC,,4.98,,,,Tiger breakouts,3.6,largecap,metals & mining
+1st Jun'26,ZEEL,,2.88,,,,Tiger breakouts,3.48,midcap,media
+1st Jun'26,LIBAS,,3.14,,,,Tiger breakouts,3.41,smallcap,fmcg
+1st Jun'26,AEGISLOG,,3.45,,,,Tiger breakouts,3.0,largecap,services
+1st Jun'26,NBCC,,4.13,,,,Tiger breakouts,2.81,largecap,miscellaneous
+1st Jun'26,DEEPINDS,,5.69,,,,Tiger breakouts,2.24,smallcap,energy
