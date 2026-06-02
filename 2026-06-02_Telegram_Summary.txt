@@ -1,0 +1,172 @@
+🎯 *SMART MONEY REPORT*
+📅 2026-06-02 | ⏰ 19:31
+
+
+📈 *MARKET STATUS*
+🚨 MARKET WEAK: Nifty 0.9% BELOW 50 MA
+💰 Position Sizing: CASH/MINIMAL POSITIONS ONLY
+
+📊 Analyzed: 14 | Qualified: 6
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 *TOP 10 PICKS*
+
+1. *NMDC* 
+   Score: 70 | ✅ Buy
+   Vol: 71% | FII: 13.6%
+
+2. *RBLBANK* 
+   Score: 59 | 👀 Watch
+   Vol: 73% | FII: 20.2%
+
+3. *AVTNPL* 
+   Score: 58 | 👀 Watch
+   Vol: 84% | FII: 0.0%
+
+4. *DEEPINDS* 
+   Score: 52 | 👀 Watch
+   Vol: 72% | FII: 1.8%
+
+5. *SALONA* 
+   Score: 52 | 👀 Watch
+   Vol: 93% | FII: 0.0%
+
+6. *VTL* 
+   Score: 50 | 👀 Watch
+   Vol: 68% | FII: 5.7%
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 *TOP 10 ANALYSIS*
+
+*#1. NMDC* — 70/100
+
+📊 *Scores:*
+   • Volume: 28/30
+   • Pattern: 30/25
+   • Sector: 10/12
+   • Institutional: 10/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 70.6%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 13.6% | DII: 13.8%
+   Momentum: +3.28%
+
+─────────────────────
+
+*#2. RBLBANK* — 59/100
+
+📊 *Scores:*
+   • Volume: 20/30
+   • Pattern: 25/25
+   • Sector: 10/12
+   • Institutional: 10/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 72.5%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 20.2% | DII: 43.0%
+   Momentum: -1.18%
+
+─────────────────────
+
+*#3. AVTNPL* — 58/100
+
+📊 *Scores:*
+   • Volume: 28/30
+   • Pattern: 30/25
+   • Sector: 10/12
+   • Institutional: 2/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 84.5%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.0% | DII: 0.0%
+   Momentum: +3.45%
+
+─────────────────────
+
+*#4. DEEPINDS* — 52/100
+
+📊 *Scores:*
+   • Volume: 25/30
+   • Pattern: 25/25
+   • Sector: 10/12
+   • Institutional: 2/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 71.8%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 1.8% | DII: 1.1%
+   Momentum: +6.50%
+
+─────────────────────
+
+*#5. SALONA* — 52/100
+
+📊 *Scores:*
+   • Volume: 25/30
+   • Pattern: 25/25
+   • Sector: 10/12
+   • Institutional: 2/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 92.8%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.0% | DII: 0.0%
+   Momentum: +5.09%
+
+─────────────────────
+
+*#6. VTL* — 50/100
+
+📊 *Scores:*
+   • Volume: 17/30
+   • Pattern: 25/25
+   • Sector: 10/12
+   • Institutional: 8/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 67.7%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 5.7% | DII: 16.0%
+   Momentum: +2.54%
+
+─────────────────────
+
+💡 *Legend:*
+Vol = % volume on up days (target >65%)
+Bonus = Multibagger signal points
+Del = Delivery %
