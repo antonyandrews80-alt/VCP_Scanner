@@ -1,0 +1,13 @@
+Date,Symbol,Mcap,Change,Dpower,Mpower,Sector,Scanner_Source,Volume multiples,Marketcap,Sectors
+3rd Jun'26,FEDERALBNK,largecap,2.73,65.04,70.63,bank,Screener 1,,,
+3rd Jun'26,APOLLOHOSP,largecap,2.48,61.89,64.8,healthcare,Screener 1,,,
+3rd Jun'26,ABDL,midcap,4.68,61.3,61.02,fmcg,Screener 1,,,
+3rd Jun'26,TDPOWERSYS,midcap,4.15,58.26,81.98,industrials,Screener 1,,,
+3rd Jun'26,AGIIL,smallcap,1.44,55.93,79.03,realty,Screener 1,,,
+3rd Jun'26,BHARATFORG,largecap,1.77,55.57,66.15,industrials,Screener 1,,,
+3rd Jun'26,ARIHANT,smallcap,2.02,55.17,88.09,realty,Screener 1,,,
+3rd Jun'26,IMFA,midcap,2.76,55.11,67.97,metals & mining,Screener 1,,,
+3rd Jun'26,PNBGILTS,,8.57,,,,Tiger breakouts,11.24,smallcap,financials
+3rd Jun'26,VALIANTORG,,5.01,,,,Tiger breakouts,6.0,smallcap,chemicals
+3rd Jun'26,FIEMIND,,3.24,,,,Tiger breakouts,3.76,midcap,auto
+3rd Jun'26,J&KBANK,,4.74,,,,Tiger breakouts,3.71,midcap,bank
