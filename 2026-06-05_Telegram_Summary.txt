@@ -1,68 +1,64 @@
 🎯 *SMART MONEY REPORT*
-📅 2026-06-05 | ⏰ 18:38
+📅 2026-06-05 | ⏰ 18:43
 
 
 📈 *MARKET STATUS*
 🚨 MARKET WEAK: Nifty 1.3% BELOW 50 MA
 💰 Position Sizing: CASH/MINIMAL POSITIONS ONLY
 
-📊 Analyzed: 19 | Qualified: 14
+📊 Analyzed: 19 | Qualified: 9
 
 ━━━━━━━━━━━━━━━━━━━━━━━━
 
 🏆 *TOP 10 PICKS*
 
 1. *FEDERALBNK* 
-   Score: 66 | ✅ Buy
+   Score: 78 | 🔥 Strong Buy
    Vol: 93% | FII: 26.1%
 
-2. *EQUITASBNK* 
-   Score: 59 | 👀 Watch
-   Vol: 91% | FII: 14.7%
-
-3. *RICOAUTO* 
-   Score: 58 | 👀 Watch
+2. *RICOAUTO* 
+   Score: 71 | ✅ Buy
    Vol: 90% | FII: 2.1%
 
-4. *GOKULAGRO* 
-   Score: 57 | 👀 Watch
-   Vol: 74% | FII: 1.5%
-
-5. *JMA* 
-   Score: 55 | 👀 Watch
-   Vol: 71% | FII: 0.1%
-
-6. *KIMS* 
-   Score: 55 | 👀 Watch
-   Vol: 72% | FII: 14.6%
-
-7. *PRIMO* 
-   Score: 54 | 👀 Watch
-   Vol: 86% | FII: 0.1%
-
-8. *SETL* 
-   Score: 54 | 👀 Watch
+3. *SETL* 
+   Score: 68 | ✅ Buy
    Vol: 85% | FII: 2.4%
 
-9. *TVSSCS* 
-   Score: 54 | 👀 Watch
+4. *TVSSCS* 
+   Score: 68 | ✅ Buy
    Vol: 78% | FII: 2.5%
 
-10. *PRIMESECU* 
-   Score: 52 | 👀 Watch
-   Vol: 74% | FII: 5.0%
+5. *VASWANI* 
+   Score: 66 | ✅ Buy
+   Vol: 66% | FII: 0.0%
+
+6. *GANESHBE* 
+   Score: 65 | ✅ Buy
+   Vol: 86% | FII: 0.7%
+
+7. *JMA* 
+   Score: 63 | 👀 Watch
+   Vol: 71% | FII: 0.1%
+
+8. *GTL* 
+   Score: 58 | 👀 Watch
+   Vol: 80% | FII: 0.0%
+
+9. *PRIMO* 
+   Score: 54 | 👀 Watch
+   Vol: 86% | FII: 0.1%
 
 ━━━━━━━━━━━━━━━━━━━━━━━━
 
 🔍 *TOP 10 ANALYSIS*
 
-*#1. FEDERALBNK* — 66/100
+*#1. FEDERALBNK* — 78/100
 
 📊 *Scores:*
-   • Volume: 28/30
-   • Pattern: 25/25
+   • Volume: 52/30
+   • Pattern: 18/25
    • Sector: 10/12
-   • Institutional: 10/8
+   • Institutional: 8/8
    • 🆕 Multibagger: 6/10
 
 🎯 *Signals:*
@@ -77,34 +73,13 @@
 
 ─────────────────────
 
-*#2. EQUITASBNK* — 59/100
+*#2. RICOAUTO* — 71/100
 
 📊 *Scores:*
-   • Volume: 20/30
-   • Pattern: 25/25
+   • Volume: 52/30
+   • Pattern: 22/25
    • Sector: 10/12
-   • Institutional: 10/8
-   • 🆕 Multibagger: 6/10
-
-🎯 *Signals:*
-      Block Buy: No
-      Sustained Vol: No
-   ✓ Tightening: YES
-   📈 VolDist: 91.0%
-
-📈 *Metrics:*
-   Del: 0.0% | FII: 14.7% | DII: 50.9%
-   Momentum: +6.54%
-
-─────────────────────
-
-*#3. RICOAUTO* — 58/100
-
-📊 *Scores:*
-   • Volume: 28/30
-   • Pattern: 30/25
-   • Sector: 10/12
-   • Institutional: 2/8
+   • Institutional: 1/8
    • 🆕 Multibagger: 0/10
 
 🎯 *Signals:*
@@ -119,97 +94,13 @@
 
 ─────────────────────
 
-*#4. GOKULAGRO* — 57/100
+*#3. SETL* — 68/100
 
 📊 *Scores:*
-   • Volume: 20/30
-   • Pattern: 30/25
+   • Volume: 52/30
+   • Pattern: 18/25
    • Sector: 10/12
-   • Institutional: 2/8
-   • 🆕 Multibagger: 6/10
-
-🎯 *Signals:*
-      Block Buy: No
-      Sustained Vol: No
-   ✓ Tightening: YES
-   📈 VolDist: 73.6%
-
-📈 *Metrics:*
-   Del: 0.0% | FII: 1.5% | DII: 0.1%
-   Momentum: -0.04%
-
-─────────────────────
-
-*#5. JMA* — 55/100
-
-📊 *Scores:*
-   • Volume: 28/30
-   • Pattern: 20/25
-   • Sector: 10/12
-   • Institutional: 2/8
-   • 🆕 Multibagger: 6/10
-
-🎯 *Signals:*
-      Block Buy: No
-      Sustained Vol: No
-   ✓ Tightening: YES
-   📈 VolDist: 70.5%
-
-📈 *Metrics:*
-   Del: 0.0% | FII: 0.1% | DII: 0.0%
-   Momentum: +4.12%
-
-─────────────────────
-
-*#6. KIMS* — 55/100
-
-📊 *Scores:*
-   • Volume: 20/30
-   • Pattern: 20/25
-   • Sector: 10/12
-   • Institutional: 10/8
-   • 🆕 Multibagger: 6/10
-
-🎯 *Signals:*
-      Block Buy: No
-      Sustained Vol: No
-   ✓ Tightening: YES
-   📈 VolDist: 72.4%
-
-📈 *Metrics:*
-   Del: 0.0% | FII: 14.6% | DII: 32.5%
-   Momentum: +4.65%
-
-─────────────────────
-
-*#7. PRIMO* — 54/100
-
-📊 *Scores:*
-   • Volume: 28/30
-   • Pattern: 25/25
-   • Sector: 10/12
-   • Institutional: 2/8
-   • 🆕 Multibagger: 0/10
-
-🎯 *Signals:*
-      Block Buy: No
-      Sustained Vol: No
-      Tightening: No
-   📈 VolDist: 85.8%
-
-📈 *Metrics:*
-   Del: 0.0% | FII: 0.1% | DII: 1.9%
-   Momentum: +18.74%
-
-─────────────────────
-
-*#8. SETL* — 54/100
-
-📊 *Scores:*
-   • Volume: 28/30
-   • Pattern: 25/25
-   • Sector: 10/12
-   • Institutional: 2/8
+   • Institutional: 1/8
    • 🆕 Multibagger: 0/10
 
 🎯 *Signals:*
@@ -224,13 +115,13 @@
 
 ─────────────────────
 
-*#9. TVSSCS* — 54/100
+*#4. TVSSCS* — 68/100
 
 📊 *Scores:*
-   • Volume: 28/30
-   • Pattern: 25/25
+   • Volume: 52/30
+   • Pattern: 18/25
    • Sector: 10/12
-   • Institutional: 2/8
+   • Institutional: 1/8
    • 🆕 Multibagger: 0/10
 
 🎯 *Signals:*
@@ -245,24 +136,108 @@
 
 ─────────────────────
 
-*#10. PRIMESECU* — 52/100
+*#5. VASWANI* — 66/100
 
 📊 *Scores:*
-   • Volume: 22/30
-   • Pattern: 20/25
+   • Volume: 50/30
+   • Pattern: 18/25
    • Sector: 10/12
-   • Institutional: 4/8
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 66.3%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.0% | DII: 0.0%
+   Momentum: +9.21%
+
+─────────────────────
+
+*#6. GANESHBE* — 65/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 85.5%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.7% | DII: 0.8%
+   Momentum: +19.08%
+
+─────────────────────
+
+*#7. JMA* — 63/100
+
+📊 *Scores:*
+   • Volume: 44/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 1/8
    • 🆕 Multibagger: 6/10
 
 🎯 *Signals:*
       Block Buy: No
       Sustained Vol: No
    ✓ Tightening: YES
-   📈 VolDist: 73.7%
+   📈 VolDist: 70.5%
 
 📈 *Metrics:*
-   Del: 0.0% | FII: 5.0% | DII: 5.1%
-   Momentum: +7.62%
+   Del: 0.0% | FII: 0.1% | DII: 0.0%
+   Momentum: +4.12%
+
+─────────────────────
+
+*#8. GTL* — 58/100
+
+📊 *Scores:*
+   • Volume: 44/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 80.2%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.0% | DII: 8.4%
+   Momentum: +10.30%
+
+─────────────────────
+
+*#9. PRIMO* — 54/100
+
+📊 *Scores:*
+   • Volume: 36/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 85.8%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.1% | DII: 1.9%
+   Momentum: +18.74%
 
 ─────────────────────
 
