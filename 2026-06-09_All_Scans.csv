@@ -1,0 +1,41 @@
+Date,Symbol,Mcap,Change,Dpower,Mpower,Sector,Scanner_Source,Volume multiples,Marketcap,Sectors
+9th Jun'26,COMSYN,smallcap,5.8,74.13,64.27,industrials,Screener 1,,,
+9th Jun'26,AEROFLEX,midcap,6.69,60.49,79.54,metals & mining,Screener 1,,,
+9th Jun'26,YATHARTH,midcap,2.71,59.37,63.29,healthcare,Screener 1,,,
+9th Jun'26,SENORES,smallcap,8.69,59.11,80.5,healthcare,Screener 1,,,
+9th Jun'26,KTKBANK,midcap,5.46,58.87,67.01,bank,Screener 1,,,
+9th Jun'26,SUVEN,midcap,13.23,58.49,64.37,healthcare,Screener 1,,,
+9th Jun'26,ANGELONE,largecap,3.64,58.16,61.6,financials,Screener 1,,,
+9th Jun'26,KRN,midcap,4.99,58.03,66.57,industrials,Screener 1,,,
+9th Jun'26,ROSSTECH,smallcap,5.24,57.73,70.81,aerospace & defence,Screener 1,,,
+9th Jun'26,DREDGECORP,smallcap,2.62,57.48,60.7,miscellaneous,Screener 1,,,
+9th Jun'26,MBAPL,smallcap,1.42,56.92,76.18,chemicals,Screener 1,,,
+9th Jun'26,GVT&D,largecap,3.94,56.89,80.84,industrials,Screener 1,,,
+9th Jun'26,WHEELS,smallcap,1.84,56.81,74.29,auto,Screener 1,,,
+9th Jun'26,EMCURE,largecap,1.45,56.77,64.01,healthcare,Screener 1,,,
+9th Jun'26,KEI,largecap,2.58,56.63,63.63,industrials,Screener 1,,,
+9th Jun'26,ABSLAMC,largecap,1.74,56.58,69.69,financials,Screener 1,,,
+9th Jun'26,MTARTECH,largecap,5.76,56.54,82.47,aerospace & defence,Screener 1,,,
+9th Jun'26,BHAGYANGR,smallcap,5.0,56.52,81.69,power & utilities,Screener 1,,,
+9th Jun'26,SOUTHWEST,smallcap,4.21,56.37,69.31,metals & mining,Screener 1,,,
+9th Jun'26,TORNTPHARM,largecap,1.42,56.32,74.89,healthcare,Screener 1,,,
+9th Jun'26,FIEMIND,midcap,0.874,55.95,67.43,auto,Screener 1,,,
+9th Jun'26,GOKULAGRO,midcap,1.88,55.92,68.95,fmcg,Screener 1,,,
+9th Jun'26,SKYGOLD,midcap,4.23,55.69,69.8,consumer discretionary,Screener 1,,,
+9th Jun'26,NETWEB,largecap,3.84,55.5,65.5,i.t,Screener 1,,,
+9th Jun'26,ARIHANT,smallcap,0.742,55.12,88.06,realty,Screener 1,,,
+9th Jun'26,SEAMECLTD,smallcap,0.787,55.11,69.66,miscellaneous,Screener 1,,,
+9th Jun'26,ARROWGREEN,,12.82,,,,Tiger breakouts,18.51,smallcap,plastic products
+9th Jun'26,BANSWRAS,,10.29,,,,Tiger breakouts,12.01,smallcap,textiles
+9th Jun'26,MOREPENLAB,,13.48,,,,Tiger breakouts,6.76,smallcap,healthcare
+9th Jun'26,SUPERHOUSE,,5.43,,,,Tiger breakouts,5.97,smallcap,consumer discretionary
+9th Jun'26,DATAPATTNS,,10.07,,,,Tiger breakouts,4.75,largecap,aerospace & defence
+9th Jun'26,ASTERDM,,3.16,,,,Tiger breakouts,4.34,largecap,healthcare
+9th Jun'26,ABSLAMC,,1.74,,,,Tiger breakouts,3.47,largecap,financials
+9th Jun'26,MAHABANK,,5.48,,,,Tiger breakouts,3.27,largecap,bank
+9th Jun'26,KAMDHENU,,5.9,,,,Tiger breakouts,2.72,smallcap,metals & mining
+9th Jun'26,PRINCEPIPE,,6.23,,,,Tiger breakouts,2.69,smallcap,plastic products
+9th Jun'26,HINDOILEXP,,3.39,,,,Tiger breakouts,2.5,smallcap,energy
+9th Jun'26,UNITEDPOLY,,2.5,,,,Tiger breakouts,2.4,smallcap,textiles
+9th Jun'26,NDLVENTURE,,0.853,,,,Tiger breakouts,2.39,smallcap,financials
+9th Jun'26,DIVISLAB,,3.56,,,,Tiger breakouts,2.28,largecap,healthcare
