@@ -1,0 +1,172 @@
+🎯 *SMART MONEY REPORT*
+📅 2026-06-15 | ⏰ 21:20
+
+
+📈 *MARKET STATUS*
+⚠️ MARKET CAUTIOUS: Nifty 0.4% above 50 MA
+💰 Position Sizing: REDUCE SIZE 50%
+
+📊 Analyzed: 39 | Qualified: 6
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 *TOP 10 PICKS*
+
+1. *SPAL* 
+   Score: 71 | ✅ Buy
+   Vol: 99% | FII: 1.5%
+
+2. *AIIL* 
+   Score: 69 | ✅ Buy
+   Vol: 94% | FII: 14.2%
+
+3. *SHRIPISTON* 
+   Score: 68 | ✅ Buy
+   Vol: 94% | FII: 7.7%
+
+4. *STCINDIA* 
+   Score: 68 | ✅ Buy
+   Vol: 86% | FII: 0.0%
+
+5. *AURUM* 
+   Score: 66 | ✅ Buy
+   Vol: 84% | FII: 0.1%
+
+6. *MAITHANALL* 
+   Score: 52 | 👀 Watch
+   Vol: 71% | FII: 1.2%
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 *TOP 10 ANALYSIS*
+
+*#1. SPAL* — 71/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 5/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 98.5%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 1.5% | DII: 16.6%
+   Momentum: +5.20%
+
+─────────────────────
+
+*#2. AIIL* — 69/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 3/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 94.4%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 14.2% | DII: 0.2%
+   Momentum: +18.70%
+
+─────────────────────
+
+*#3. SHRIPISTON* — 68/100
+
+📊 *Scores:*
+   • Volume: 44/30
+   • Pattern: 22/25
+   • Sector: 10/12
+   • Institutional: 6/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 93.7%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 7.7% | DII: 12.9%
+   Momentum: +13.34%
+
+─────────────────────
+
+*#4. STCINDIA* — 68/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 85.8%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.0% | DII: 0.5%
+   Momentum: +2.59%
+
+─────────────────────
+
+*#5. AURUM* — 66/100
+
+📊 *Scores:*
+   • Volume: 44/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 83.7%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.1% | DII: 0.0%
+   Momentum: +3.43%
+
+─────────────────────
+
+*#6. MAITHANALL* — 52/100
+
+📊 *Scores:*
+   • Volume: 36/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 70.6%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 1.2% | DII: 0.0%
+   Momentum: +6.08%
+
+─────────────────────
+
+💡 *Legend:*
+Vol = % volume on up days (target >65%)
+Bonus = Multibagger signal points
+Del = Delivery %
