@@ -1,0 +1,41 @@
+Date,Symbol,Mcap,Change,Dpower,Mpower,Sector,Scanner_Source,Volume multiples,Marketcap,Sectors
+15th Jun'26,NAM-INDIA,largecap,4.68,60.05,74.12,financials,Screener 1,,,
+15th Jun'26,SBCL,smallcap,4.35,59.75,64.15,metals & mining,Screener 1,,,
+15th Jun'26,SKYGOLD,midcap,4.85,59.1,71.49,consumer discretionary,Screener 1,,,
+15th Jun'26,ABCAPITAL,largecap,2.82,58.81,67.2,financials,Screener 1,,,
+15th Jun'26,KAPSTON,smallcap,1.56,58.66,86.72,miscellaneous,Screener 1,,,
+15th Jun'26,BSE,largecap,2.1,58.38,78.73,financials,Screener 1,,,
+15th Jun'26,KENNAMET,midcap,7.26,58.08,66.53,industrials,Screener 1,,,
+15th Jun'26,INDOTECH,smallcap,2.78,58.07,62.52,industrials,Screener 1,,,
+15th Jun'26,BGRENERGY,smallcap,3.45,57.91,62.98,realty,Screener 1,,,
+15th Jun'26,MANAPPURAM,largecap,4.08,56.45,64.1,financials,Screener 1,,,
+15th Jun'26,USHAMART,midcap,1.74,55.79,62.59,metals & mining,Screener 1,,,
+15th Jun'26,SPAL,,9.02,,,,Tiger breakouts,222.55,smallcap,textiles
+15th Jun'26,GABRIEL,,10.16,,,,Tiger breakouts,6.82,midcap,auto
+15th Jun'26,CAPITALSFB,,2.93,,,,Tiger breakouts,5.72,smallcap,bank
+15th Jun'26,KICL,,3.36,,,,Tiger breakouts,5.32,smallcap,financials
+15th Jun'26,GATEWAY,,3.29,,,,Tiger breakouts,4.2,smallcap,transportation
+15th Jun'26,AIIL,,5.39,,,,Tiger breakouts,3.88,largecap,financials
+15th Jun'26,STCINDIA,,5.16,,,,Tiger breakouts,3.66,smallcap,services
+15th Jun'26,SHRIPISTON,,6.17,,,,Tiger breakouts,3.41,midcap,auto
+15th Jun'26,MAITHANALL,,4.77,,,,Tiger breakouts,3.0,smallcap,metals & mining
+15th Jun'26,FEDFINA,,6.15,,,,Tiger breakouts,2.93,midcap,financials
+15th Jun'26,HNDFDS,,5.29,,,,Tiger breakouts,2.9,midcap,fmcg
+15th Jun'26,KRONOX,,5.61,,,,Tiger breakouts,2.85,smallcap,chemicals
+15th Jun'26,PGIL,,3.92,,,,Tiger breakouts,2.82,midcap,consumer discretionary
+15th Jun'26,TVSSRICHAK,,1.8,,,,Tiger breakouts,2.64,smallcap,auto
+15th Jun'26,ZFCVINDIA,,2.57,,,,Tiger breakouts,2.64,largecap,auto
+15th Jun'26,AURUM,,4.85,,,,Tiger breakouts,2.64,smallcap,i.t
+15th Jun'26,AVL,,5.68,,,,Tiger breakouts,2.49,midcap,consumer discretionary
+15th Jun'26,ANGELONE,,3.77,,,,Tiger breakouts,2.42,largecap,financials
+15th Jun'26,VSSL,,3.08,,,,Tiger breakouts,2.42,smallcap,metals & mining
+15th Jun'26,MOTILALOFS,,5.74,,,,Tiger breakouts,2.41,largecap,financials
+15th Jun'26,VTL,,1.58,,,,Tiger breakouts,2.34,midcap,textiles
+15th Jun'26,IMPAL,,2.72,,,,Tiger breakouts,2.3,smallcap,auto
+15th Jun'26,BAJAJHIND,,4.65,,,,Tiger breakouts,2.26,smallcap,fmcg
+15th Jun'26,WABAG,,3.25,,,,Tiger breakouts,2.26,midcap,realty
+15th Jun'26,VAIBHAVGBL,,5.1,,,,Tiger breakouts,2.25,smallcap,consumer discretionary
+15th Jun'26,NDRAUTO,,6.85,,,,Tiger breakouts,2.19,smallcap,auto
+15th Jun'26,RPPL,,8.64,,,,Tiger breakouts,1.78,smallcap,industrials
+15th Jun'26,SUPRAJIT,,1.75,,,,Tiger breakouts,1.69,midcap,auto
+15th Jun'26,WELSPUNLIV,,4.61,,,,Tiger breakouts,1.68,midcap,textiles
