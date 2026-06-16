@@ -1,0 +1,197 @@
+🎯 *SMART MONEY REPORT*
+📅 2026-06-16 | ⏰ 20:00
+
+
+📈 *MARKET STATUS*
+⚠️ MARKET CAUTIOUS: Nifty 1.0% above 50 MA
+💰 Position Sizing: REDUCE SIZE 50%
+
+📊 Analyzed: 33 | Qualified: 7
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 *TOP 10 PICKS*
+
+1. *KPIL* 
+   Score: 72 | ✅ Buy
+   Vol: 81% | FII: 10.9%
+
+2. *AURUM* 
+   Score: 68 | ✅ Buy
+   Vol: 86% | FII: 0.1%
+
+3. *BHARATGEAR* 
+   Score: 68 | ✅ Buy
+   Vol: 97% | FII: 1.4%
+
+4. *STCINDIA* 
+   Score: 68 | ✅ Buy
+   Vol: 91% | FII: 0.0%
+
+5. *MMTC* 
+   Score: 68 | ✅ Buy
+   Vol: 96% | FII: 0.1%
+
+6. *MUKKA* 
+   Score: 58 | 👀 Watch
+   Vol: 78% | FII: 1.7%
+
+7. *PHOENIXLTD* 
+   Score: 50 | 👀 Watch
+   Vol: 92% | FII: 33.0%
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 *TOP 10 ANALYSIS*
+
+*#1. KPIL* — 72/100
+
+📊 *Scores:*
+   • Volume: 44/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 8/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 80.8%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 10.9% | DII: 45.1%
+   Momentum: +7.26%
+
+─────────────────────
+
+*#2. AURUM* — 68/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 86.4%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.1% | DII: 0.0%
+   Momentum: +7.59%
+
+─────────────────────
+
+*#3. BHARATGEAR* — 68/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 96.9%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 1.4% | DII: 0.0%
+   Momentum: +18.21%
+
+─────────────────────
+
+*#4. STCINDIA* — 68/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 90.6%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.0% | DII: 0.5%
+   Momentum: +8.48%
+
+─────────────────────
+
+*#5. MMTC* — 68/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 96.4%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.1% | DII: 1.8%
+   Momentum: +17.08%
+
+─────────────────────
+
+*#6. MUKKA* — 58/100
+
+📊 *Scores:*
+   • Volume: 44/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 78.2%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 1.7% | DII: 0.0%
+   Momentum: +18.60%
+
+─────────────────────
+
+*#7. PHOENIXLTD* — 50/100
+
+📊 *Scores:*
+   • Volume: 18/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 8/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 92.2%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 33.0% | DII: 16.1%
+   Momentum: +5.81%
+
+─────────────────────
+
+💡 *Legend:*
+Vol = % volume on up days (target >65%)
+Bonus = Multibagger signal points
+Del = Delivery %
