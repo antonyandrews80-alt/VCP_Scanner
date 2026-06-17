@@ -1,0 +1,37 @@
+Date,Symbol,Mcap,Change,Dpower,Mpower,Sector,Scanner_Source,Volume multiples,Marketcap,Sectors
+17th Jun'26,COMSYN,smallcap,6.62,64.21,66.47,industrials,Screener 1,,,
+17th Jun'26,GVT&D,largecap,5.75,60.55,85.75,industrials,Screener 1,,,
+17th Jun'26,ABB,largecap,2.04,58.94,63.87,industrials,Screener 1,,,
+17th Jun'26,STEELCAS,smallcap,2.41,58.9,70.5,industrials,Screener 1,,,
+17th Jun'26,NOVARTIND,smallcap,3.18,58.35,69.83,healthcare,Screener 1,,,
+17th Jun'26,KMEW,smallcap,4.4,58.08,70.09,transportation,Screener 1,,,
+17th Jun'26,POWERINDIA,largecap,3.48,57.68,74.61,industrials,Screener 1,,,
+17th Jun'26,SANSERA,midcap,1.43,57.17,76.51,auto,Screener 1,,,
+17th Jun'26,SCHNEIDER,largecap,7.21,56.67,68.35,industrials,Screener 1,,,
+17th Jun'26,AZAD,midcap,1.52,55.59,65.33,aerospace & defence,Screener 1,,,
+17th Jun'26,RATNAVEER,,9.71,,,,Tiger breakouts,20.44,smallcap,metals & mining
+17th Jun'26,LMW,,3.88,,,,Tiger breakouts,6.81,midcap,industrials
+17th Jun'26,CYBERTECH,,5.71,,,,Tiger breakouts,6.4,smallcap,i.t
+17th Jun'26,VALIANTORG,,8.35,,,,Tiger breakouts,5.65,smallcap,chemicals
+17th Jun'26,LLOYDSENT,,6.58,,,,Tiger breakouts,5.64,midcap,services
+17th Jun'26,GNFC,,4.33,,,,Tiger breakouts,4.36,midcap,chemicals
+17th Jun'26,CAPITALSFB,,1.12,,,,Tiger breakouts,3.9,smallcap,bank
+17th Jun'26,APOLSINHOT,,5.49,,,,Tiger breakouts,3.82,smallcap,services
+17th Jun'26,IIFLCAPS,,0.962,,,,Tiger breakouts,3.79,midcap,financials
+17th Jun'26,MAITHANALL,,6.77,,,,Tiger breakouts,3.73,smallcap,metals & mining
+17th Jun'26,BEPL,,2.66,,,,Tiger breakouts,3.58,smallcap,energy
+17th Jun'26,EVEREADY,,4.48,,,,Tiger breakouts,3.53,smallcap,industrials
+17th Jun'26,MUFIN,,3.99,,,,Tiger breakouts,3.28,smallcap,financials
+17th Jun'26,CARBORUNIV,,6.08,,,,Tiger breakouts,3.28,largecap,industrials
+17th Jun'26,PREMIERPOL,,1.78,,,,Tiger breakouts,3.07,smallcap,plastic products
+17th Jun'26,NELCO,,2.52,,,,Tiger breakouts,2.79,smallcap,telecom
+17th Jun'26,HAPPYFORGE,,7.07,,,,Tiger breakouts,2.79,midcap,industrials
+17th Jun'26,AFIL,,1.76,,,,Tiger breakouts,2.73,smallcap,financials
+17th Jun'26,GATEWAY,,2.28,,,,Tiger breakouts,2.65,smallcap,transportation
+17th Jun'26,ACE,,3.4,,,,Tiger breakouts,2.52,midcap,industrials
+17th Jun'26,ITI,,1.01,,,,Tiger breakouts,2.51,largecap,aerospace & defence
+17th Jun'26,POLYCAB,,3.49,,,,Tiger breakouts,2.48,largecap,industrials
+17th Jun'26,METROPOLIS,,2.14,,,,Tiger breakouts,2.42,midcap,healthcare
+17th Jun'26,OLECTRA,,6.65,,,,Tiger breakouts,2.34,midcap,auto
+17th Jun'26,ARVINDFASN,,2.62,,,,Tiger breakouts,2.34,midcap,consumer discretionary
+17th Jun'26,HEALTHX,,3.29,,,,Tiger breakouts,1.07,smallcap,financials
