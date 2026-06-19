@@ -1,0 +1,48 @@
+Date,Symbol,Mcap,Change,Dpower,Mpower,Sector,Scanner_Source,Volume multiples,Marketcap,Sectors
+19th Jun'26,AUROPHARMA,largecap,3.75,59.92,67.07,healthcare,Screener 1,,,
+19th Jun'26,SOLARINDS,largecap,1.62,58.13,67.88,aerospace & defence,Screener 1,,,
+19th Jun'26,SUVEN,midcap,3.27,57.68,65.07,healthcare,Screener 1,,,
+19th Jun'26,PRECOT,smallcap,3.56,57.4,65.09,textiles,Screener 1,,,
+19th Jun'26,INDOTECH,smallcap,5.0,57.29,62.55,industrials,Screener 1,,,
+19th Jun'26,KENNAMET,midcap,1.46,57.0,66.78,industrials,Screener 1,,,
+19th Jun'26,BHARATSE,smallcap,2.86,56.54,67.01,auto,Screener 1,,,
+19th Jun'26,SAKAR,smallcap,0.968,55.91,85.72,healthcare,Screener 1,,,
+19th Jun'26,KRN,midcap,1.3,55.72,66.63,industrials,Screener 1,,,
+19th Jun'26,WHEELS,smallcap,1.72,55.48,76.93,auto,Screener 1,,,
+19th Jun'26,ZYDUSWELL,midcap,1.53,55.36,63.04,fmcg,Screener 1,,,
+19th Jun'26,SCI,midcap,0.938,55.13,63.73,transportation,Screener 1,,,
+19th Jun'26,COMSYN,smallcap,0.037,55.06,64.74,industrials,Screener 1,,,
+19th Jun'26,OMAXAUTO,smallcap,0.869,55.0,67.65,auto,Screener 1,,,
+19th Jun'26,BHAGCHEM,,7.83,,,,Tiger breakouts,32.13,smallcap,chemicals
+19th Jun'26,BERGEPAINT,,9.04,,,,Tiger breakouts,22.17,largecap,building materials
+19th Jun'26,TARIL,,10.07,,,,Tiger breakouts,21.08,midcap,industrials
+19th Jun'26,VENUSPIPES,,4.3,,,,Tiger breakouts,13.52,smallcap,metals & mining
+19th Jun'26,RITCO,,6.19,,,,Tiger breakouts,11.94,smallcap,transportation
+19th Jun'26,ROSSARI,,5.1,,,,Tiger breakouts,11.22,smallcap,chemicals
+19th Jun'26,HAPPYFORGE,,0.763,,,,Tiger breakouts,9.03,midcap,industrials
+19th Jun'26,INDOAMIN,,7.34,,,,Tiger breakouts,8.69,smallcap,chemicals
+19th Jun'26,AADHARHFC,,5.89,,,,Tiger breakouts,8.53,largecap,financials
+19th Jun'26,GOODLUCK,,5.06,,,,Tiger breakouts,6.56,smallcap,metals & mining
+19th Jun'26,NDLVENTURE,,4.6,,,,Tiger breakouts,5.61,smallcap,financials
+19th Jun'26,TIIL,,4.16,,,,Tiger breakouts,5.27,midcap,metals & mining
+19th Jun'26,SPECIALITY,,8.14,,,,Tiger breakouts,5.05,smallcap,services
+19th Jun'26,SCHAEFFLER,,3.44,,,,Tiger breakouts,4.95,largecap,industrials
+19th Jun'26,JINDWORLD,,6.75,,,,Tiger breakouts,4.72,smallcap,textiles
+19th Jun'26,ABCAPITAL,,1.43,,,,Tiger breakouts,4.32,largecap,financials
+19th Jun'26,ITI,,0.418,,,,Tiger breakouts,3.98,largecap,aerospace & defence
+19th Jun'26,CENTENKA,,3.54,,,,Tiger breakouts,3.79,smallcap,textiles
+19th Jun'26,JBMA,,2.94,,,,Tiger breakouts,3.68,midcap,auto
+19th Jun'26,INDUSINDBK,,0.927,,,,Tiger breakouts,3.48,largecap,bank
+19th Jun'26,BANSWRAS,,2.61,,,,Tiger breakouts,3.45,smallcap,textiles
+19th Jun'26,TIMKEN,,3.23,,,,Tiger breakouts,3.33,largecap,industrials
+19th Jun'26,ADOR,,3.54,,,,Tiger breakouts,3.28,smallcap,industrials
+19th Jun'26,LICI,,2.36,,,,Tiger breakouts,3.17,largecap,financials
+19th Jun'26,GLOSTERLTD,,0.968,,,,Tiger breakouts,3.16,smallcap,textiles
+19th Jun'26,SURYODAY,,0.957,,,,Tiger breakouts,3.05,smallcap,bank
+19th Jun'26,PGIL,,2.87,,,,Tiger breakouts,2.99,midcap,consumer discretionary
+19th Jun'26,VHL,,1.93,,,,Tiger breakouts,2.81,smallcap,financials
+19th Jun'26,ELGIEQUIP,,1.79,,,,Tiger breakouts,2.61,midcap,industrials
+19th Jun'26,RCF,,1.64,,,,Tiger breakouts,2.47,midcap,chemicals
+19th Jun'26,GABRIEL,,4.86,,,,Tiger breakouts,2.45,midcap,auto
+19th Jun'26,RPPL,,4.38,,,,Tiger breakouts,2.2,smallcap,industrials
+19th Jun'26,BHEL,,2.08,,,,Tiger breakouts,2.1,largecap,industrials
