@@ -1,0 +1,41 @@
+Date,Symbol,Mcap,Change,Dpower,Mpower,Sector,Scanner_Source,Volume multiples,Marketcap,Sectors
+30th Jun'26,NEOGEN,midcap,7.58,63.0,60.17,chemicals,Screener 1,,,
+30th Jun'26,SANDHAR,smallcap,6.36,61.3,65.53,auto,Screener 1,,,
+30th Jun'26,SOLARINDS,largecap,5.05,61.21,69.51,aerospace & defence,Screener 1,,,
+30th Jun'26,THYROCARE,midcap,4.75,60.81,66.71,healthcare,Screener 1,,,
+30th Jun'26,SKYGOLD,midcap,3.99,58.84,71.44,consumer discretionary,Screener 1,,,
+30th Jun'26,SANGAMIND,smallcap,2.24,58.4,60.19,textiles,Screener 1,,,
+30th Jun'26,APOLLO,midcap,4.32,58.19,72.89,aerospace & defence,Screener 1,,,
+30th Jun'26,MANAPPURAM,largecap,2.77,57.9,65.71,financials,Screener 1,,,
+30th Jun'26,PANAMAPET,smallcap,4.99,57.81,62.75,energy,Screener 1,,,
+30th Jun'26,RBLBANK,largecap,1.44,57.29,68.56,bank,Screener 1,,,
+30th Jun'26,VIJAYA,midcap,3.15,57.26,68.1,healthcare,Screener 1,,,
+30th Jun'26,KENNAMET,midcap,2.49,56.83,67.67,industrials,Screener 1,,,
+30th Jun'26,MENONBE,smallcap,2.25,56.8,65.18,auto,Screener 1,,,
+30th Jun'26,USHAMART,midcap,2.59,56.68,62.86,metals & mining,Screener 1,,,
+30th Jun'26,UNIVCABLES,smallcap,2.45,56.42,69.74,industrials,Screener 1,,,
+30th Jun'26,AUBANK,largecap,0.64,56.37,64.1,bank,Screener 1,,,
+30th Jun'26,POCL,smallcap,5.4,56.24,62.69,metals & mining,Screener 1,,,
+30th Jun'26,KTKBANK,midcap,1.79,56.16,67.48,bank,Screener 1,,,
+30th Jun'26,ASTERDM,largecap,2.45,55.4,72.64,healthcare,Screener 1,,,
+30th Jun'26,BHARATSE,smallcap,1.29,55.24,66.86,auto,Screener 1,,,
+30th Jun'26,PRECOT,smallcap,5.0,55.11,64.59,textiles,Screener 1,,,
+30th Jun'26,JPOLYINVST,,2.34,,,,Tiger breakouts,13.11,smallcap,financials
+30th Jun'26,NEOGEN,,7.58,,,,Tiger breakouts,10.75,midcap,chemicals
+30th Jun'26,MODTHREAD,,6.78,,,,Tiger breakouts,7.93,smallcap,textiles
+30th Jun'26,WSTCSTPAPR,,3.52,,,,Tiger breakouts,7.88,smallcap,building materials
+30th Jun'26,VIJAYA,,3.15,,,,Tiger breakouts,7.06,midcap,healthcare
+30th Jun'26,IPCALAB,,3.27,,,,Tiger breakouts,5.86,largecap,healthcare
+30th Jun'26,KSL,,4.19,,,,Tiger breakouts,3.41,smallcap,metals & mining
+30th Jun'26,VARROC,,2.33,,,,Tiger breakouts,3.33,midcap,auto
+30th Jun'26,APTUS,,4.38,,,,Tiger breakouts,3.29,midcap,financials
+30th Jun'26,SOMANYCERA,,3.13,,,,Tiger breakouts,3.21,smallcap,building materials
+30th Jun'26,MANORAMA,,4.3,,,,Tiger breakouts,2.99,midcap,fmcg
+30th Jun'26,ALKEM,,2.83,,,,Tiger breakouts,2.94,largecap,healthcare
+30th Jun'26,BANSALWIRE,,1.96,,,,Tiger breakouts,2.81,midcap,metals & mining
+30th Jun'26,MOLDTKPAC,,1.64,,,,Tiger breakouts,2.77,smallcap,industrials
+30th Jun'26,MUFIN,,5.1,,,,Tiger breakouts,2.74,smallcap,financials
+30th Jun'26,VISAKAIND,,3.04,,,,Tiger breakouts,2.54,smallcap,building materials
+30th Jun'26,LOVABLE,,3.95,,,,Tiger breakouts,2.51,smallcap,textiles
+30th Jun'26,GHCLTEXTIL,,4.97,,,,Tiger breakouts,2.38,smallcap,textiles
+30th Jun'26,BALRAMCHIN,,5.28,,,,Tiger breakouts,2.25,midcap,fmcg
