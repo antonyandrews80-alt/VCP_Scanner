@@ -1,0 +1,222 @@
+🎯 *SMART MONEY REPORT*
+📅 2026-07-02 | ⏰ 19:33
+
+
+📈 *MARKET STATUS*
+⚠️ MARKET CAUTIOUS: Nifty 1.5% above 50 MA
+💰 Position Sizing: REDUCE SIZE 50%
+
+📊 Analyzed: 32 | Qualified: 8
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 *TOP 10 PICKS*
+
+1. *MODTHREAD* 
+   Score: 69 | ✅ Buy
+   Vol: 92% | FII: 0.0%
+
+2. *MMFL* 
+   Score: 67 | ✅ Buy
+   Vol: 74% | FII: 1.9%
+
+3. *IFGLEXPOR* 
+   Score: 67 | ✅ Buy
+   Vol: 91% | FII: 0.0%
+
+4. *ALIVUS* 
+   Score: 66 | ✅ Buy
+   Vol: 82% | FII: 5.3%
+
+5. *COMSYN* 
+   Score: 65 | ✅ Buy
+   Vol: 71% | FII: 0.2%
+
+6. *HECPROJECT* 
+   Score: 58 | 👀 Watch
+   Vol: 77% | FII: 0.0%
+
+7. *DBSTOCKBRO* 
+   Score: 57 | 👀 Watch
+   Vol: 91% | FII: 0.0%
+
+8. *EXIDEIND* 
+   Score: 50 | 👀 Watch
+   Vol: 76% | FII: 10.3%
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 *TOP 10 ANALYSIS*
+
+*#1. MODTHREAD* — 69/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 3/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 91.7%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.0% | DII: 10.7%
+   Momentum: +12.09%
+
+─────────────────────
+
+*#2. MMFL* — 67/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 3/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 74.1%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 1.9% | DII: 8.4%
+   Momentum: +5.45%
+
+─────────────────────
+
+*#3. IFGLEXPOR* — 67/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 3/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 91.3%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.0% | DII: 13.3%
+   Momentum: +12.62%
+
+─────────────────────
+
+*#4. ALIVUS* — 66/100
+
+📊 *Scores:*
+   • Volume: 44/30
+   • Pattern: 22/25
+   • Sector: 10/12
+   • Institutional: 3/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 82.3%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 5.3% | DII: 7.3%
+   Momentum: +4.59%
+
+─────────────────────
+
+*#5. COMSYN* — 65/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 71.0%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.2% | DII: 0.1%
+   Momentum: +15.19%
+
+─────────────────────
+
+*#6. HECPROJECT* — 58/100
+
+📊 *Scores:*
+   • Volume: 44/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 76.6%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.0% | DII: 0.0%
+   Momentum: +9.06%
+
+─────────────────────
+
+*#7. DBSTOCKBRO* — 57/100
+
+📊 *Scores:*
+   • Volume: 36/30
+   • Pattern: 22/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 91.4%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.0% | DII: 0.0%
+   Momentum: +13.74%
+
+─────────────────────
+
+*#8. EXIDEIND* — 50/100
+
+📊 *Scores:*
+   • Volume: 18/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 8/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 76.5%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 10.3% | DII: 19.1%
+   Momentum: +8.13%
+
+─────────────────────
+
+💡 *Legend:*
+Vol = % volume on up days (target >65%)
+Bonus = Multibagger signal points
+Del = Delivery %
