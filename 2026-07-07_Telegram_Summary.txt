@@ -1,0 +1,147 @@
+🎯 *SMART MONEY REPORT*
+📅 2026-07-07 | ⏰ 19:31
+
+
+📈 *MARKET STATUS*
+⚠️ MARKET CAUTIOUS: Nifty 2.4% above 50 MA
+💰 Position Sizing: REDUCE SIZE 50%
+
+📊 Analyzed: 15 | Qualified: 5
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 *TOP 10 PICKS*
+
+1. *RITES* 
+   Score: 69 | ✅ Buy
+   Vol: 95% | FII: 3.5%
+
+2. *DHANBANK* 
+   Score: 68 | ✅ Buy
+   Vol: 81% | FII: 15.4%
+
+3. *INDBANK* 
+   Score: 66 | ✅ Buy
+   Vol: 89% | FII: 0.0%
+
+4. *ASKAUTOLTD* 
+   Score: 65 | ✅ Buy
+   Vol: 69% | FII: 9.3%
+
+5. *DATAMATICS* 
+   Score: 54 | 👀 Watch
+   Vol: 86% | FII: 0.5%
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 *TOP 10 ANALYSIS*
+
+*#1. RITES* — 69/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 3/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 94.6%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 3.5% | DII: 8.7%
+   Momentum: +0.96%
+
+─────────────────────
+
+*#2. DHANBANK* — 68/100
+
+📊 *Scores:*
+   • Volume: 44/30
+   • Pattern: 22/25
+   • Sector: 10/12
+   • Institutional: 5/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 81.0%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 15.4% | DII: 0.1%
+   Momentum: +13.40%
+
+─────────────────────
+
+*#3. INDBANK* — 66/100
+
+📊 *Scores:*
+   • Volume: 44/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 88.6%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.0% | DII: 0.1%
+   Momentum: +7.13%
+
+─────────────────────
+
+*#4. ASKAUTOLTD* — 65/100
+
+📊 *Scores:*
+   • Volume: 42/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 5/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 68.7%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 9.3% | DII: 10.2%
+   Momentum: +5.22%
+
+─────────────────────
+
+*#5. DATAMATICS* — 54/100
+
+📊 *Scores:*
+   • Volume: 36/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 85.9%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.5% | DII: 0.1%
+   Momentum: +6.20%
+
+─────────────────────
+
+💡 *Legend:*
+Vol = % volume on up days (target >65%)
+Bonus = Multibagger signal points
+Del = Delivery %
