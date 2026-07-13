@@ -1,0 +1,272 @@
+🎯 *SMART MONEY REPORT*
+📅 2026-07-13 | ⏰ 19:34
+
+
+📈 *MARKET STATUS*
+⚠️ MARKET CAUTIOUS: Nifty 1.6% above 50 MA
+💰 Position Sizing: REDUCE SIZE 50%
+
+📊 Analyzed: 45 | Qualified: 11
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 *TOP 10 PICKS*
+
+1. *VSSL* 
+   Score: 72 | ✅ Buy
+   Vol: 87% | FII: 0.6%
+
+2. *VISAKAIND* 
+   Score: 71 | ✅ Buy
+   Vol: 85% | FII: 0.1%
+
+3. *KICL* 
+   Score: 69 | ✅ Buy
+   Vol: 86% | FII: 0.7%
+
+4. *BIRLAMONEY* 
+   Score: 68 | ✅ Buy
+   Vol: 92% | FII: 0.0%
+
+5. *HESTERBIO* 
+   Score: 68 | ✅ Buy
+   Vol: 97% | FII: 0.4%
+
+6. *BLKASHYAP* 
+   Score: 68 | ✅ Buy
+   Vol: 79% | FII: 0.3%
+
+7. *SONATSOFTW* 
+   Score: 67 | ✅ Buy
+   Vol: 95% | FII: 9.2%
+
+8. *TANLA* 
+   Score: 66 | ✅ Buy
+   Vol: 72% | FII: 7.6%
+
+9. *PLASTIBLEN* 
+   Score: 61 | 👀 Watch
+   Vol: 84% | FII: 0.2%
+
+10. *TATVA* 
+   Score: 61 | 👀 Watch
+   Vol: 76% | FII: 3.8%
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 *TOP 10 ANALYSIS*
+
+*#1. VSSL* — 72/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 87.1%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.6% | DII: 3.3%
+   Momentum: +8.47%
+
+─────────────────────
+
+*#2. VISAKAIND* — 71/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 22/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 85.2%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.1% | DII: 0.0%
+   Momentum: +5.09%
+
+─────────────────────
+
+*#3. KICL* — 69/100
+
+📊 *Scores:*
+   • Volume: 44/30
+   • Pattern: 22/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 85.7%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.7% | DII: 0.5%
+   Momentum: +4.03%
+
+─────────────────────
+
+*#4. BIRLAMONEY* — 68/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 91.6%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.0% | DII: 0.0%
+   Momentum: +11.44%
+
+─────────────────────
+
+*#5. HESTERBIO* — 68/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 96.9%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.4% | DII: 0.0%
+   Momentum: +15.39%
+
+─────────────────────
+
+*#6. BLKASHYAP* — 68/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 79.1%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.3% | DII: 0.2%
+   Momentum: +8.86%
+
+─────────────────────
+
+*#7. SONATSOFTW* — 67/100
+
+📊 *Scores:*
+   • Volume: 44/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 8/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 95.3%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 9.2% | DII: 24.7%
+   Momentum: +12.92%
+
+─────────────────────
+
+*#8. TANLA* — 66/100
+
+📊 *Scores:*
+   • Volume: 44/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 71.5%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 7.6% | DII: 0.4%
+   Momentum: +4.11%
+
+─────────────────────
+
+*#9. PLASTIBLEN* — 61/100
+
+📊 *Scores:*
+   • Volume: 44/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 83.7%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.2% | DII: 0.0%
+   Momentum: +10.94%
+
+─────────────────────
+
+*#10. TATVA* — 61/100
+
+📊 *Scores:*
+   • Volume: 44/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 75.8%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 3.8% | DII: 3.0%
+   Momentum: +12.18%
+
+─────────────────────
+
+💡 *Legend:*
+Vol = % volume on up days (target >65%)
+Bonus = Multibagger signal points
+Del = Delivery %
