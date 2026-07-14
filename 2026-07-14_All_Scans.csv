@@ -1,0 +1,18 @@
+Date,Symbol,Mcap,Change,Dpower,Mpower,Sector,Scanner_Source,Volume multiples,Marketcap,Sectors
+14th Jul'26,BIOCON,largecap,6.41,61.75,62.0,healthcare,Screener 1,,,
+14th Jul'26,AVALON,midcap,1.58,57.06,74.17,consumer discretionary,Screener 1,,,
+14th Jul'26,APCOTEXIND,smallcap,1.65,56.9,62.67,chemicals,Screener 1,,,
+14th Jul'26,AYMSYNTEX,smallcap,2.92,56.36,62.36,textiles,Screener 1,,,
+14th Jul'26,AIAENG,largecap,0.592,56.25,63.67,industrials,Screener 1,,,
+14th Jul'26,DEEDEV,smallcap,2.82,55.91,74.06,metals & mining,Screener 1,,,
+14th Jul'26,DYCL,,5.74,,,,Tiger breakouts,45.76,smallcap,industrials
+14th Jul'26,BIOCON,,6.41,,,,Tiger breakouts,8.79,largecap,healthcare
+14th Jul'26,WORTHPERI,,6.39,,,,Tiger breakouts,6.48,smallcap,industrials
+14th Jul'26,SAKAR,,4.74,,,,Tiger breakouts,5.57,smallcap,healthcare
+14th Jul'26,JETFREIGHT,,4.68,,,,Tiger breakouts,5.13,smallcap,transportation
+14th Jul'26,HARRMALAYA,,2.37,,,,Tiger breakouts,4.46,smallcap,fmcg
+14th Jul'26,LXCHEM,,1.54,,,,Tiger breakouts,3.4,smallcap,chemicals
+14th Jul'26,AARTIDRUGS,,2.53,,,,Tiger breakouts,2.77,smallcap,healthcare
+14th Jul'26,WIPL,,-0.15,,,,Tiger breakouts,2.66,smallcap,building materials
+14th Jul'26,ALKEM,,0.62,,,,Tiger breakouts,2.65,largecap,healthcare
+14th Jul'26,BCLIND,,1.7,,,,Tiger breakouts,2.64,smallcap,fmcg
