@@ -1,0 +1,272 @@
+🎯 *SMART MONEY REPORT*
+📅 2026-07-15 | ⏰ 19:34
+
+
+📈 *MARKET STATUS*
+⚠️ MARKET CAUTIOUS: Nifty 1.0% above 50 MA
+💰 Position Sizing: REDUCE SIZE 50%
+
+📊 Analyzed: 38 | Qualified: 11
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 *TOP 10 PICKS*
+
+1. *KSOLVES* 
+   Score: 71 | ✅ Buy
+   Vol: 96% | FII: 0.1%
+
+2. *FEDFINA* 
+   Score: 71 | ✅ Buy
+   Vol: 79% | FII: 0.7%
+
+3. *JUBLPHARMA* 
+   Score: 70 | ✅ Buy
+   Vol: 66% | FII: 15.9%
+
+4. *PAR* 
+   Score: 68 | ✅ Buy
+   Vol: 94% | FII: 0.0%
+
+5. *BLKASHYAP* 
+   Score: 68 | ✅ Buy
+   Vol: 80% | FII: 0.3%
+
+6. *CENTENKA* 
+   Score: 68 | ✅ Buy
+   Vol: 96% | FII: 2.1%
+
+7. *ROLEXRINGS* 
+   Score: 67 | ✅ Buy
+   Vol: 71% | FII: 5.4%
+
+8. *APOLSINHOT* 
+   Score: 65 | ✅ Buy
+   Vol: 94% | FII: 0.0%
+
+9. *FLUOROCHEM* 
+   Score: 59 | 👀 Watch
+   Vol: 63% | FII: 4.4%
+
+10. *LLOYDSENT* 
+   Score: 57 | 👀 Watch
+   Vol: 71% | FII: 0.7%
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 *TOP 10 ANALYSIS*
+
+*#1. KSOLVES* — 71/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 22/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 96.3%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.1% | DII: 0.0%
+   Momentum: +12.05%
+
+─────────────────────
+
+*#2. FEDFINA* — 71/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 5/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 78.5%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.7% | DII: 18.8%
+   Momentum: +5.86%
+
+─────────────────────
+
+*#3. JUBLPHARMA* — 70/100
+
+📊 *Scores:*
+   • Volume: 42/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 8/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 66.1%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 15.9% | DII: 11.6%
+   Momentum: +6.11%
+
+─────────────────────
+
+*#4. PAR* — 68/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 94.1%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.0% | DII: 0.0%
+   Momentum: +14.10%
+
+─────────────────────
+
+*#5. BLKASHYAP* — 68/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 80.0%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.3% | DII: 0.2%
+   Momentum: +15.55%
+
+─────────────────────
+
+*#6. CENTENKA* — 68/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 96.3%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 2.1% | DII: 0.0%
+   Momentum: +6.55%
+
+─────────────────────
+
+*#7. ROLEXRINGS* — 67/100
+
+📊 *Scores:*
+   • Volume: 44/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 8/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 71.0%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 5.4% | DII: 28.8%
+   Momentum: +8.73%
+
+─────────────────────
+
+*#8. APOLSINHOT* — 65/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 93.9%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.0% | DII: 0.0%
+   Momentum: +13.16%
+
+─────────────────────
+
+*#9. FLUOROCHEM* — 59/100
+
+📊 *Scores:*
+   • Volume: 32/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 5/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 63.5%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 4.4% | DII: 13.3%
+   Momentum: +6.94%
+
+─────────────────────
+
+*#10. LLOYDSENT* — 57/100
+
+📊 *Scores:*
+   • Volume: 36/30
+   • Pattern: 22/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 71.4%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.7% | DII: 0.1%
+   Momentum: +6.88%
+
+─────────────────────
+
+💡 *Legend:*
+Vol = % volume on up days (target >65%)
+Bonus = Multibagger signal points
+Del = Delivery %
