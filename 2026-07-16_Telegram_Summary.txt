@@ -1,0 +1,272 @@
+🎯 *SMART MONEY REPORT*
+📅 2026-07-16 | ⏰ 19:33
+
+
+📈 *MARKET STATUS*
+⚠️ MARKET CAUTIOUS: Nifty 1.0% above 50 MA
+💰 Position Sizing: REDUCE SIZE 50%
+
+📊 Analyzed: 39 | Qualified: 16
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 *TOP 10 PICKS*
+
+1. *ASKAUTOLTD* 
+   Score: 75 | 🔥 Strong Buy
+   Vol: 65% | FII: 9.5%
+
+2. *VSSL* 
+   Score: 71 | ✅ Buy
+   Vol: 93% | FII: 0.6%
+
+3. *JINDWORLD* 
+   Score: 68 | ✅ Buy
+   Vol: 98% | FII: 0.2%
+
+4. *TANLA* 
+   Score: 68 | ✅ Buy
+   Vol: 82% | FII: 7.6%
+
+5. *MRPL* 
+   Score: 65 | ✅ Buy
+   Vol: 96% | FII: 2.2%
+
+6. *ABB* 
+   Score: 64 | 👀 Watch
+   Vol: 83% | FII: 8.2%
+
+7. *CHENNPETRO* 
+   Score: 64 | 👀 Watch
+   Vol: 75% | FII: 15.0%
+
+8. *BHEL* 
+   Score: 62 | 👀 Watch
+   Vol: 69% | FII: 9.5%
+
+9. *RAJRATAN* 
+   Score: 61 | 👀 Watch
+   Vol: 70% | FII: 0.6%
+
+10. *GLOBUSSPR* 
+   Score: 61 | 👀 Watch
+   Vol: 85% | FII: 7.5%
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 *TOP 10 ANALYSIS*
+
+*#1. ASKAUTOLTD* — 75/100
+
+📊 *Scores:*
+   • Volume: 50/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 6/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 65.4%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 9.5% | DII: 11.0%
+   Momentum: +2.79%
+
+─────────────────────
+
+*#2. VSSL* — 71/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 22/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 92.8%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.6% | DII: 3.3%
+   Momentum: +7.62%
+
+─────────────────────
+
+*#3. JINDWORLD* — 68/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 98.0%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.2% | DII: 0.0%
+   Momentum: +9.16%
+
+─────────────────────
+
+*#4. TANLA* — 68/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 82.2%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 7.6% | DII: 0.4%
+   Momentum: +6.92%
+
+─────────────────────
+
+*#5. MRPL* — 65/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 95.9%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 2.2% | DII: 0.4%
+   Momentum: +6.67%
+
+─────────────────────
+
+*#6. ABB* — 64/100
+
+📊 *Scores:*
+   • Volume: 44/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 5/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 83.5%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 8.2% | DII: 9.3%
+   Momentum: +12.16%
+
+─────────────────────
+
+*#7. CHENNPETRO* — 64/100
+
+📊 *Scores:*
+   • Volume: 44/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 5/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 74.7%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 15.0% | DII: 1.0%
+   Momentum: +5.09%
+
+─────────────────────
+
+*#8. BHEL* — 62/100
+
+📊 *Scores:*
+   • Volume: 34/30
+   • Pattern: 22/25
+   • Sector: 10/12
+   • Institutional: 8/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 69.3%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 9.5% | DII: 22.4%
+   Momentum: +10.16%
+
+─────────────────────
+
+*#9. RAJRATAN* — 61/100
+
+📊 *Scores:*
+   • Volume: 44/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 70.3%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.6% | DII: 8.3%
+   Momentum: +2.87%
+
+─────────────────────
+
+*#10. GLOBUSSPR* — 61/100
+
+📊 *Scores:*
+   • Volume: 36/30
+   • Pattern: 22/25
+   • Sector: 10/12
+   • Institutional: 5/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 85.3%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 7.5% | DII: 10.9%
+   Momentum: +6.74%
+
+─────────────────────
+
+💡 *Legend:*
+Vol = % volume on up days (target >65%)
+Bonus = Multibagger signal points
+Del = Delivery %
