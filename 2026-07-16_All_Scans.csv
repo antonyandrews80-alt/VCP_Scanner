@@ -1,0 +1,43 @@
+Date,Symbol,Mcap,Change,Dpower,Mpower,Sector,Scanner_Source,Volume multiples,Marketcap,Sectors
+16th Jul'26,GRINDWELL,largecap,16.44,73.2,62.95,industrials,Screener 1,,,
+16th Jul'26,INGERRAND,midcap,5.58,63.17,62.84,industrials,Screener 1,,,
+16th Jul'26,CHENNPETRO,midcap,7.22,63.09,70.41,energy,Screener 1,,,
+16th Jul'26,PANACEABIO,smallcap,4.76,60.86,65.98,healthcare,Screener 1,,,
+16th Jul'26,RRKABEL,largecap,4.91,60.81,69.5,industrials,Screener 1,,,
+16th Jul'26,APCOTEXIND,smallcap,3.9,60.78,63.7,chemicals,Screener 1,,,
+16th Jul'26,AARVI,smallcap,4.36,60.66,61.53,miscellaneous,Screener 1,,,
+16th Jul'26,JINDALSAW,midcap,4.89,57.81,60.52,industrials,Screener 1,,,
+16th Jul'26,AVALON,midcap,5.23,57.31,75.02,consumer discretionary,Screener 1,,,
+16th Jul'26,YATHARTH,midcap,2.14,57.09,64.07,healthcare,Screener 1,,,
+16th Jul'26,BHAGYANGR,smallcap,4.63,56.99,78.54,power & utilities,Screener 1,,,
+16th Jul'26,TALBROAUTO,smallcap,1.32,56.42,65.53,auto,Screener 1,,,
+16th Jul'26,MINDACORP,midcap,1.13,55.99,67.59,auto,Screener 1,,,
+16th Jul'26,SOLARINDS,largecap,0.629,55.41,68.23,aerospace & defence,Screener 1,,,
+16th Jul'26,CREDITACC,largecap,1.19,55.13,60.65,financials,Screener 1,,,
+16th Jul'26,JINDWORLD,,6.51,,,,Tiger breakouts,140.99,smallcap,textiles
+16th Jul'26,ONWARDTEC,,1.62,,,,Tiger breakouts,68.97,smallcap,i.t
+16th Jul'26,MRPL,,10.07,,,,Tiger breakouts,20.85,largecap,energy
+16th Jul'26,LAGNAM,,4.32,,,,Tiger breakouts,17.28,smallcap,textiles
+16th Jul'26,JETFREIGHT,,2.9,,,,Tiger breakouts,9.83,smallcap,transportation
+16th Jul'26,ABB,,6.43,,,,Tiger breakouts,8.93,largecap,industrials
+16th Jul'26,CHENNPETRO,,7.22,,,,Tiger breakouts,7.21,midcap,energy
+16th Jul'26,LAMBODHARA,,2.49,,,,Tiger breakouts,5.69,smallcap,textiles
+16th Jul'26,ASAL,,1.62,,,,Tiger breakouts,5.34,smallcap,auto
+16th Jul'26,PFOCUS,,9.84,,,,Tiger breakouts,5.26,largecap,realty
+16th Jul'26,GLOBUSSPR,,3.26,,,,Tiger breakouts,5.07,smallcap,fmcg
+16th Jul'26,SRF,,4.1,,,,Tiger breakouts,4.4,largecap,chemicals
+16th Jul'26,NITIRAJ,,3.46,,,,Tiger breakouts,4.14,smallcap,consumer discretionary
+16th Jul'26,MANORG,,4.6,,,,Tiger breakouts,3.72,smallcap,chemicals
+16th Jul'26,ROSSELLIND,,4.33,,,,Tiger breakouts,3.69,smallcap,fmcg
+16th Jul'26,BHEL,,4.18,,,,Tiger breakouts,3.62,largecap,industrials
+16th Jul'26,RAJRATAN,,2.21,,,,Tiger breakouts,3.5,smallcap,metals & mining
+16th Jul'26,HSCL,,5.99,,,,Tiger breakouts,3.48,largecap,chemicals
+16th Jul'26,TANLA,,4.32,,,,Tiger breakouts,3.46,midcap,i.t
+16th Jul'26,BEPL,,3.07,,,,Tiger breakouts,3.44,smallcap,energy
+16th Jul'26,INGERRAND,,5.58,,,,Tiger breakouts,3.14,midcap,industrials
+16th Jul'26,ASKAUTOLTD,,2.57,,,,Tiger breakouts,3.03,midcap,auto
+16th Jul'26,IIFL,,4.32,,,,Tiger breakouts,2.7,largecap,financials
+16th Jul'26,VSSL,,0.439,,,,Tiger breakouts,2.5,smallcap,metals & mining
+16th Jul'26,JINDALSAW,,4.89,,,,Tiger breakouts,2.48,midcap,industrials
+16th Jul'26,TIMETECHNO,,2.19,,,,Tiger breakouts,2.18,midcap,plastic products
+16th Jul'26,VIJAYA,,1.66,,,,Tiger breakouts,2.07,midcap,healthcare
