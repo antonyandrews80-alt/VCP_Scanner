@@ -1,0 +1,147 @@
+🎯 *SMART MONEY REPORT*
+📅 2026-07-17 | ⏰ 19:31
+
+
+📈 *MARKET STATUS*
+⚠️ MARKET CAUTIOUS: Nifty 2.1% above 50 MA
+💰 Position Sizing: REDUCE SIZE 50%
+
+📊 Analyzed: 14 | Qualified: 5
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 *TOP 10 PICKS*
+
+1. *RESPONIND* 
+   Score: 71 | ✅ Buy
+   Vol: 89% | FII: 32.2%
+
+2. *PAR* 
+   Score: 68 | ✅ Buy
+   Vol: 89% | FII: 0.0%
+
+3. *LAGNAM* 
+   Score: 68 | ✅ Buy
+   Vol: 96% | FII: 0.0%
+
+4. *LIBERTSHOE* 
+   Score: 65 | ✅ Buy
+   Vol: 83% | FII: 0.1%
+
+5. *BEPL* 
+   Score: 61 | 👀 Watch
+   Vol: 79% | FII: 1.4%
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 *TOP 10 ANALYSIS*
+
+*#1. RESPONIND* — 71/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 8/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 89.3%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 32.2% | DII: 3.2%
+   Momentum: +17.28%
+
+─────────────────────
+
+*#2. PAR* — 68/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 89.2%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.0% | DII: 0.1%
+   Momentum: +14.45%
+
+─────────────────────
+
+*#3. LAGNAM* — 68/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 96.0%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.0% | DII: 0.0%
+   Momentum: +7.16%
+
+─────────────────────
+
+*#4. LIBERTSHOE* — 65/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 83.2%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.1% | DII: 0.0%
+   Momentum: +3.18%
+
+─────────────────────
+
+*#5. BEPL* — 61/100
+
+📊 *Scores:*
+   • Volume: 44/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 78.9%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 1.4% | DII: 0.0%
+   Momentum: +4.63%
+
+─────────────────────
+
+💡 *Legend:*
+Vol = % volume on up days (target >65%)
+Bonus = Multibagger signal points
+Del = Delivery %
