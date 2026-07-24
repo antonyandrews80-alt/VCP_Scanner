@@ -1,0 +1,272 @@
+🎯 *SMART MONEY REPORT*
+📅 2026-07-24 | ⏰ 19:36
+
+
+📈 *MARKET STATUS*
+🚨 MARKET WEAK: Nifty 0.3% BELOW 50 MA
+💰 Position Sizing: CASH/MINIMAL POSITIONS ONLY
+
+📊 Analyzed: 75 | Qualified: 13
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 *TOP 10 PICKS*
+
+1. *PVRINOX* 
+   Score: 76 | 🔥 Strong Buy
+   Vol: 83% | FII: 18.1%
+
+2. *THYROCARE* 
+   Score: 73 | ✅ Buy
+   Vol: 88% | FII: 5.4%
+
+3. *HARIOMPIPE* 
+   Score: 72 | ✅ Buy
+   Vol: 90% | FII: 10.2%
+
+4. *KANPRPLA* 
+   Score: 71 | ✅ Buy
+   Vol: 97% | FII: 0.0%
+
+5. *MAHLOG* 
+   Score: 71 | ✅ Buy
+   Vol: 81% | FII: 4.1%
+
+6. *ASHIANA* 
+   Score: 68 | ✅ Buy
+   Vol: 92% | FII: 8.2%
+
+7. *GULFPETRO* 
+   Score: 68 | ✅ Buy
+   Vol: 78% | FII: 0.4%
+
+8. *VISHNU* 
+   Score: 68 | ✅ Buy
+   Vol: 79% | FII: 2.5%
+
+9. *CINELINE* 
+   Score: 61 | 👀 Watch
+   Vol: 83% | FII: 2.2%
+
+10. *PFOCUS* 
+   Score: 61 | 👀 Watch
+   Vol: 74% | FII: 3.4%
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 *TOP 10 ANALYSIS*
+
+*#1. PVRINOX* — 76/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 8/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 83.0%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 18.1% | DII: 35.7%
+   Momentum: +4.39%
+
+─────────────────────
+
+*#2. THYROCARE* — 73/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 8/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 87.9%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 5.4% | DII: 20.9%
+   Momentum: +1.58%
+
+─────────────────────
+
+*#3. HARIOMPIPE* — 72/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 3/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 89.6%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 10.2% | DII: 0.1%
+   Momentum: -2.01%
+
+─────────────────────
+
+*#4. KANPRPLA* — 71/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 22/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 96.5%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.0% | DII: 1.4%
+   Momentum: +8.46%
+
+─────────────────────
+
+*#5. MAHLOG* — 71/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 5/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 81.3%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 4.1% | DII: 14.4%
+   Momentum: +5.93%
+
+─────────────────────
+
+*#6. ASHIANA* — 68/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 5/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 91.6%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 8.2% | DII: 8.1%
+   Momentum: +3.51%
+
+─────────────────────
+
+*#7. GULFPETRO* — 68/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 77.9%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.4% | DII: 0.0%
+   Momentum: +18.45%
+
+─────────────────────
+
+*#8. VISHNU* — 68/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 79.0%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 2.5% | DII: 0.0%
+   Momentum: -1.20%
+
+─────────────────────
+
+*#9. CINELINE* — 61/100
+
+📊 *Scores:*
+   • Volume: 44/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 83.0%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 2.2% | DII: 0.0%
+   Momentum: +11.64%
+
+─────────────────────
+
+*#10. PFOCUS* — 61/100
+
+📊 *Scores:*
+   • Volume: 44/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 73.7%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 3.4% | DII: 1.1%
+   Momentum: +1.82%
+
+─────────────────────
+
+💡 *Legend:*
+Vol = % volume on up days (target >65%)
+Bonus = Multibagger signal points
+Del = Delivery %
