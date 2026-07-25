@@ -1,0 +1,172 @@
+🎯 *SMART MONEY REPORT*
+📅 2026-07-25 | ⏰ 14:20
+
+
+📈 *MARKET STATUS*
+⚠️ MARKET CAUTIOUS: Nifty 0.1% above 50 MA
+💰 Position Sizing: REDUCE SIZE 50%
+
+📊 Analyzed: 64 | Qualified: 6
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 *TOP 10 PICKS*
+
+1. *THYROCARE* 
+   Score: 73 | ✅ Buy
+   Vol: 88% | FII: 5.4%
+
+2. *HARIOMPIPE* 
+   Score: 72 | ✅ Buy
+   Vol: 90% | FII: 10.2%
+
+3. *ASHIANA* 
+   Score: 68 | ✅ Buy
+   Vol: 92% | FII: 8.2%
+
+4. *VISHNU* 
+   Score: 68 | ✅ Buy
+   Vol: 79% | FII: 2.5%
+
+5. *PFOCUS* 
+   Score: 61 | 👀 Watch
+   Vol: 74% | FII: 3.4%
+
+6. *GNA* 
+   Score: 58 | 👀 Watch
+   Vol: 60% | FII: 1.7%
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 *TOP 10 ANALYSIS*
+
+*#1. THYROCARE* — 73/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 8/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 87.9%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 5.4% | DII: 20.9%
+   Momentum: +1.58%
+
+─────────────────────
+
+*#2. HARIOMPIPE* — 72/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 3/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 89.6%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 10.2% | DII: 0.1%
+   Momentum: -2.01%
+
+─────────────────────
+
+*#3. ASHIANA* — 68/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 5/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 91.6%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 8.2% | DII: 8.1%
+   Momentum: +3.51%
+
+─────────────────────
+
+*#4. VISHNU* — 68/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 79.0%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 2.5% | DII: 0.0%
+   Momentum: -1.20%
+
+─────────────────────
+
+*#5. PFOCUS* — 61/100
+
+📊 *Scores:*
+   • Volume: 44/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 73.7%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 3.4% | DII: 1.1%
+   Momentum: +1.82%
+
+─────────────────────
+
+*#6. GNA* — 58/100
+
+📊 *Scores:*
+   • Volume: 48/30
+   • Pattern: 9/25
+   • Sector: 10/12
+   • Institutional: 3/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 60.4%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 1.7% | DII: 11.6%
+   Momentum: -0.20%
+
+─────────────────────
+
+💡 *Legend:*
+Vol = % volume on up days (target >65%)
+Bonus = Multibagger signal points
+Del = Delivery %
