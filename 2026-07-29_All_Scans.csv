@@ -1,0 +1,73 @@
+Date,Symbol,Price,% change,Roc 10days,Rsi 14,Scanner_Source,D change,M change,Rsi weekly,Mcap,Change,Dpower,Mpower,Sector
+29th Jul'26,COMSYN,207.92,15.99,8.69,63.67,M Swing scan,,,,,,,,
+29th Jul'26,MUFIN,130.1,4.95,0.65,55.67,M Swing scan,,,,,,,,
+29th Jul'26,GLAND,2543.7,4.75,3.19,62.61,M Swing scan,,,,,,,,
+29th Jul'26,CENTUM,3578.5,3.55,-2.03,49.84,M Swing scan,,,,,,,,
+29th Jul'26,ACMESOLAR,366.65,3.14,-6.5,50.73,M Swing scan,,,,,,,,
+29th Jul'26,AVALON,1677.3,2.27,-0.149,47.56,M Swing scan,,,,,,,,
+29th Jul'26,ZYDUSLIFE,1122.7,2.14,-2.96,51.78,M Swing scan,,,,,,,,
+29th Jul'26,RBLBANK,371.15,1.71,-0.443,55.04,M Swing scan,,,,,,,,
+29th Jul'26,AMBIKCO,1703.0,1.53,-2.73,49.99,M Swing scan,,,,,,,,
+29th Jul'26,VENUSPIPES,1685.9,1.47,-4.63,50.4,M Swing scan,,,,,,,,
+29th Jul'26,ALIVUS,1119.6,1.35,-4.18,49.49,M Swing scan,,,,,,,,
+29th Jul'26,BALAMINES,2271.4,1.33,-1.85,53.17,M Swing scan,,,,,,,,
+29th Jul'26,INNOVACAP,968.65,1.19,-2.3,52.12,M Swing scan,,,,,,,,
+29th Jul'26,NEOGEN,2048.3,1.19,-9.85,49.77,M Swing scan,,,,,,,,
+29th Jul'26,ARVIND,517.35,1.17,-4.37,46.66,M Swing scan,,,,,,,,
+29th Jul'26,CAPLIPOINT,2613.2,0.962,-1.32,57.21,M Swing scan,,,,,,,,
+29th Jul'26,VIJAYA,1372.0,0.949,-1.25,55.89,M Swing scan,,,,,,,,
+29th Jul'26,AIAENG,4643.5,0.88,-3.83,49.39,M Swing scan,,,,,,,,
+29th Jul'26,CCL,1198.6,0.875,-2.0,55.31,M Swing scan,,,,,,,,
+29th Jul'26,TALBROAUTO,398.1,0.874,1.05,52.6,M Swing scan,,,,,,,,
+29th Jul'26,ADANIENT,3024.5,0.739,-4.0,46.25,M Swing scan,,,,,,,,
+29th Jul'26,ASTERDM,818.35,0.596,-0.758,58.81,M Swing scan,,,,,,,,
+29th Jul'26,TEXINFRA,114.89,0.419,0.763,65.43,M Swing scan,,,,,,,,
+29th Jul'26,SAKAR,850.0,0.366,-7.3,52.5,M Swing scan,,,,,,,,
+29th Jul'26,GRANULES,841.85,-0.42,-6.26,50.15,M Swing scan,,,,,,,,
+29th Jul'26,KIRLOSENG,2180.9,-0.515,-9.66,46.75,M Swing scan,,,,,,,,
+29th Jul'26,IPCALAB,1774.5,-0.81,-5.51,53.32,M Swing scan,,,,,,,,
+29th Jul'26,SMLMAH,,,10.22,67.27,RSI 5 SWING TRADE STRATEGY,20.0,11.42,60.55,,,,,
+29th Jul'26,MUFIN,,,0.65,55.67,RSI 5 SWING TRADE STRATEGY,4.95,-2.81,60.55,,,,,
+29th Jul'26,HARRMALAYA,,,-0.329,55.22,RSI 5 SWING TRADE STRATEGY,4.54,9.35,59.02,,,,,
+29th Jul'26,ACMESOLAR,,,-6.5,50.73,RSI 5 SWING TRADE STRATEGY,3.14,-3.65,64.72,,,,,
+29th Jul'26,SUNDRMBRAK,,,-5.49,50.66,RSI 5 SWING TRADE STRATEGY,2.41,-3.82,61.99,,,,,
+29th Jul'26,PANACHE,,,-4.42,49.76,RSI 5 SWING TRADE STRATEGY,2.3,-2.83,60.16,,,,,
+29th Jul'26,AVALON,,,-0.149,47.56,RSI 5 SWING TRADE STRATEGY,2.27,-6.91,67.92,,,,,
+29th Jul'26,RPPL,,,-7.46,47.49,RSI 5 SWING TRADE STRATEGY,2.26,-3.65,57.84,,,,,
+29th Jul'26,STYL,,,-12.38,49.94,RSI 5 SWING TRADE STRATEGY,2.18,13.2,59.31,,,,,
+29th Jul'26,ZYDUSLIFE,,,-2.96,51.78,RSI 5 SWING TRADE STRATEGY,2.14,0.908,65.12,,,,,
+29th Jul'26,RAYMOND,,,-3.41,48.04,RSI 5 SWING TRADE STRATEGY,2.03,1.15,60.53,,,,,
+29th Jul'26,AMANTA,,,-3.83,49.28,RSI 5 SWING TRADE STRATEGY,2.0,0.733,64.12,,,,,
+29th Jul'26,PACEDIGITK,,,-4.92,47.25,RSI 5 SWING TRADE STRATEGY,1.89,-2.59,52.62,,,,,
+29th Jul'26,AMBIKCO,,,-2.73,49.99,RSI 5 SWING TRADE STRATEGY,1.53,-3.23,64.83,,,,,
+29th Jul'26,DALMIASUG,,,0.028,51.67,RSI 5 SWING TRADE STRATEGY,1.48,9.78,54.3,,,,,
+29th Jul'26,VENUSPIPES,,,-4.63,50.4,RSI 5 SWING TRADE STRATEGY,1.47,-2.58,65.14,,,,,
+29th Jul'26,NRL,,,-6.18,62.99,RSI 5 SWING TRADE STRATEGY,1.27,23.42,78.61,,,,,
+29th Jul'26,NEOGEN,,,-9.85,49.77,RSI 5 SWING TRADE STRATEGY,1.19,1.16,63.92,,,,,
+29th Jul'26,ARVIND,,,-4.37,46.66,RSI 5 SWING TRADE STRATEGY,1.17,-11.88,65.33,,,,,
+29th Jul'26,ADANIENT,,,-4.0,46.25,RSI 5 SWING TRADE STRATEGY,0.739,-0.379,64.35,,,,,
+29th Jul'26,CRAFTSMAN,,,,,Turtle strategy,,,,largecap,6.71,69.64,75.18,auto
+29th Jul'26,SMLMAH,,,,,Turtle strategy,,,,midcap,20.0,67.27,64.69,auto
+29th Jul'26,COMSYN,,,,,Turtle strategy,,,,smallcap,15.99,63.67,75.06,industrials
+29th Jul'26,MACPOWER,,,,,Turtle strategy,,,,smallcap,8.36,63.28,60.82,industrials
+29th Jul'26,GLAND,,,,,Turtle strategy,,,,largecap,4.75,62.61,65.64,healthcare
+29th Jul'26,ATHERENERG,,,,,Turtle strategy,,,,largecap,3.67,60.44,88.88,auto
+29th Jul'26,PRIVISCL,,,,,Turtle strategy,,,,midcap,2.15,60.05,72.02,chemicals
+29th Jul'26,EXIDEIND,,,,,Turtle strategy,,,,largecap,2.89,60.0,60.43,auto
+29th Jul'26,STARHEALTH,,,,,Turtle strategy,,,,largecap,2.54,59.96,60.36,financials
+29th Jul'26,AUROPHARMA,,,,,Turtle strategy,,,,largecap,2.68,59.93,70.04,healthcare
+29th Jul'26,RPEL,,,,,Turtle strategy,,,,midcap,2.75,59.69,67.3,building materials
+29th Jul'26,PGIL,,,,,Turtle strategy,,,,midcap,3.37,59.33,70.28,consumer discretionary
+29th Jul'26,MINDACORP,,,,,Turtle strategy,,,,midcap,1.27,57.2,68.94,auto
+29th Jul'26,ASTRAMICRO,,,,,Turtle strategy,,,,midcap,4.09,57.08,77.9,aerospace & defence
+29th Jul'26,RATEGAIN,,,,,Turtle strategy,,,,midcap,1.64,56.1,65.73,i.t
+29th Jul'26,VIJAYA,,,,,Turtle strategy,,,,midcap,0.949,55.89,68.68,healthcare
+29th Jul'26,ABDL,,,,,Turtle strategy,,,,midcap,3.95,55.85,63.74,fmcg
+29th Jul'26,NOVARTIND,,,,,Turtle strategy,,,,smallcap,1.05,55.76,75.96,healthcare
+29th Jul'26,GOODLUCK,,,,,Turtle strategy,,,,midcap,0.406,55.69,67.34,metals & mining
+29th Jul'26,ADANIENSOL,,,,,Turtle strategy,,,,largecap,1.11,55.58,67.45,power & utilities
+29th Jul'26,EIFFL,,,,,Turtle strategy,,,,smallcap,2.46,55.34,68.07,fmcg
+29th Jul'26,WOCKPHARMA,,,,,Turtle strategy,,,,largecap,1.4,55.34,65.13,healthcare
+29th Jul'26,CCL,,,,,Turtle strategy,,,,midcap,0.875,55.31,71.03,fmcg
+29th Jul'26,RBLBANK,,,,,Turtle strategy,,,,largecap,1.71,55.04,68.8,bank
+29th Jul'26,SANSERA,,,,,Turtle strategy,,,,midcap,1.76,55.01,79.58,auto
