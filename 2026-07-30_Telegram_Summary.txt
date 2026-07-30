@@ -1,0 +1,122 @@
+🎯 *SMART MONEY REPORT*
+📅 2026-07-30 | ⏰ 19:32
+
+
+📈 *MARKET STATUS*
+⚠️ MARKET CAUTIOUS: Nifty 1.8% above 50 MA
+💰 Position Sizing: REDUCE SIZE 50%
+
+📊 Analyzed: 29 | Qualified: 4
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 *TOP 10 PICKS*
+
+1. *KTKBANK* 
+   Score: 82 | 🔥 Strong Buy
+   Vol: 72% | FII: 13.1%
+
+2. *ASHIANA* 
+   Score: 68 | ✅ Buy
+   Vol: 91% | FII: 8.2%
+
+3. *GAEL* 
+   Score: 65 | ✅ Buy
+   Vol: 87% | FII: 3.0%
+
+4. *COMSYN* 
+   Score: 65 | ✅ Buy
+   Vol: 84% | FII: 0.0%
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 *TOP 10 ANALYSIS*
+
+*#1. KTKBANK* — 82/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 22/25
+   • Sector: 10/12
+   • Institutional: 8/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 71.6%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 13.1% | DII: 15.8%
+   Momentum: +3.95%
+
+─────────────────────
+
+*#2. ASHIANA* — 68/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 5/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 90.9%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 8.2% | DII: 8.1%
+   Momentum: -0.04%
+
+─────────────────────
+
+*#3. GAEL* — 65/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 86.9%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 3.0% | DII: 0.7%
+   Momentum: +13.82%
+
+─────────────────────
+
+*#4. COMSYN* — 65/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 84.1%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.0% | DII: 0.1%
+   Momentum: +19.71%
+
+─────────────────────
+
+💡 *Legend:*
+Vol = % volume on up days (target >65%)
+Bonus = Multibagger signal points
+Del = Delivery %
