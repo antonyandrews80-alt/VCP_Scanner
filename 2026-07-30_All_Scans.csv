@@ -1,0 +1,34 @@
+Date,Symbol,Price,% change,Roc 10days,Rsi 14,Scanner_Source,D change,M change,Rsi weekly,Mcap,Change,Dpower,Mpower,Sector
+30th Jul'26,AVALON,1759.5,4.9,-0.458,55.62,M Swing scan,,,,,,,,
+30th Jul'26,MEGASTAR,340.95,3.55,4.09,49.1,M Swing scan,,,,,,,,
+30th Jul'26,SANGAMIND,615.65,2.82,-2.02,62.67,M Swing scan,,,,,,,,
+30th Jul'26,COMSYN,213.71,2.78,13.77,65.82,M Swing scan,,,,,,,,
+30th Jul'26,INOXINDIA,1897.5,0.834,-4.86,48.7,M Swing scan,,,,,,,,
+30th Jul'26,ADANIENT,3049.1,0.813,-3.25,48.79,M Swing scan,,,,,,,,
+30th Jul'26,TALBROAUTO,399.05,0.239,-0.025,53.13,M Swing scan,,,,,,,,
+30th Jul'26,AMBIKCO,1699.8,-0.188,-1.96,49.41,M Swing scan,,,,,,,,
+30th Jul'26,ZYDUSLIFE,1115.1,-0.677,-3.36,49.15,M Swing scan,,,,,,,,
+30th Jul'26,VENUSPIPES,1661.1,-1.47,-8.38,47.18,M Swing scan,,,,,,,,
+30th Jul'26,ACMESOLAR,360.7,-1.62,-8.45,47.22,M Swing scan,,,,,,,,
+30th Jul'26,CCL,1174.0,-2.05,-1.83,47.32,M Swing scan,,,,,,,,
+30th Jul'26,MEGASTAR,,,4.09,49.1,RSI 5 SWING TRADE STRATEGY,3.55,-6.37,60.25,,,,,
+30th Jul'26,SANGAMIND,,,-2.02,62.67,RSI 5 SWING TRADE STRATEGY,2.82,13.12,72.31,,,,,
+30th Jul'26,SUMICHEM,,,-5.95,51.18,RSI 5 SWING TRADE STRATEGY,1.34,20.8,57.26,,,,,
+30th Jul'26,GODREJIND,,,-2.23,55.88,RSI 5 SWING TRADE STRATEGY,1.24,11.47,62.59,,,,,
+30th Jul'26,INOXINDIA,,,-4.86,48.7,RSI 5 SWING TRADE STRATEGY,0.834,-3.11,71.36,,,,,
+30th Jul'26,PANSARI,,,-8.54,46.45,RSI 5 SWING TRADE STRATEGY,0.718,13.8,55.59,,,,,
+30th Jul'26,SHRINGARMS,,,-2.71,47.81,RSI 5 SWING TRADE STRATEGY,0.187,0.191,53.7,,,,,
+30th Jul'26,GAEL,,,,,Turtle strategy,,,,midcap,5.04,67.73,67.24,fmcg
+30th Jul'26,KTKBANK,,,,,Turtle strategy,,,,midcap,4.21,63.16,70.26,bank
+30th Jul'26,STEELCAS,,,,,Turtle strategy,,,,smallcap,4.14,59.45,73.1,industrials
+30th Jul'26,MANCREDIT,,,,,Turtle strategy,,,,smallcap,8.5,59.02,74.18,financials
+30th Jul'26,AYMSYNTEX,,,,,Turtle strategy,,,,smallcap,2.3,58.31,63.01,textiles
+30th Jul'26,BOSCHLTD,,,,,Turtle strategy,,,,largecap,1.18,56.95,63.41,auto
+30th Jul'26,AJANTPHARM,,,,,Turtle strategy,,,,largecap,1.17,56.82,70.37,healthcare
+30th Jul'26,CHENNPETRO,,,,,Turtle strategy,,,,midcap,2.14,56.53,70.33,energy
+30th Jul'26,AVALON,,,,,Turtle strategy,,,,midcap,4.9,55.62,74.66,consumer discretionary
+30th Jul'26,CARYSIL,,,,,Turtle strategy,,,,smallcap,0.899,55.45,63.87,consumer discretionary
+30th Jul'26,SETL,,,,,Turtle strategy,,,,midcap,2.76,55.25,64.64,industrials
+30th Jul'26,KERNEX,,,,,Turtle strategy,,,,smallcap,0.87,55.09,72.39,consumer discretionary
+30th Jul'26,MOTHERSON,,,,,Turtle strategy,,,,largecap,0.493,55.08,63.83,auto
+30th Jul'26,ASHIANA,,,,,Turtle strategy,,,,smallcap,0.756,55.07,61.34,realty
