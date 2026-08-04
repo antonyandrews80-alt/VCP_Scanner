@@ -1,0 +1,45 @@
+Date,Symbol,Price,% change,Roc 10days,Rsi 14,Scanner_Source,D change,M change,Rsi weekly,Mcap,Change,Dpower,Mpower,Sector
+4th Aug'26,AVADHSUGAR,615.05,10.09,11.38,73.07,M Swing scan,,,,,,,,
+4th Aug'26,MANAKSTEEL,79.26,5.38,7.85,61.89,M Swing scan,,,,,,,,
+4th Aug'26,MAWANASUG,115.35,5.0,-1.39,59.57,M Swing scan,,,,,,,,
+4th Aug'26,WELSPUNLIV,160.73,3.94,-3.2,49.96,M Swing scan,,,,,,,,
+4th Aug'26,AZAD,2374.4,2.93,-0.177,55.63,M Swing scan,,,,,,,,
+4th Aug'26,BALRAMCHIN,658.7,1.84,6.61,70.99,M Swing scan,,,,,,,,
+4th Aug'26,SIS,430.05,1.16,-2.58,50.93,M Swing scan,,,,,,,,
+4th Aug'26,GALAPREC,1102.7,1.12,-8.2,48.34,M Swing scan,,,,,,,,
+4th Aug'26,RISHABH,653.0,0.431,0.061,61.48,M Swing scan,,,,,,,,
+4th Aug'26,HONASA,459.4,0.262,1.84,57.99,M Swing scan,,,,,,,,
+4th Aug'26,SOLARINDS,18700.0,0.22,-1.81,56.37,M Swing scan,,,,,,,,
+4th Aug'26,MODEFENCE,103.07,0.087,-0.464,52.76,M Swing scan,,,,,,,,
+4th Aug'26,NITINSPIN,571.65,-0.122,4.17,61.06,M Swing scan,,,,,,,,
+4th Aug'26,NIFTYINDDEFENCE,9420.05,-0.192,-0.161,53.73,M Swing scan,,,,,,,,
+4th Aug'26,GOODLUCK,1502.3,-0.325,-3.33,49.94,M Swing scan,,,,,,,,
+4th Aug'26,THELEELA,500.1,-0.339,2.55,61.31,M Swing scan,,,,,,,,
+4th Aug'26,KANORICHEM,142.43,-0.378,-6.43,53.62,M Swing scan,,,,,,,,
+4th Aug'26,GROWWDEFNC,93.77,-0.478,-0.583,51.36,M Swing scan,,,,,,,,
+4th Aug'26,NOVARTIND,1622.0,-0.838,-4.69,56.78,M Swing scan,,,,,,,,
+4th Aug'26,PNBHOUSING,1080.0,-0.917,-1.28,53.18,M Swing scan,,,,,,,,
+4th Aug'26,SETCO,17.61,-1.62,-4.81,49.32,M Swing scan,,,,,,,,
+4th Aug'26,PRECOT,805.05,-1.7,-5.89,52.45,M Swing scan,,,,,,,,
+4th Aug'26,AKUMS,667.4,-2.03,-3.98,53.44,M Swing scan,,,,,,,,
+4th Aug'26,SPORTKING,217.51,-5.28,9.6,61.1,M Swing scan,,,,,,,,
+4th Aug'26,UMIYA-MRO,,,2.61,64.36,RSI 5 SWING TRADE STRATEGY,5.57,4.79,58.39,,,,,
+4th Aug'26,WELSPUNLIV,,,-3.2,49.96,RSI 5 SWING TRADE STRATEGY,3.94,3.07,61.53,,,,,
+4th Aug'26,RELTD,,,-4.37,50.28,RSI 5 SWING TRADE STRATEGY,1.05,0.345,59.42,,,,,
+4th Aug'26,STOVEKRAFT,,,-2.18,49.35,RSI 5 SWING TRADE STRATEGY,0.696,-2.38,67.86,,,,,
+4th Aug'26,IVALUE,,,-4.95,45.86,RSI 5 SWING TRADE STRATEGY,0.619,0.858,54.57,,,,,
+4th Aug'26,APOLLOHOSP,,,,,Turtle strategy,,,,largecap,2.61,62.82,69.96,healthcare
+4th Aug'26,AEROENTER,,,,,Turtle strategy,,,,smallcap,7.6,61.55,61.06,metals & mining
+4th Aug'26,BHARATSE,,,,,Turtle strategy,,,,smallcap,3.81,59.83,71.1,auto
+4th Aug'26,ACMESOLAR,,,,,Turtle strategy,,,,largecap,2.84,59.12,64.48,realty
+4th Aug'26,SYRMA,,,,,Turtle strategy,,,,largecap,4.48,59.02,80.85,consumer discretionary
+4th Aug'26,ARVIND,,,,,Turtle strategy,,,,midcap,3.48,58.97,67.81,textiles
+4th Aug'26,AVALON,,,,,Turtle strategy,,,,midcap,3.06,57.93,76.52,consumer discretionary
+4th Aug'26,NAM-INDIA,,,,,Turtle strategy,,,,largecap,3.18,57.85,76.11,financials
+4th Aug'26,VIJAYA,,,,,Turtle strategy,,,,midcap,2.3,57.62,68.87,healthcare
+4th Aug'26,MARKSANS,,,,,Turtle strategy,,,,midcap,2.61,57.33,61.05,healthcare
+4th Aug'26,AUROPHARMA,,,,,Turtle strategy,,,,largecap,2.01,57.25,69.91,healthcare
+4th Aug'26,WELINV,,,,,Turtle strategy,,,,smallcap,1.61,57.0,71.43,financials
+4th Aug'26,BLISSGVS,,,,,Turtle strategy,,,,smallcap,5.0,56.86,77.97,healthcare
+4th Aug'26,AZAD,,,,,Turtle strategy,,,,midcap,2.93,55.63,68.32,aerospace & defence
+4th Aug'26,ASHIANA,,,,,Turtle strategy,,,,smallcap,0.584,55.06,61.52,realty
