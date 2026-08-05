@@ -1,0 +1,45 @@
+Date,Symbol,Price,% change,Roc 10days,Rsi 14,Scanner_Source,D change,M change,Rsi weekly,Mcap,Change,Dpower,Mpower,Sector
+5th Aug'26,KANORICHEM,149.52,4.98,-2.49,60.27,M Swing scan,,,,,,,,
+5th Aug'26,KOPRAN,195.9,3.62,-2.71,52.01,M Swing scan,,,,,,,,
+5th Aug'26,MAWANASUG,117.66,2.0,3.14,62.45,M Swing scan,,,,,,,,
+5th Aug'26,NOVARTIND,1634.9,0.795,-3.82,57.9,M Swing scan,,,,,,,,
+5th Aug'26,MANGLMCEM,949.0,0.461,-3.41,51.29,M Swing scan,,,,,,,,
+5th Aug'26,INNOVACAP,945.0,0.324,-2.99,45.17,M Swing scan,,,,,,,,
+5th Aug'26,SIS,430.55,0.116,-1.5,51.42,M Swing scan,,,,,,,,
+5th Aug'26,WELSPUNLIV,160.78,0.031,-2.55,50.02,M Swing scan,,,,,,,,
+5th Aug'26,AKUMS,666.1,-0.195,-4.34,52.92,M Swing scan,,,,,,,,
+5th Aug'26,RISHABH,647.15,-0.896,-0.239,58.93,M Swing scan,,,,,,,,
+5th Aug'26,AVADHSUGAR,609.25,-0.943,11.79,71.0,M Swing scan,,,,,,,,
+5th Aug'26,BALRAMCHIN,635.55,-3.51,1.73,61.61,M Swing scan,,,,,,,,
+5th Aug'26,KOPRAN,,,-2.71,52.01,RSI 5 SWING TRADE STRATEGY,3.62,2.55,60.19,,,,,
+5th Aug'26,IZMO,,,-4.82,50.77,RSI 5 SWING TRADE STRATEGY,3.55,3.92,59.72,,,,,
+5th Aug'26,FMGOETZE,,,1.62,61.2,RSI 5 SWING TRADE STRATEGY,3.49,2.61,58.22,,,,,
+5th Aug'26,BIOCON,,,-2.91,49.16,RSI 5 SWING TRADE STRATEGY,0.758,-0.117,59.03,,,,,
+5th Aug'26,MANGLMCEM,,,-3.41,51.29,RSI 5 SWING TRADE STRATEGY,0.461,-0.153,60.22,,,,,
+5th Aug'26,INNOVACAP,,,-2.99,45.17,RSI 5 SWING TRADE STRATEGY,0.324,-3.0,62.9,,,,,
+5th Aug'26,JSWSTEEL,,,,,Turtle strategy,,,,largecap,2.31,70.27,66.39,metals & mining
+5th Aug'26,FIEMIND,,,,,Turtle strategy,,,,midcap,7.46,69.49,71.66,auto
+5th Aug'26,BOSCHLTD,,,,,Turtle strategy,,,,largecap,4.17,66.04,65.07,auto
+5th Aug'26,IOLCP,,,,,Turtle strategy,,,,smallcap,6.29,62.35,73.47,healthcare
+5th Aug'26,SANGHVIMOV,,,,,Turtle strategy,,,,smallcap,8.13,62.18,61.16,miscellaneous
+5th Aug'26,PNBHOUSING,,,,,Turtle strategy,,,,largecap,3.85,61.36,61.49,financials
+5th Aug'26,USHAMART,,,,,Turtle strategy,,,,midcap,3.31,60.75,64.89,metals & mining
+5th Aug'26,KANORICHEM,,,,,Turtle strategy,,,,smallcap,4.98,60.27,66.34,chemicals
+5th Aug'26,SUPRIYA,,,,,Turtle strategy,,,,midcap,2.92,59.06,61.14,healthcare
+5th Aug'26,GNA,,,,,Turtle strategy,,,,smallcap,2.69,58.37,63.37,auto
+5th Aug'26,BLUSPRING,,,,,Turtle strategy,,,,smallcap,4.27,58.02,66.75,miscellaneous
+5th Aug'26,ANTELOPUS,,,,,Turtle strategy,,,,smallcap,2.43,57.92,64.26,energy
+5th Aug'26,GRASIM,,,,,Turtle strategy,,,,largecap,2.74,57.7,66.15,textiles
+5th Aug'26,VIYASH,,,,,Turtle strategy,,,,midcap,2.78,57.31,63.95,healthcare
+5th Aug'26,JSWINFRA,,,,,Turtle strategy,,,,largecap,1.56,57.24,63.14,transportation
+5th Aug'26,PRECOT,,,,,Turtle strategy,,,,smallcap,2.71,56.44,67.54,textiles
+5th Aug'26,PPAP,,,,,Turtle strategy,,,,smallcap,4.98,56.4,61.83,auto
+5th Aug'26,CARTRADE,,,,,Turtle strategy,,,,midcap,1.31,56.29,65.15,consumer discretionary
+5th Aug'26,SUVEN,,,,,Turtle strategy,,,,smallcap,5.39,56.22,71.6,healthcare
+5th Aug'26,HFCL,,,,,Turtle strategy,,,,largecap,4.66,56.18,75.61,telecom
+5th Aug'26,GODREJIND,,,,,Turtle strategy,,,,largecap,0.886,56.13,61.57,chemicals
+5th Aug'26,SHYAMMETL,,,,,Turtle strategy,,,,largecap,0.961,56.05,64.85,metals & mining
+5th Aug'26,RAMRAT,,,,,Turtle strategy,,,,smallcap,1.77,55.5,65.91,metals & mining
+5th Aug'26,CARYSIL,,,,,Turtle strategy,,,,smallcap,1.09,55.25,63.67,consumer discretionary
+5th Aug'26,SPAL,,,,,Turtle strategy,,,,smallcap,1.92,55.13,63.56,consumer discretionary
+5th Aug'26,SKIPPER,,,,,Turtle strategy,,,,midcap,0.394,55.12,61.41,industrials
