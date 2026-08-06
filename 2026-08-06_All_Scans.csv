@@ -1,0 +1,24 @@
+Date,Symbol,Price,% change,Roc 10days,Rsi 14,Scanner_Source,D change,M change,Rsi weekly,Mcap,Change,Dpower,Mpower,Sector
+6th Aug'26,BIOCON,436.6,2.68,0.322,57.93,M Swing scan,,,,,,,,
+6th Aug'26,INNOVACAP,954.05,0.958,-1.44,48.24,M Swing scan,,,,,,,,
+6th Aug'26,SILVERTUC,193.6,0.907,0.839,49.86,M Swing scan,,,,,,,,
+6th Aug'26,WELSPUNLIV,159.25,-0.952,-3.48,47.94,M Swing scan,,,,,,,,
+6th Aug'26,BLKASHYAP,,,2.08,53.82,RSI 5 SWING TRADE STRATEGY,4.52,2.77,52.85,,,,,
+6th Aug'26,SUYOG,,,2.55,53.71,RSI 5 SWING TRADE STRATEGY,2.75,-0.427,58.75,,,,,
+6th Aug'26,INDNIPPON,,,-4.55,54.51,RSI 5 SWING TRADE STRATEGY,1.4,-1.53,69.77,,,,,
+6th Aug'26,SILVERTUC,,,0.839,49.86,RSI 5 SWING TRADE STRATEGY,0.907,-4.06,63.88,,,,,
+6th Aug'26,NAVINFLUOR,,,,,Turtle strategy,,,,largecap,13.67,71.84,80.86,chemicals
+6th Aug'26,RACLGEAR,,,,,Turtle strategy,,,,smallcap,5.88,67.58,63.56,auto
+6th Aug'26,PANAMAPET,,,,,Turtle strategy,,,,smallcap,8.73,63.52,68.97,energy
+6th Aug'26,AUBANK,,,,,Turtle strategy,,,,largecap,3.45,62.74,66.34,bank
+6th Aug'26,IDEAFORGE,,,,,Turtle strategy,,,,smallcap,5.0,62.24,62.15,aerospace & defence
+6th Aug'26,STOVEKRAFT,,,,,Turtle strategy,,,,smallcap,5.85,60.08,60.23,consumer discretionary
+6th Aug'26,AIAENG,,,,,Turtle strategy,,,,largecap,3.2,59.03,63.02,industrials
+6th Aug'26,ANANDRATHI,,,,,Turtle strategy,,,,largecap,1.66,58.69,78.33,financials
+6th Aug'26,BIOCON,,,,,Turtle strategy,,,,largecap,2.68,57.93,62.02,healthcare
+6th Aug'26,DCBBANK,,,,,Turtle strategy,,,,midcap,3.07,57.62,61.61,bank
+6th Aug'26,APOLLOHOSP,,,,,Turtle strategy,,,,largecap,0.724,57.34,69.46,healthcare
+6th Aug'26,AJANTPHARM,,,,,Turtle strategy,,,,largecap,0.957,56.55,70.88,healthcare
+6th Aug'26,GALAPREC,,,,,Turtle strategy,,,,smallcap,3.35,56.37,62.65,industrials
+6th Aug'26,GOODLUCK,,,,,Turtle strategy,,,,smallcap,2.44,55.47,67.42,metals & mining
+6th Aug'26,CGCL,,,,,Turtle strategy,,,,largecap,1.16,55.11,62.91,financials
