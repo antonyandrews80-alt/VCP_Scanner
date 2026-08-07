@@ -1,0 +1,17 @@
+Date,Symbol,Price,% change,Roc 10days,Rsi 14,Scanner_Source,D change,M change,Rsi weekly,Mcap,Change,Dpower,Mpower,Sector
+7th Aug'26,SUYOG,880.45,2.08,3.53,58.4,M Swing scan,,,,,,,,
+7th Aug'26,SILVERTUC,195.88,1.18,-2.13,52.1,M Swing scan,,,,,,,,
+7th Aug'26,ADANIENSOL,1630.1,0.624,-4.24,48.69,M Swing scan,,,,,,,,
+7th Aug'26,RECLTD,,,1.49,54.82,RSI 5 SWING TRADE STRATEGY,1.52,-1.6,54.48,,,,,
+7th Aug'26,TVSSCS,,,0.496,47.85,RSI 5 SWING TRADE STRATEGY,1.07,-0.977,56.01,,,,,
+7th Aug'26,ADANIENSOL,,,-4.24,48.69,RSI 5 SWING TRADE STRATEGY,0.624,-0.93,67.41,,,,,
+7th Aug'26,AVALON,,,,,Turtle strategy,,,,midcap,10.75,66.43,78.78,consumer discretionary
+7th Aug'26,BHARATSE,,,,,Turtle strategy,,,,smallcap,7.8,62.85,71.92,auto
+7th Aug'26,GRANULES,,,,,Turtle strategy,,,,largecap,4.2,59.83,76.29,healthcare
+7th Aug'26,SUPRIYA,,,,,Turtle strategy,,,,midcap,3.66,59.39,61.5,healthcare
+7th Aug'26,SPORTKING,,,,,Turtle strategy,,,,smallcap,3.72,57.89,77.69,textiles
+7th Aug'26,SHRIPISTON,,,,,Turtle strategy,,,,midcap,1.56,57.54,77.83,auto
+7th Aug'26,JSWINFRA,,,,,Turtle strategy,,,,largecap,2.52,57.07,63.32,transportation
+7th Aug'26,INDNIPPON,,,,,Turtle strategy,,,,smallcap,1.17,56.73,68.56,auto
+7th Aug'26,INDSWFTLAB,,,,,Turtle strategy,,,,smallcap,0.852,55.65,74.18,healthcare
+7th Aug'26,SOLARINDS,,,,,Turtle strategy,,,,largecap,0.833,55.05,68.74,aerospace & defence
