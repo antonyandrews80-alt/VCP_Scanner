@@ -1,0 +1,40 @@
+Date,Symbol,Price,% change,Roc 10days,Rsi 14,Scanner_Source,D change,M change,Rsi weekly,Mcap,Change,Dpower,Mpower,Sector
+13th Aug'26 3:29:00,OMAXE,98.37,19.99,14.88,66.23,M Swing scan,,,,,,,,
+13th Aug'26 3:29:00,MUNJALAU,119.37,19.57,17.68,72.52,M Swing scan,,,,,,,,
+13th Aug'26 3:29:00,SANGAMIND,598.35,3.5,-2.81,51.74,M Swing scan,,,,,,,,
+13th Aug'26 3:29:00,WELINV,1875.0,2.46,-0.794,54.72,M Swing scan,,,,,,,,
+13th Aug'26 3:29:00,ASTRAMICRO,1700.9,2.13,-1.45,46.12,M Swing scan,,,,,,,,
+13th Aug'26 3:29:00,GANESHBE,113.53,1.13,-2.14,51.27,M Swing scan,,,,,,,,
+13th Aug'26 3:29:00,SGFIN,657.7,0.959,-0.167,48.24,M Swing scan,,,,,,,,
+13th Aug'26 3:29:00,NYKAA,331.15,0.945,-0.779,56.52,M Swing scan,,,,,,,,
+13th Aug'26 3:29:00,HIRECT,1253.3,0.877,-3.62,50.56,M Swing scan,,,,,,,,
+13th Aug'26 3:29:00,PREMIERPOL,72.48,-0.997,-1.43,53.27,M Swing scan,,,,,,,,
+13th Aug'26 3:29:00,CONSOFINVT,272.05,-2.42,-8.83,46.03,M Swing scan,,,,,,,,
+13th Aug'26 3:29:00,MUNJALAU,,,17.68,72.52,RSI 5 SWING TRADE STRATEGY,19.57,17.79,75.95,,,,,
+13th Aug'26 3:29:00,RPGLIFE,,,1.89,59.28,RSI 5 SWING TRADE STRATEGY,8.34,2.25,65.85,,,,,
+13th Aug'26 3:29:00,ASAHISONG,,,-8.02,56.06,RSI 5 SWING TRADE STRATEGY,4.99,-12.4,64.48,,,,,
+13th Aug'26 3:29:00,SHAREINDIA,,,0.955,52.72,RSI 5 SWING TRADE STRATEGY,4.58,-2.9,58.42,,,,,
+13th Aug'26 3:29:00,SANGAMIND,,,-2.81,51.74,RSI 5 SWING TRADE STRATEGY,3.5,-1.89,66.45,,,,,
+13th Aug'26 3:29:00,JUBLINGREA,,,1.08,52.92,RSI 5 SWING TRADE STRATEGY,2.81,0.082,58.51,,,,,
+13th Aug'26 3:29:00,ASTRAMICRO,,,-1.45,46.12,RSI 5 SWING TRADE STRATEGY,2.13,-8.63,65.03,,,,,
+13th Aug'26 3:29:00,DIXON,,,-2.11,55.76,RSI 5 SWING TRADE STRATEGY,1.7,-0.1,62.31,,,,,
+13th Aug'26 3:29:00,GODREJIND,,,-4.11,44.84,RSI 5 SWING TRADE STRATEGY,1.65,-4.71,57.95,,,,,
+13th Aug'26 3:29:00,WEWORK,,,1.25,51.38,RSI 5 SWING TRADE STRATEGY,1.54,-3.23,61.84,,,,,
+13th Aug'26 3:29:00,GANESHBE,,,-2.14,51.27,RSI 5 SWING TRADE STRATEGY,1.13,1.07,60.89,,,,,
+13th Aug'26 3:29:00,METROPOLIS,,,-4.56,46.37,RSI 5 SWING TRADE STRATEGY,1.1,-4.11,57.7,,,,,
+13th Aug'26 3:29:00,SGFIN,,,-0.167,48.24,RSI 5 SWING TRADE STRATEGY,0.959,-3.6,63.54,,,,,
+13th Aug'26 3:29:00,PRITIKAUTO,,,-1.36,47.37,RSI 5 SWING TRADE STRATEGY,0.462,-0.057,56.91,,,,,
+13th Aug'26 3:29:00,MUNJALAU,,,,,Turtle strategy,,,,smallcap,19.57,72.52,63.08,auto
+13th Aug'26 3:29:00,RPEL,,,,,Turtle strategy,,,,midcap,7.72,65.59,69.22,building materials
+13th Aug'26 3:29:00,BLISSGVS,,,,,Turtle strategy,,,,midcap,4.99,62.48,79.03,healthcare
+13th Aug'26 3:29:00,GHCLTEXTIL,,,,,Turtle strategy,,,,smallcap,4.6,62.0,68.25,textiles
+13th Aug'26 3:29:00,IOLCP,,,,,Turtle strategy,,,,smallcap,4.8,60.4,73.93,healthcare
+13th Aug'26 3:29:00,RPGLIFE,,,,,Turtle strategy,,,,smallcap,8.34,59.28,66.21,healthcare
+13th Aug'26 3:29:00,THELEELA,,,,,Turtle strategy,,,,midcap,1.74,58.82,66.21,services
+13th Aug'26 3:29:00,SAREGAMA,,,,,Turtle strategy,,,,midcap,3.02,56.83,60.52,media
+13th Aug'26 3:29:00,IPCALAB,,,,,Turtle strategy,,,,largecap,1.68,56.61,66.91,healthcare
+13th Aug'26 3:29:00,NYKAA,,,,,Turtle strategy,,,,largecap,0.945,56.52,67.73,i.t
+13th Aug'26 3:29:00,TALBROAUTO,,,,,Turtle strategy,,,,smallcap,1.03,56.47,68.32,auto
+13th Aug'26 3:29:00,NEOGEN,,,,,Turtle strategy,,,,midcap,3.42,56.02,62.15,chemicals
+13th Aug'26 3:29:00,GAEL,,,,,Turtle strategy,,,,midcap,2.91,55.78,65.91,fmcg
+13th Aug'26 3:29:00,PANAMAPET,,,,,Turtle strategy,,,,smallcap,1.59,55.16,68.47,energy
