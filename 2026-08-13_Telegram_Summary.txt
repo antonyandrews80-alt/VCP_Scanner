@@ -1,0 +1,97 @@
+🎯 *SMART MONEY REPORT*
+📅 2026-08-13 | ⏰ 19:33
+
+
+📈 *MARKET STATUS*
+⚠️ MARKET CAUTIOUS: Nifty 1.4% above 50 MA
+💰 Position Sizing: REDUCE SIZE 50%
+
+📊 Analyzed: 31 | Qualified: 3
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 *TOP 10 PICKS*
+
+1. *THELEELA* 
+   Score: 76 | 🔥 Strong Buy
+   Vol: 87% | FII: 7.9%
+
+2. *SAREGAMA* 
+   Score: 62 | 👀 Watch
+   Vol: 77% | FII: 11.5%
+
+3. *ASAHISONG* 
+   Score: 60 | 👀 Watch
+   Vol: 87% | FII: 0.0%
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 *TOP 10 ANALYSIS*
+
+*#1. THELEELA* — 76/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 5/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 86.5%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 7.9% | DII: 11.5%
+   Momentum: -1.84%
+
+─────────────────────
+
+*#2. SAREGAMA* — 62/100
+
+📊 *Scores:*
+   • Volume: 44/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 6/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 77.4%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 11.5% | DII: 8.6%
+   Momentum: +2.40%
+
+─────────────────────
+
+*#3. ASAHISONG* — 60/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 9/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 86.9%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.0% | DII: 0.3%
+   Momentum: -3.64%
+
+─────────────────────
+
+💡 *Legend:*
+Vol = % volume on up days (target >65%)
+Bonus = Multibagger signal points
+Del = Delivery %
