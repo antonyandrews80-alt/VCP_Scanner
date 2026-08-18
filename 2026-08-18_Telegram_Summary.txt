@@ -1,0 +1,247 @@
+🎯 *SMART MONEY REPORT*
+📅 2026-08-18 | ⏰ 19:37
+
+
+📈 *MARKET STATUS*
+⚠️ MARKET CAUTIOUS: Nifty 0.2% above 50 MA
+💰 Position Sizing: REDUCE SIZE 50%
+
+📊 Analyzed: 36 | Qualified: 9
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 *TOP 10 PICKS*
+
+1. *INGERRAND* 
+   Score: 72 | ✅ Buy
+   Vol: 69% | FII: 1.3%
+
+2. *NITINSPIN* 
+   Score: 71 | ✅ Buy
+   Vol: 82% | FII: 1.9%
+
+3. *ICIL* 
+   Score: 68 | ✅ Buy
+   Vol: 84% | FII: 10.1%
+
+4. *ASIANENE* 
+   Score: 68 | ✅ Buy
+   Vol: 77% | FII: 1.4%
+
+5. *STOVEKRAFT* 
+   Score: 68 | ✅ Buy
+   Vol: 82% | FII: 1.2%
+
+6. *INDIAGLYCO* 
+   Score: 63 | 👀 Watch
+   Vol: 75% | FII: 2.2%
+
+7. *GRASIM* 
+   Score: 60 | 👀 Watch
+   Vol: 59% | FII: 14.6%
+
+8. *MEDANTA* 
+   Score: 57 | 👀 Watch
+   Vol: 73% | FII: 9.5%
+
+9. *BHAGYANGR* 
+   Score: 50 | 👀 Watch
+   Vol: 67% | FII: 0.9%
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 *TOP 10 ANALYSIS*
+
+*#1. INGERRAND* — 72/100
+
+📊 *Scores:*
+   • Volume: 50/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 3/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 69.4%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 1.3% | DII: 9.0%
+   Momentum: +9.29%
+
+─────────────────────
+
+*#2. NITINSPIN* — 71/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 5/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 82.0%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 1.9% | DII: 14.7%
+   Momentum: +12.85%
+
+─────────────────────
+
+*#3. ICIL* — 68/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 5/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 84.0%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 10.1% | DII: 5.8%
+   Momentum: +8.68%
+
+─────────────────────
+
+*#4. ASIANENE* — 68/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 76.8%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 1.4% | DII: 0.3%
+   Momentum: +14.11%
+
+─────────────────────
+
+*#5. STOVEKRAFT* — 68/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 82.3%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 1.2% | DII: 7.1%
+   Momentum: -3.11%
+
+─────────────────────
+
+*#6. INDIAGLYCO* — 63/100
+
+📊 *Scores:*
+   • Volume: 44/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 74.8%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 2.2% | DII: 5.2%
+   Momentum: +8.56%
+
+─────────────────────
+
+*#7. GRASIM* — 60/100
+
+📊 *Scores:*
+   • Volume: 26/30
+   • Pattern: 22/25
+   • Sector: 10/12
+   • Institutional: 8/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 59.1%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 14.6% | DII: 16.1%
+   Momentum: -0.88%
+
+─────────────────────
+
+*#8. MEDANTA* — 57/100
+
+📊 *Scores:*
+   • Volume: 26/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 8/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 73.0%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 9.5% | DII: 16.9%
+   Momentum: +3.57%
+
+─────────────────────
+
+*#9. BHAGYANGR* — 50/100
+
+📊 *Scores:*
+   • Volume: 34/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 66.7%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.9% | DII: 0.2%
+   Momentum: +5.79%
+
+─────────────────────
+
+💡 *Legend:*
+Vol = % volume on up days (target >65%)
+Bonus = Multibagger signal points
+Del = Delivery %
