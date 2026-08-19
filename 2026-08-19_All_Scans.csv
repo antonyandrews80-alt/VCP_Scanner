@@ -1,0 +1,28 @@
+Date,Symbol,Price,% change,Roc 10days,Rsi 14,Scanner_Source,D change,M change,Rsi weekly,Mcap,Change,Dpower,Mpower,Sector
+19th Aug'26 3:28:00,SIGMAADV,691.35,5.0,-1.87,62.41,M Swing scan,,,,,,,,
+19th Aug'26 3:28:00,SANGINITA,62.5,4.99,1.58,65.16,M Swing scan,,,,,,,,
+19th Aug'26 3:28:00,CONSOFINVT,282.45,3.84,-9.49,53.67,M Swing scan,,,,,,,,
+19th Aug'26 3:28:00,ASIANENE,478.75,3.39,19.09,72.04,M Swing scan,,,,,,,,
+19th Aug'26 3:28:00,PAISALO,69.37,2.66,0.333,51.46,M Swing scan,,,,,,,,
+19th Aug'26 3:28:00,NYKAA,327.35,2.11,-2.39,52.06,M Swing scan,,,,,,,,
+19th Aug'26 3:28:00,EMCURE,1891.0,0.88,-3.47,47.01,M Swing scan,,,,,,,,
+19th Aug'26 3:28:00,TORNTPHARM,5013.0,0.845,0.26,57.42,M Swing scan,,,,,,,,
+19th Aug'26 3:28:00,CENTENKA,569.9,-1.15,-7.02,46.3,M Swing scan,,,,,,,,
+19th Aug'26 3:28:00,ABCAPITAL,396.0,-1.49,-6.76,45.67,M Swing scan,,,,,,,,
+19th Aug'26 3:28:00,BHAGYANGR,382.4,-4.65,-0.352,50.12,M Swing scan,,,,,,,,
+19th Aug'26 3:07:00,ORIENTHOT,,,6.25,60.44,RSI 5 SWING TRADE STRATEGY,15.09,5.96,62.76,,,,,
+19th Aug'26 3:07:00,EXCELINDUS,,,8.8,71.28,RSI 5 SWING TRADE STRATEGY,15.03,14.9,68.11,,,,,
+19th Aug'26 3:07:00,IMAGICAA,,,-2.2,53.48,RSI 5 SWING TRADE STRATEGY,5.16,3.26,52.49,,,,,
+19th Aug'26 3:07:00,WIPL,,,-0.6,52.83,RSI 5 SWING TRADE STRATEGY,4.19,-0.142,57.55,,,,,
+19th Aug'26 3:07:00,PAISALO,,,0.333,51.46,RSI 5 SWING TRADE STRATEGY,2.66,-2.57,73.03,,,,,
+19th Aug'26 3:07:00,MARICO,,,-0.235,47.17,RSI 5 SWING TRADE STRATEGY,1.0,-2.37,61.0,,,,,
+19th Aug'26 3:07:00,EMCURE,,,-3.47,47.01,RSI 5 SWING TRADE STRATEGY,0.88,-3.53,62.22,,,,,
+19th Aug'26 3:29:00,RACLGEAR,,,,,Turtle strategy,,,,smallcap,2.83,58.41,62.66,auto
+19th Aug'26 3:29:00,BLUSPRING,,,,,Turtle strategy,,,,smallcap,7.78,58.24,67.72,miscellaneous
+19th Aug'26 3:29:00,OFSS,,,,,Turtle strategy,,,,largecap,1.3,57.52,67.38,i.t
+19th Aug'26 3:29:00,TORNTPHARM,,,,,Turtle strategy,,,,largecap,0.845,57.42,77.59,healthcare
+19th Aug'26 3:29:00,ACMESOLAR,,,,,Turtle strategy,,,,largecap,2.33,57.24,64.34,realty
+19th Aug'26 3:29:00,SKIPPER,,,,,Turtle strategy,,,,midcap,2.21,55.97,61.58,industrials
+19th Aug'26 3:29:00,KANORICHEM,,,,,Turtle strategy,,,,smallcap,1.4,55.9,66.79,chemicals
+19th Aug'26 3:29:00,AURUM,,,,,Turtle strategy,,,,smallcap,1.36,55.66,60.48,i.t
+19th Aug'26 3:29:00,AARVI,,,,,Turtle strategy,,,,smallcap,2.55,55.46,62.05,miscellaneous
