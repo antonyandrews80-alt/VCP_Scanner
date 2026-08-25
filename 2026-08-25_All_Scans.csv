@@ -1,0 +1,26 @@
+Date,Symbol,Price,% change,Roc 10days,Rsi 14,Scanner_Source,D change,M change,Rsi weekly,Mcap,Change,Dpower,Mpower,Sector
+25th Aug'26 3:29:00,BAFNAPH,267.25,4.99,-2.37,61.58,M Swing scan,,,,,,,,
+25th Aug'26 3:29:00,HESTERBIO,2421.8,2.42,-2.65,52.24,M Swing scan,,,,,,,,
+25th Aug'26 3:29:00,ABB,7627.0,1.64,0.204,56.94,M Swing scan,,,,,,,,
+25th Aug'26 3:29:00,HIRECT,1235.4,0.989,1.07,46.84,M Swing scan,,,,,,,,
+25th Aug'26 3:29:00,NESTLEIND,1479.0,0.523,-0.951,49.77,M Swing scan,,,,,,,,
+25th Aug'26 3:29:00,EBBETF0430,1609.41,0.068,-0.33,48.98,M Swing scan,,,,,,,,
+25th Aug'26 3:29:00,DHARMAJ,,,-3.13,53.24,RSI 5 SWING TRADE STRATEGY,4.07,1.27,55.12,,,,,
+25th Aug'26 3:29:00,AYMSYNTEX,,,-0.489,51.86,RSI 5 SWING TRADE STRATEGY,2.43,1.11,58.86,,,,,
+25th Aug'26 3:29:00,HESTERBIO,,,-2.65,52.24,RSI 5 SWING TRADE STRATEGY,2.42,-2.26,68.48,,,,,
+25th Aug'26 3:29:00,BAJAJHLDNG,,,-2.25,53.8,RSI 5 SWING TRADE STRATEGY,1.53,-0.467,56.31,,,,,
+25th Aug'26 3:29:00,TECHM,,,-2.62,52.68,RSI 5 SWING TRADE STRATEGY,1.0,-3.11,57.31,,,,,
+25th Aug'26 3:29:00,HIRECT,,,1.07,46.84,RSI 5 SWING TRADE STRATEGY,0.989,-7.69,64.66,,,,,
+25th Aug'26 3:29:00,SBIN,,,-1.69,49.48,RSI 5 SWING TRADE STRATEGY,0.818,2.01,52.5,,,,,
+25th Aug'26 3:29:00,M&MFIN,,,-4.35,52.3,RSI 5 SWING TRADE STRATEGY,0.726,-1.11,59.99,,,,,
+25th Aug'26 3:29:00,SAIL,,,,,Turtle strategy,,,,largecap,2.75,65.89,62.25,metals & mining
+25th Aug'26 3:29:00,BAFNAPH,,,,,Turtle strategy,,,,smallcap,4.99,61.58,76.73,healthcare
+25th Aug'26 3:29:00,SIGMAADV,,,,,Turtle strategy,,,,midcap,4.99,59.18,90.22,aerospace & defence
+25th Aug'26 3:29:00,CGCL,,,,,Turtle strategy,,,,largecap,2.28,57.46,62.61,financials
+25th Aug'26 3:29:00,NYKAA,,,,,Turtle strategy,,,,largecap,1.12,57.02,68.43,i.t
+25th Aug'26 3:29:00,ABB,,,,,Turtle strategy,,,,largecap,1.64,56.94,66.62,industrials
+25th Aug'26 3:29:00,OCCLLTD,,,,,Turtle strategy,,,,smallcap,2.23,56.74,65.34,chemicals
+25th Aug'26 3:29:00,KEI,,,,,Turtle strategy,,,,largecap,1.71,55.92,63.76,industrials
+25th Aug'26 3:29:00,LTF,,,,,Turtle strategy,,,,largecap,1.16,55.36,69.19,financials
+25th Aug'26 3:29:00,OFSS,,,,,Turtle strategy,,,,largecap,1.83,55.2,67.22,i.t
+25th Aug'26 3:29:00,CUB,,,,,Turtle strategy,,,,largecap,4.43,55.09,64.64,bank
