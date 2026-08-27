@@ -1,0 +1,30 @@
+Date,Symbol,Price,% change,Roc 10days,Rsi 14,Scanner_Source,D change,M change,Rsi weekly,Mcap,Change,Dpower,Mpower,Sector
+27th Aug'26 3:29:00,OAL,428.95,6.9,20.27,72.23,M Swing scan,,,,,,,,
+27th Aug'26 3:29:00,FILATEX,78.31,4.15,-4.84,51.08,M Swing scan,,,,,,,,
+27th Aug'26 3:29:00,SAHYADRI,348.15,2.59,-4.63,54.48,M Swing scan,,,,,,,,
+27th Aug'26 3:29:00,SHAILY,3289.0,1.57,-3.46,56.56,M Swing scan,,,,,,,,
+27th Aug'26 3:29:00,EMCURE,1878.4,0.865,-6.53,47.13,M Swing scan,,,,,,,,
+27th Aug'26 3:29:00,STARHEALTH,586.1,0.403,0.257,53.12,M Swing scan,,,,,,,,
+27th Aug'26 3:29:00,PGIL,2294.8,0.227,-6.9,53.36,M Swing scan,,,,,,,,
+27th Aug'26 3:29:00,ARMANFIN,1967.1,-0.541,-2.3,53.04,M Swing scan,,,,,,,,
+27th Aug'26 3:29:00,HIRECT,1223.0,-1.91,-2.42,44.86,M Swing scan,,,,,,,,
+27th Aug'26 3:29:00,FILATEX,,,-4.84,51.08,RSI 5 SWING TRADE STRATEGY,4.15,6.52,70.48,,,,,
+27th Aug'26 3:29:00,TRAVELFOOD,,,-4.33,51.36,RSI 5 SWING TRADE STRATEGY,3.58,2.38,54.72,,,,,
+27th Aug'26 3:29:00,SAHYADRI,,,-4.63,54.48,RSI 5 SWING TRADE STRATEGY,2.59,14.67,65.17,,,,,
+27th Aug'26 3:29:00,POONAWALLA,,,-4.05,52.07,RSI 5 SWING TRADE STRATEGY,2.05,4.06,58.59,,,,,
+27th Aug'26 3:29:00,PGEL,,,-3.09,49.0,RSI 5 SWING TRADE STRATEGY,1.51,-2.83,54.39,,,,,
+27th Aug'26 3:29:00,TECHM,,,-3.29,48.73,RSI 5 SWING TRADE STRATEGY,0.891,-4.01,56.24,,,,,
+27th Aug'26 3:29:00,TATATECH,,,-7.95,50.38,RSI 5 SWING TRADE STRATEGY,0.737,6.92,59.98,,,,,
+27th Aug'26 3:29:00,HAL,,,-0.93,56.2,RSI 5 SWING TRADE STRATEGY,0.689,5.43,62.2,,,,,
+27th Aug'26 3:29:00,MWL,,,-3.08,51.14,RSI 5 SWING TRADE STRATEGY,0.326,11.14,66.95,,,,,
+27th Aug'26 3:29:00,SUPRAJIT,,,-3.83,47.26,RSI 5 SWING TRADE STRATEGY,0.269,-0.109,58.4,,,,,
+27th Aug'26 3:29:00,PGIL,,,-6.9,53.36,RSI 5 SWING TRADE STRATEGY,0.227,11.14,65.76,,,,,
+27th Aug'26 3:29:00,INOXINDIA,,,,,Turtle strategy,,,,midcap,13.04,71.18,82.26,industrials
+27th Aug'26 3:29:00,HONASA,,,,,Turtle strategy,,,,midcap,1.97,57.15,67.13,services
+27th Aug'26 3:29:00,AUROPHARMA,,,,,Turtle strategy,,,,largecap,0.863,56.86,71.54,healthcare
+27th Aug'26 3:29:00,METROPOLIS,,,,,Turtle strategy,,,,midcap,1.16,56.7,61.71,healthcare
+27th Aug'26 3:29:00,NEOGEN,,,,,Turtle strategy,,,,midcap,2.15,56.6,63.61,chemicals
+27th Aug'26 3:29:00,SHAILY,,,,,Turtle strategy,,,,midcap,1.57,56.56,73.47,plastic products
+27th Aug'26 3:29:00,INGERRAND,,,,,Turtle strategy,,,,midcap,0.715,56.26,61.29,industrials
+27th Aug'26 3:29:00,TORNTPHARM,,,,,Turtle strategy,,,,largecap,2.23,55.67,77.15,healthcare
+27th Aug'26 3:29:00,SKIPPER,,,,,Turtle strategy,,,,midcap,1.98,55.63,62.11,industrials
