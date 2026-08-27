@@ -1,0 +1,147 @@
+🎯 *SMART MONEY REPORT*
+📅 2026-08-27 | ⏰ 19:38
+
+
+📈 *MARKET STATUS*
+🚨 MARKET WEAK: Nifty 0.5% BELOW 50 MA
+💰 Position Sizing: CASH/MINIMAL POSITIONS ONLY
+
+📊 Analyzed: 25 | Qualified: 5
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 *TOP 10 PICKS*
+
+1. *INOXINDIA* 
+   Score: 69 | ✅ Buy
+   Vol: 95% | FII: 6.9%
+
+2. *HONASA* 
+   Score: 68 | ✅ Buy
+   Vol: 80% | FII: 13.6%
+
+3. *NEOGEN* 
+   Score: 65 | ✅ Buy
+   Vol: 79% | FII: 4.1%
+
+4. *OAL* 
+   Score: 65 | ✅ Buy
+   Vol: 95% | FII: 0.0%
+
+5. *SKIPPER* 
+   Score: 61 | 👀 Watch
+   Vol: 70% | FII: 10.6%
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 *TOP 10 ANALYSIS*
+
+*#1. INOXINDIA* — 69/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 3/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 94.9%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 6.9% | DII: 7.7%
+   Momentum: +12.83%
+
+─────────────────────
+
+*#2. HONASA* — 68/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 12/25
+   • Sector: 10/12
+   • Institutional: 8/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 79.7%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 13.6% | DII: 21.6%
+   Momentum: +0.61%
+
+─────────────────────
+
+*#3. NEOGEN* — 65/100
+
+📊 *Scores:*
+   • Volume: 44/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 6/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 78.8%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 4.1% | DII: 19.6%
+   Momentum: +0.00%
+
+─────────────────────
+
+*#4. OAL* — 65/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 95.3%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.0% | DII: 0.0%
+   Momentum: +26.22%
+
+─────────────────────
+
+*#5. SKIPPER* — 61/100
+
+📊 *Scores:*
+   • Volume: 42/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 3/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 69.9%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 10.6% | DII: 2.2%
+   Momentum: +0.74%
+
+─────────────────────
+
+💡 *Legend:*
+Vol = % volume on up days (target >65%)
+Bonus = Multibagger signal points
+Del = Delivery %
