@@ -1,0 +1,53 @@
+Date,Symbol,Price,% change,Roc 10days,Rsi 14,Scanner_Source,D change,M change,Rsi weekly,Mcap,Change,Dpower,Mpower,Sector
+28th Aug'26 3:29:00,TATATECH,834.35,4.38,-3.87,58.42,M Swing scan,,,,,,,,
+28th Aug'26 3:29:00,SANGAMIND,603.15,4.03,0.358,57.49,M Swing scan,,,,,,,,
+28th Aug'26 3:29:00,ARMANFIN,2034.2,3.41,3.29,60.39,M Swing scan,,,,,,,,
+28th Aug'26 3:29:00,DIACABS,349.4,3.19,-5.18,60.7,M Swing scan,,,,,,,,
+28th Aug'26 3:29:00,UFBL,763.8,3.18,1.18,51.51,M Swing scan,,,,,,,,
+28th Aug'26 3:29:00,MINDACORP,702.8,1.76,-2.4,47.54,M Swing scan,,,,,,,,
+28th Aug'26 3:29:00,STYLAMIND,3507.5,1.05,-3.69,49.78,M Swing scan,,,,,,,,
+28th Aug'26 3:29:00,SSWL,295.5,1.04,-5.56,49.76,M Swing scan,,,,,,,,
+28th Aug'26 3:29:00,PGIL,2314.3,0.85,-6.48,55.09,M Swing scan,,,,,,,,
+28th Aug'26 3:29:00,FILATEX,78.89,0.741,-3.07,52.03,M Swing scan,,,,,,,,
+28th Aug'26 3:29:00,MONARCH,376.6,0.507,-3.58,47.76,M Swing scan,,,,,,,,
+28th Aug'26 3:29:00,AJANTPHARM,3557.0,0.378,-3.15,52.78,M Swing scan,,,,,,,,
+28th Aug'26 3:29:00,SHAILY,3270.4,-0.566,-2.81,54.93,M Swing scan,,,,,,,,
+28th Aug'26 3:29:00,SAHYADRI,343.6,-1.31,-4.58,52.37,M Swing scan,,,,,,,,
+28th Aug'26 3:29:00,IKIO,,,4.27,60.57,RSI 5 SWING TRADE STRATEGY,14.82,6.74,62.36,,,,,
+28th Aug'26 3:29:00,JUSTDIAL,,,3.46,58.25,RSI 5 SWING TRADE STRATEGY,10.0,-1.7,60.8,,,,,
+28th Aug'26 3:29:00,LAXMIINDIA,,,1.54,49.39,RSI 5 SWING TRADE STRATEGY,3.09,-0.15,54.67,,,,,
+28th Aug'26 3:29:00,MANUGRAPH,,,-1.28,49.03,RSI 5 SWING TRADE STRATEGY,2.12,6.51,50.75,,,,,
+28th Aug'26 3:29:00,PODDARMENT,,,-5.0,48.11,RSI 5 SWING TRADE STRATEGY,2.12,-4.06,49.58,,,,,
+28th Aug'26 3:29:00,GRAPHITE,,,-3.55,50.01,RSI 5 SWING TRADE STRATEGY,1.9,6.03,54.49,,,,,
+28th Aug'26 3:29:00,MINDACORP,,,-2.4,47.54,RSI 5 SWING TRADE STRATEGY,1.76,0.264,63.97,,,,,
+28th Aug'26 3:29:00,RAJRATAN,,,-3.71,48.05,RSI 5 SWING TRADE STRATEGY,1.45,0.333,59.17,,,,,
+28th Aug'26 3:29:00,STYLAMIND,,,-3.69,49.78,RSI 5 SWING TRADE STRATEGY,1.05,3.64,75.38,,,,,
+28th Aug'26 3:29:00,SSWL,,,-5.56,49.76,RSI 5 SWING TRADE STRATEGY,1.04,-4.79,67.36,,,,,
+28th Aug'26 3:29:00,ARE&M,,,-2.6,51.28,RSI 5 SWING TRADE STRATEGY,1.04,1.2,56.28,,,,,
+28th Aug'26 3:29:00,SMCGLOBAL,,,-0.327,51.23,RSI 5 SWING TRADE STRATEGY,0.75,-2.02,56.89,,,,,
+28th Aug'26 3:29:00,CHEVIOT,,,-1.5,47.23,RSI 5 SWING TRADE STRATEGY,0.511,3.16,52.9,,,,,
+28th Aug'26 3:29:00,MONARCH,,,-3.58,47.76,RSI 5 SWING TRADE STRATEGY,0.507,-3.47,64.54,,,,,
+28th Aug'26 3:29:00,AJANTPHARM,,,-3.15,52.78,RSI 5 SWING TRADE STRATEGY,0.378,2.65,67.0,,,,,
+28th Aug'26 3:29:00,SECMARK,,,,,Turtle strategy,,,,smallcap,19.19,76.17,61.39,i.t
+28th Aug'26 3:29:00,PRECWIRE,,,,,Turtle strategy,,,,midcap,20.0,68.73,78.59,metals & mining
+28th Aug'26 3:29:00,KAPSTON,,,,,Turtle strategy,,,,smallcap,11.62,64.18,94.87,miscellaneous
+28th Aug'26 3:29:00,ADOR,,,,,Turtle strategy,,,,smallcap,6.08,61.92,69.55,industrials
+28th Aug'26 3:29:00,IIFL,,,,,Turtle strategy,,,,largecap,3.71,60.49,64.06,financials
+28th Aug'26 3:29:00,ARMANFIN,,,,,Turtle strategy,,,,smallcap,3.41,60.39,61.54,financials
+28th Aug'26 3:29:00,ASKAUTOLTD,,,,,Turtle strategy,,,,midcap,4.46,60.07,70.02,auto
+28th Aug'26 3:29:00,SMARTLINK,,,,,Turtle strategy,,,,smallcap,3.06,60.04,64.04,i.t
+28th Aug'26 3:29:00,MANCREDIT,,,,,Turtle strategy,,,,smallcap,7.9,60.04,78.54,financials
+28th Aug'26 3:29:00,INNOVACAP,,,,,Turtle strategy,,,,midcap,3.28,59.44,68.22,healthcare
+28th Aug'26 3:29:00,APCOTEXIND,,,,,Turtle strategy,,,,smallcap,2.22,58.04,68.98,chemicals
+28th Aug'26 3:29:00,ICIL,,,,,Turtle strategy,,,,midcap,2.73,57.54,63.47,textiles
+28th Aug'26 3:29:00,SANGAMIND,,,,,Turtle strategy,,,,smallcap,4.03,57.49,63.7,textiles
+28th Aug'26 3:29:00,ACMESOLAR,,,,,Turtle strategy,,,,largecap,1.92,57.42,65.74,realty
+28th Aug'26 3:29:00,JSWINFRA,,,,,Turtle strategy,,,,largecap,1.48,57.34,64.22,transportation
+28th Aug'26 3:29:00,SHRIPISTON,,,,,Turtle strategy,,,,largecap,1.64,57.0,79.09,auto
+28th Aug'26 3:29:00,GRWRHITECH,,,,,Turtle strategy,,,,midcap,2.32,56.24,70.14,industrials
+28th Aug'26 3:29:00,AURUM,,,,,Turtle strategy,,,,smallcap,1.98,56.04,61.04,i.t
+28th Aug'26 3:29:00,NRBBEARING,,,,,Turtle strategy,,,,smallcap,0.654,55.89,68.19,industrials
+28th Aug'26 3:29:00,GRASIM,,,,,Turtle strategy,,,,largecap,0.982,55.82,67.41,textiles
+28th Aug'26 3:29:00,SOTL,,,,,Turtle strategy,,,,smallcap,2.02,55.42,70.79,energy
+28th Aug'26 3:29:00,MUNJALAU,,,,,Turtle strategy,,,,smallcap,0.88,55.22,61.09,auto
+28th Aug'26 3:29:00,PGIL,,,,,Turtle strategy,,,,midcap,0.85,55.09,74.02,consumer discretionary
