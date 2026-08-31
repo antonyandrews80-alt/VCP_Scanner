@@ -1,0 +1,52 @@
+Date,Symbol,Price,% change,Roc 10days,Rsi 14,Sma 8,Scanner_Source,D change,M change,Rsi weekly,Mcap,Change,Dpower,Mpower,Sector
+31st Aug'26 3:29:00,LOKESHMACH,345.25,10.5,4.68,58.77,318.53,M Swing scan,,,,,,,,
+31st Aug'26 3:29:00,PGIL,2463.8,6.46,3.61,65.62,2353.14,M Swing scan,,,,,,,,
+31st Aug'26 3:29:00,SANGINITA,55.97,4.99,-1.29,51.28,53.59,M Swing scan,,,,,,,,
+31st Aug'26 3:29:00,KAPSTON,586.8,4.94,12.26,68.89,528.62,M Swing scan,,,,,,,,
+31st Aug'26 3:29:00,SAHYADRI,356.2,3.67,-8.23,57.31,354.19,M Swing scan,,,,,,,,
+31st Aug'26 3:29:00,FEDERALBNK,356.7,3.62,0.734,55.54,351.51,M Swing scan,,,,,,,,
+31st Aug'26 3:29:00,PIDILITIND,1687.7,3.57,1.12,58.99,1655.41,M Swing scan,,,,,,,,
+31st Aug'26 3:29:00,SSWL,305.65,3.43,-1.24,57.59,296.2,M Swing scan,,,,,,,,
+31st Aug'26 3:29:00,NESTLEIND,1496.5,2.88,1.8,55.56,1467.25,M Swing scan,,,,,,,,
+31st Aug'26 3:29:00,TALBROAUTO,411.4,2.5,-2.85,50.0,410.21,M Swing scan,,,,,,,,
+31st Aug'26 3:29:00,SHRIRAMFIN,1109.9,2.12,-1.08,53.09,1116.38,M Swing scan,,,,,,,,
+31st Aug'26 3:29:00,UJJIVANSFB,69.11,1.86,-4.29,49.27,69.78,M Swing scan,,,,,,,,
+31st Aug'26 3:29:00,MINDACORP,712.55,1.39,-1.74,50.86,713.52,M Swing scan,,,,,,,,
+31st Aug'26 3:29:00,PANAMAPET,471.35,1.32,-3.23,49.22,477.39,M Swing scan,,,,,,,,
+31st Aug'26 3:29:00,AJANTPHARM,3601.9,1.26,-3.13,57.39,3585.94,M Swing scan,,,,,,,,
+31st Aug'26 3:29:00,MONARCH,380.6,1.06,-2.17,51.21,382.12,M Swing scan,,,,,,,,
+31st Aug'26 3:29:00,TATATECH,831.05,-0.396,-1.26,57.47,812.37,M Swing scan,,,,,,,,
+31st Aug'26 3:29:00,DIACABS,347.3,-0.601,-3.5,59.27,347.01,M Swing scan,,,,,,,,
+31st Aug'26 3:29:00,STYLAMIND,3464.5,-1.23,-3.29,47.0,3545.2,M Swing scan,,,,,,,,
+31st Aug'26 3:29:00,FILATEX,75.17,-4.72,-9.13,45.88,79.79,M Swing scan,,,,,,,,
+31st Aug'26 3:29:00,HCG,733.3,,2.94,60.58,716.97,RSI 5 SWING TRADE STRATEGY,5.31,9.25,67.0,,,,,
+31st Aug'26 3:29:00,INDHOTEL,737.9,,2.49,56.1,726.07,RSI 5 SWING TRADE STRATEGY,4.46,-0.088,57.76,,,,,
+31st Aug'26 3:29:00,FEDERALBNK,356.7,,0.734,55.54,351.51,RSI 5 SWING TRADE STRATEGY,3.62,-0.599,67.87,,,,,
+31st Aug'26 3:29:00,PIDILITIND,1687.7,,1.12,58.99,1655.41,RSI 5 SWING TRADE STRATEGY,3.57,4.74,67.03,,,,,
+31st Aug'26 3:29:00,IDFCFIRSTB,85.97,,1.08,57.36,85.1,RSI 5 SWING TRADE STRATEGY,3.43,1.52,64.03,,,,,
+31st Aug'26 3:29:00,SANGHVIMOV,457.25,,-9.8,47.17,462.38,RSI 5 SWING TRADE STRATEGY,2.96,11.58,59.43,,,,,
+31st Aug'26 3:29:00,SHAREINDIA,172.71,,-1.29,51.23,172.03,RSI 5 SWING TRADE STRATEGY,2.85,-3.23,57.29,,,,,
+31st Aug'26 3:29:00,WESTLIFE,571.2,,-1.45,55.41,575.02,RSI 5 SWING TRADE STRATEGY,2.78,12.64,59.31,,,,,
+31st Aug'26 3:29:00,TALBROAUTO,411.4,,-2.85,50.0,410.21,RSI 5 SWING TRADE STRATEGY,2.5,0.895,63.89,,,,,
+31st Aug'26 3:29:00,SHRIRAMFIN,1109.9,,-1.08,53.09,1116.38,RSI 5 SWING TRADE STRATEGY,2.12,6.04,61.27,,,,,
+31st Aug'26 3:29:00,UJJIVANSFB,69.11,,-4.29,49.27,69.78,RSI 5 SWING TRADE STRATEGY,1.86,-3.68,60.69,,,,,
+31st Aug'26 3:29:00,MUTHOOTCAP,244.62,,-5.44,52.2,245.77,RSI 5 SWING TRADE STRATEGY,1.74,4.77,56.62,,,,,
+31st Aug'26 3:29:00,PANAMAPET,471.35,,-3.23,49.22,477.39,RSI 5 SWING TRADE STRATEGY,1.32,3.92,61.39,,,,,
+31st Aug'26 3:29:00,MPSLTD,2683.8,,-4.65,50.92,2747.64,RSI 5 SWING TRADE STRATEGY,0.22,-0.453,65.12,,,,,
+31st Aug'26 3:29:00,AYMSYNTEX,,,,,,Turtle strategy,,,,smallcap,10.24,66.79,67.95,textiles
+31st Aug'26 3:29:00,SUNPHARMA,,,,,,Turtle strategy,,,,largecap,3.38,64.23,64.22,healthcare
+31st Aug'26 3:29:00,VIJAYA,,,,,,Turtle strategy,,,,midcap,4.54,63.91,72.49,healthcare
+31st Aug'26 3:29:00,STOVEKRAFT,,,,,,Turtle strategy,,,,smallcap,6.48,62.94,62.36,consumer discretionary
+31st Aug'26 3:29:00,KEI,,,,,,Turtle strategy,,,,largecap,3.06,61.98,64.75,industrials
+31st Aug'26 3:29:00,STEELCAS,,,,,,Turtle strategy,,,,smallcap,2.19,59.49,76.43,industrials
+31st Aug'26 3:29:00,PIDILITIND,,,,,,Turtle strategy,,,,largecap,3.57,58.99,61.76,chemicals
+31st Aug'26 3:29:00,LOKESHMACH,,,,,,Turtle strategy,,,,smallcap,10.5,58.77,67.94,industrials
+31st Aug'26 3:29:00,CUB,,,,,,Turtle strategy,,,,largecap,3.13,58.63,66.05,bank
+31st Aug'26 3:29:00,BALRAMCHIN,,,,,,Turtle strategy,,,,midcap,5.9,57.79,68.99,fmcg
+31st Aug'26 3:29:00,SSWL,,,,,,Turtle strategy,,,,smallcap,3.43,57.59,64.09,auto
+31st Aug'26 3:29:00,AJANTPHARM,,,,,,Turtle strategy,,,,largecap,1.26,57.39,72.78,healthcare
+31st Aug'26 3:29:00,TVSMOTOR,,,,,,Turtle strategy,,,,largecap,0.862,56.53,74.0,auto
+31st Aug'26 3:29:00,GAEL,,,,,,Turtle strategy,,,,midcap,5.95,55.66,68.53,fmcg
+31st Aug'26 3:29:00,FEDERALBNK,,,,,,Turtle strategy,,,,largecap,3.62,55.54,76.81,bank
+31st Aug'26 3:29:00,LTF,,,,,,Turtle strategy,,,,largecap,2.13,55.21,69.38,financials
+31st Aug'26 3:29:00,SHAILY,,,,,,Turtle strategy,,,,midcap,0.058,55.05,73.32,plastic products
