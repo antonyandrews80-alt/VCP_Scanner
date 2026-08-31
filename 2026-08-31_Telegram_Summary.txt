@@ -1,0 +1,97 @@
+🎯 *SMART MONEY REPORT*
+📅 2026-08-31 | ⏰ 19:45
+
+
+📈 *MARKET STATUS*
+🚨 MARKET WEAK: Nifty 0.5% BELOW 50 MA
+💰 Position Sizing: CASH/MINIMAL POSITIONS ONLY
+
+📊 Analyzed: 40 | Qualified: 3
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 *TOP 10 PICKS*
+
+1. *BALRAMCHIN* 
+   Score: 69 | ✅ Buy
+   Vol: 65% | FII: 9.3%
+
+2. *AYMSYNTEX* 
+   Score: 65 | ✅ Buy
+   Vol: 89% | FII: 3.6%
+
+3. *LOKESHMACH* 
+   Score: 63 | 👀 Watch
+   Vol: 69% | FII: 0.0%
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 *TOP 10 ANALYSIS*
+
+*#1. BALRAMCHIN* — 69/100
+
+📊 *Scores:*
+   • Volume: 50/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 8/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 65.4%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 9.3% | DII: 29.1%
+   Momentum: +3.80%
+
+─────────────────────
+
+*#2. AYMSYNTEX* — 65/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 88.9%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 3.6% | DII: 0.5%
+   Momentum: +12.83%
+
+─────────────────────
+
+*#3. LOKESHMACH* — 63/100
+
+📊 *Scores:*
+   • Volume: 50/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 69.2%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.0% | DII: 0.0%
+   Momentum: +7.82%
+
+─────────────────────
+
+💡 *Legend:*
+Vol = % volume on up days (target >65%)
+Bonus = Multibagger signal points
+Del = Delivery %
