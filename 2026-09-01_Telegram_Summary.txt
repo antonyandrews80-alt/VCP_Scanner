@@ -1,0 +1,97 @@
+🎯 *SMART MONEY REPORT*
+📅 2026-09-01 | ⏰ 19:33
+
+
+📈 *MARKET STATUS*
+🚨 MARKET WEAK: Nifty 0.6% BELOW 50 MA
+💰 Position Sizing: CASH/MINIMAL POSITIONS ONLY
+
+📊 Analyzed: 31 | Qualified: 3
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 *TOP 10 PICKS*
+
+1. *SSWL* 
+   Score: 69 | ✅ Buy
+   Vol: 92% | FII: 8.6%
+
+2. *CAPLIPOINT* 
+   Score: 68 | ✅ Buy
+   Vol: 87% | FII: 5.8%
+
+3. *LOKESHMACH* 
+   Score: 65 | ✅ Buy
+   Vol: 78% | FII: 0.0%
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 *TOP 10 ANALYSIS*
+
+*#1. SSWL* — 69/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 3/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 91.6%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 8.6% | DII: 3.1%
+   Momentum: +23.02%
+
+─────────────────────
+
+*#2. CAPLIPOINT* — 68/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 86.7%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 5.8% | DII: 2.5%
+   Momentum: +7.75%
+
+─────────────────────
+
+*#3. LOKESHMACH* — 65/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 77.9%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.0% | DII: 0.0%
+   Momentum: +12.07%
+
+─────────────────────
+
+💡 *Legend:*
+Vol = % volume on up days (target >65%)
+Bonus = Multibagger signal points
+Del = Delivery %
