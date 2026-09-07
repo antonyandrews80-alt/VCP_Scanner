@@ -1,0 +1,122 @@
+🎯 *SMART MONEY REPORT*
+📅 2026-09-07 | ⏰ 19:35
+
+
+📈 *MARKET STATUS*
+🚨 MARKET WEAK: Nifty 1.7% BELOW 50 MA
+💰 Position Sizing: CASH/MINIMAL POSITIONS ONLY
+
+📊 Analyzed: 55 | Qualified: 4
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 *TOP 10 PICKS*
+
+1. *MONQ50* 
+   Score: 65 | ✅ Buy
+   Vol: 89% | FII: 0.0%
+
+2. *ALIVUS* 
+   Score: 59 | 👀 Watch
+   Vol: 68% | FII: 5.5%
+
+3. *PAISALO* 
+   Score: 52 | 👀 Watch
+   Vol: 64% | FII: 6.8%
+
+4. *VENUSPIPES* 
+   Score: 50 | 👀 Watch
+   Vol: 71% | FII: 2.6%
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 *TOP 10 ANALYSIS*
+
+*#1. MONQ50* — 65/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 88.5%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.0% | DII: 0.0%
+   Momentum: +13.07%
+
+─────────────────────
+
+*#2. ALIVUS* — 59/100
+
+📊 *Scores:*
+   • Volume: 34/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 3/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 67.9%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 5.5% | DII: 7.2%
+   Momentum: -3.80%
+
+─────────────────────
+
+*#3. PAISALO* — 52/100
+
+📊 *Scores:*
+   • Volume: 32/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 3/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 64.0%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 6.8% | DII: 6.8%
+   Momentum: +18.40%
+
+─────────────────────
+
+*#4. VENUSPIPES* — 50/100
+
+📊 *Scores:*
+   • Volume: 26/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 6/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 70.6%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 2.6% | DII: 17.8%
+   Momentum: +12.40%
+
+─────────────────────
+
+💡 *Legend:*
+Vol = % volume on up days (target >65%)
+Bonus = Multibagger signal points
+Del = Delivery %
