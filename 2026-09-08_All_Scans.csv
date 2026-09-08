@@ -1,0 +1,59 @@
+Date,Symbol,Price,% change,Roc 10days,Rsi 14,Sma 8,Scanner_Source,D change,M change,Rsi weekly,Mcap,Change,Dpower,Mpower,Sector
+8th Sep'26 3:29:00,MONQ50,195.77,19.31,32.42,85.65,153.39,M Swing scan,,,,,,,,
+8th Sep'26 3:29:00,MASPTOP50,97.01,12.93,21.34,86.67,82.88,M Swing scan,,,,,,,,
+8th Sep'26 3:29:00,PVRINOX,1231.3,6.47,0.024,57.03,1216.16,M Swing scan,,,,,,,,
+8th Sep'26 3:29:00,NEULANDLAB,23995.0,4.92,4.56,67.64,23076.88,M Swing scan,,,,,,,,
+8th Sep'26 3:29:00,EMIL,186.02,4.36,3.15,64.24,178.03,M Swing scan,,,,,,,,
+8th Sep'26 3:29:00,FLUOROCHEM,4676.6,3.22,1.53,55.04,4673.53,M Swing scan,,,,,,,,
+8th Sep'26 3:29:00,UNIVCABLES,1524.7,2.49,-4.1,47.4,1603.67,M Swing scan,,,,,,,,
+8th Sep'26 3:29:00,YASHO,4079.9,2.31,-2.9,50.47,4149.95,M Swing scan,,,,,,,,
+8th Sep'26 3:29:00,GNA,553.4,1.88,0.838,56.71,540.85,M Swing scan,,,,,,,,
+8th Sep'26 3:29:00,MINDACORP,708.3,1.83,0.675,49.97,706.09,M Swing scan,,,,,,,,
+8th Sep'26 3:29:00,NRBBEARING,489.6,1.37,4.15,61.94,465.74,M Swing scan,,,,,,,,
+8th Sep'26 3:29:00,TI,540.35,1.33,-5.98,52.3,547.41,M Swing scan,,,,,,,,
+8th Sep'26 3:29:00,MOTHERSON,163.85,1.14,-1.56,52.81,164.22,M Swing scan,,,,,,,,
+8th Sep'26 3:29:00,DIACABS,336.25,1.1,-0.899,52.52,336.47,M Swing scan,,,,,,,,
+8th Sep'26 3:29:00,RADICO,4485.0,0.923,-3.13,49.68,4502.81,M Swing scan,,,,,,,,
+8th Sep'26 3:29:00,SENORES,1509.8,0.821,1.99,59.4,1460.65,M Swing scan,,,,,,,,
+8th Sep'26 3:29:00,SIEMENS,3951.3,0.619,-3.4,50.38,4006.65,M Swing scan,,,,,,,,
+8th Sep'26 3:29:00,DALMIASUG,450.35,0.57,-4.23,52.57,460.53,M Swing scan,,,,,,,,
+8th Sep'26 3:29:00,LALPATHLAB,1912.5,0.557,-0.063,54.8,1912.91,M Swing scan,,,,,,,,
+8th Sep'26 3:29:00,MIDSELIETF,19.89,0.556,-0.897,52.59,19.94,M Swing scan,,,,,,,,
+8th Sep'26 3:29:00,LMW,18603.0,0.28,-3.9,53.3,18823.88,M Swing scan,,,,,,,,
+8th Sep'26 3:29:00,ROLEXRINGS,175.52,-0.085,-3.78,55.77,176.32,M Swing scan,,,,,,,,
+8th Sep'26 3:29:00,RKFORGE,701.3,-0.701,-2.75,47.64,726.23,M Swing scan,,,,,,,,
+8th Sep'26 3:29:00,E2E,617.6,-2.0,3.56,56.38,613.32,M Swing scan,,,,,,,,
+8th Sep'26 3:29:00,PVRINOX,1231.3,,0.024,57.03,1216.16,RSI 5 SWING TRADE STRATEGY,6.47,1.95,72.75,,,,,
+8th Sep'26 3:29:00,HINDCOPPER,532.85,,0.037,51.25,523.58,RSI 5 SWING TRADE STRATEGY,4.67,1.43,54.16,,,,,
+8th Sep'26 3:29:00,SIGIND,69.88,,0.852,56.81,70.29,RSI 5 SWING TRADE STRATEGY,4.44,-1.06,69.1,,,,,
+8th Sep'26 3:29:00,FLUOROCHEM,4676.6,,1.53,55.04,4673.53,RSI 5 SWING TRADE STRATEGY,3.22,-0.36,65.46,,,,,
+8th Sep'26 3:29:00,UNIVCABLES,1524.7,,-4.1,47.4,1603.67,RSI 5 SWING TRADE STRATEGY,2.49,-7.49,64.64,,,,,
+8th Sep'26 3:29:00,MINDACORP,708.3,,0.675,49.97,706.09,RSI 5 SWING TRADE STRATEGY,1.83,-0.596,64.88,,,,,
+8th Sep'26 3:29:00,KOHINOOR,31.41,,-12.21,54.55,32.93,RSI 5 SWING TRADE STRATEGY,1.75,-7.51,58.99,,,,,
+8th Sep'26 3:29:00,TATATECH,798.5,,0.0,48.85,810.29,RSI 5 SWING TRADE STRATEGY,1.71,-3.92,58.9,,,,,
+8th Sep'26 3:29:00,TI,540.35,,-5.98,52.3,547.41,RSI 5 SWING TRADE STRATEGY,1.33,-3.69,63.0,,,,,
+8th Sep'26 3:29:00,WESTLIFE,538.25,,-6.63,45.11,546.36,RSI 5 SWING TRADE STRATEGY,0.976,-5.77,53.75,,,,,
+8th Sep'26 3:29:00,RADICO,4485.0,,-3.13,49.68,4502.81,RSI 5 SWING TRADE STRATEGY,0.923,0.0,76.17,,,,,
+8th Sep'26 3:29:00,STYL,383.35,,-2.63,48.84,386.85,RSI 5 SWING TRADE STRATEGY,0.829,-0.635,59.84,,,,,
+8th Sep'26 3:29:00,GOKULAGRO,233.15,,-7.79,48.41,236.27,RSI 5 SWING TRADE STRATEGY,0.63,-4.49,58.59,,,,,
+8th Sep'26 3:29:00,SIEMENS,3951.3,,-3.4,50.38,4006.65,RSI 5 SWING TRADE STRATEGY,0.619,-1.95,60.31,,,,,
+8th Sep'26 3:29:00,HINDALCO,1009.0,,-4.0,46.12,1014.12,RSI 5 SWING TRADE STRATEGY,0.298,-0.635,53.22,,,,,
+8th Sep'26 3:29:00,LMW,18603.0,,-3.9,53.3,18823.88,RSI 5 SWING TRADE STRATEGY,0.28,-1.96,64.48,,,,,
+8th Sep'26 3:29:00,MIDHANI,,,,,,Turtle strategy,,,,midcap,13.6,71.19,60.31,aerospace & defence
+8th Sep'26 3:29:00,RPGLIFE,,,,,,Turtle strategy,,,,smallcap,4.83,60.17,64.27,healthcare
+8th Sep'26 3:29:00,FINCABLES,,,,,,Turtle strategy,,,,midcap,6.14,59.85,61.34,industrials
+8th Sep'26 3:29:00,PRECWIRE,,,,,,Turtle strategy,,,,midcap,4.18,58.46,74.09,metals & mining
+8th Sep'26 3:29:00,NYKAA,,,,,,Turtle strategy,,,,largecap,2.49,57.45,67.91,i.t
+8th Sep'26 3:29:00,GNA,,,,,,Turtle strategy,,,,smallcap,1.88,56.71,65.22,auto
+8th Sep'26 3:29:00,RAIN,,,,,,Turtle strategy,,,,midcap,3.04,56.56,60.32,miscellaneous
+8th Sep'26 3:29:00,MBAPL,,,,,,Turtle strategy,,,,smallcap,0.834,56.32,86.89,chemicals
+8th Sep'26 3:29:00,MPSLTD,,,,,,Turtle strategy,,,,smallcap,4.3,56.22,63.85,i.t
+8th Sep'26 3:29:00,AETHER,,,,,,Turtle strategy,,,,largecap,1.44,56.01,76.77,chemicals
+8th Sep'26 3:29:00,LUMAXTECH,,,,,,Turtle strategy,,,,midcap,1.05,55.88,68.02,auto
+8th Sep'26 3:29:00,SONACOMS,,,,,,Turtle strategy,,,,largecap,2.03,55.61,68.41,auto
+8th Sep'26 3:29:00,MACPOWER,,,,,,Turtle strategy,,,,smallcap,3.33,55.61,66.63,industrials
+8th Sep'26 3:29:00,PGIL,,,,,,Turtle strategy,,,,midcap,4.86,55.59,72.32,consumer discretionary
+8th Sep'26 3:29:00,BAJAJ-AUTO,,,,,,Turtle strategy,,,,largecap,0.678,55.49,66.33,auto
+8th Sep'26 3:29:00,METROPOLIS,,,,,,Turtle strategy,,,,midcap,0.77,55.33,62.54,healthcare
+8th Sep'26 3:29:00,JGCHEM,,,,,,Turtle strategy,,,,smallcap,5.13,55.28,67.96,chemicals
+8th Sep'26 3:29:00,FLUOROCHEM,,,,,,Turtle strategy,,,,largecap,3.22,55.04,62.69,chemicals
