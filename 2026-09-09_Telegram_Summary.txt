@@ -1,0 +1,122 @@
+🎯 *SMART MONEY REPORT*
+📅 2026-09-09 | ⏰ 19:34
+
+
+📈 *MARKET STATUS*
+🚨 MARKET WEAK: Nifty 3.1% BELOW 50 MA
+💰 Position Sizing: CASH/MINIMAL POSITIONS ONLY
+
+📊 Analyzed: 41 | Qualified: 4
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 *TOP 10 PICKS*
+
+1. *MONQ50* 
+   Score: 68 | ✅ Buy
+   Vol: 97% | FII: 0.0%
+
+2. *INDNIPPON* 
+   Score: 68 | ✅ Buy
+   Vol: 95% | FII: 0.3%
+
+3. *MEDANTA* 
+   Score: 68 | ✅ Buy
+   Vol: 68% | FII: 9.5%
+
+4. *ALIVUS* 
+   Score: 61 | 👀 Watch
+   Vol: 71% | FII: 5.5%
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 *TOP 10 ANALYSIS*
+
+*#1. MONQ50* — 68/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 96.5%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.0% | DII: 0.0%
+   Momentum: +47.86%
+
+─────────────────────
+
+*#2. INDNIPPON* — 68/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 95.0%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.3% | DII: 0.2%
+   Momentum: +23.40%
+
+─────────────────────
+
+*#3. MEDANTA* — 68/100
+
+📊 *Scores:*
+   • Volume: 42/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 8/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 68.4%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 9.5% | DII: 16.9%
+   Momentum: +2.46%
+
+─────────────────────
+
+*#4. ALIVUS* — 61/100
+
+📊 *Scores:*
+   • Volume: 36/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 3/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 70.6%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 5.5% | DII: 7.2%
+   Momentum: -1.26%
+
+─────────────────────
+
+💡 *Legend:*
+Vol = % volume on up days (target >65%)
+Bonus = Multibagger signal points
+Del = Delivery %
