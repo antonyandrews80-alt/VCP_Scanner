@@ -1,0 +1,44 @@
+Date,Symbol,Price,% change,Roc 10days,Rsi 14,Sma 8,Scanner_Source,D change,M change,Rsi weekly,Mcap,Change,Dpower,Mpower,Sector
+10th Sep'26 3:29:00,SMARTLINK,219.57,4.82,-0.318,54.48,212.19,M Swing scan,,,,,,,,
+10th Sep'26 3:29:00,PVRINOX,1221.3,4.46,-1.21,54.45,1211.4,M Swing scan,,,,,,,,
+10th Sep'26 3:29:00,MMFL,644.1,4.4,2.92,57.54,634.05,M Swing scan,,,,,,,,
+10th Sep'26 3:29:00,THELEELA,554.15,4.27,0.063,57.67,554.62,M Swing scan,,,,,,,,
+10th Sep'26 3:29:00,DIVGIITTS,1171.3,1.89,-2.02,51.31,1208.79,M Swing scan,,,,,,,,
+10th Sep'26 3:29:00,AKUMS,749.65,1.15,-1.52,52.98,759.7,M Swing scan,,,,,,,,
+10th Sep'26 3:29:00,RADICO,4460.0,1.04,-3.17,48.18,4475.81,M Swing scan,,,,,,,,
+10th Sep'26 3:29:00,TI,535.75,0.913,-3.95,50.23,539.71,M Swing scan,,,,,,,,
+10th Sep'26 3:29:00,KRISHANA,183.5,0.863,-4.39,49.05,185.26,M Swing scan,,,,,,,,
+10th Sep'26 3:29:00,UNIVCABLES,1556.9,0.862,-3.14,50.53,1573.56,M Swing scan,,,,,,,,
+10th Sep'26 3:29:00,SIGIND,71.12,0.851,-0.754,59.02,70.2,M Swing scan,,,,,,,,
+10th Sep'26 3:29:00,OFSS,11725.0,0.817,-1.1,48.78,11941.75,M Swing scan,,,,,,,,
+10th Sep'26 3:29:00,FLUOROCHEM,4786.3,0.662,2.44,60.23,4683.07,M Swing scan,,,,,,,,
+10th Sep'26 3:29:00,TITAN,5021.0,0.32,-2.3,52.66,5022.38,M Swing scan,,,,,,,,
+10th Sep'26 3:29:00,SIEMENS,3954.4,0.134,-3.43,50.74,3979.71,M Swing scan,,,,,,,,
+10th Sep'26 3:29:00,KANPRPLA,251.7,0.119,-6.25,52.93,250.93,M Swing scan,,,,,,,,
+10th Sep'26 3:29:00,QUESS,355.1,0.028,-0.518,55.35,358.41,M Swing scan,,,,,,,,
+10th Sep'26 3:29:00,TIIL,3157.1,-0.413,-5.14,54.91,3203.28,M Swing scan,,,,,,,,
+10th Sep'26 3:29:00,MIDSELIETF,19.65,-0.657,-2.53,41.94,19.85,M Swing scan,,,,,,,,
+10th Sep'26 3:29:00,SHRIPISTON,4447.4,-1.19,-1.13,47.72,4520.59,M Swing scan,,,,,,,,
+10th Sep'26 3:29:00,GULFPETRO,65.74,-2.19,-0.665,59.45,66.33,M Swing scan,,,,,,,,
+10th Sep'26 3:29:00,RBA,96.82,-3.66,-3.78,52.94,97.75,M Swing scan,,,,,,,,
+10th Sep'26 3:29:00,MWL,39.56,,-1.12,52.45,38.5,RSI 5 SWING TRADE STRATEGY,4.77,4.32,63.38,,,,,
+10th Sep'26 3:29:00,ADVANCE,119.03,,-1.07,52.78,116.86,RSI 5 SWING TRADE STRATEGY,4.55,2.24,54.78,,,,,
+10th Sep'26 3:29:00,THELEELA,554.15,,0.063,57.67,554.62,RSI 5 SWING TRADE STRATEGY,4.27,-2.85,69.35,,,,,
+10th Sep'26 3:29:00,NETWEB,5013.5,,-4.91,48.71,5108.25,RSI 5 SWING TRADE STRATEGY,2.35,-3.37,58.9,,,,,
+10th Sep'26 3:29:00,DIVGIITTS,1171.3,,-2.02,51.31,1208.79,RSI 5 SWING TRADE STRATEGY,1.89,-1.3,64.38,,,,,
+10th Sep'26 3:29:00,KMSUGAR,30.1,,-1.67,47.82,30.77,RSI 5 SWING TRADE STRATEGY,1.45,-7.36,55.46,,,,,
+10th Sep'26 3:29:00,TI,535.75,,-3.95,50.23,539.71,RSI 5 SWING TRADE STRATEGY,0.913,-4.51,62.3,,,,,
+10th Sep'26 3:29:00,KRISHANA,183.5,,-4.39,49.05,185.26,RSI 5 SWING TRADE STRATEGY,0.863,-3.94,68.21,,,,,
+10th Sep'26 3:29:00,OFSS,11725.0,,-1.1,48.78,11941.75,RSI 5 SWING TRADE STRATEGY,0.817,-6.5,63.61,,,,,
+10th Sep'26 3:29:00,DIACABS,,,,,,Turtle strategy,,,,largecap,4.99,60.26,81.2,industrials
+10th Sep'26 3:29:00,ANANDRATHI,,,,,,Turtle strategy,,,,largecap,1.0,58.11,80.29,financials
+10th Sep'26 3:29:00,PNBHOUSING,,,,,,Turtle strategy,,,,largecap,3.24,57.8,63.63,financials
+10th Sep'26 3:29:00,THELEELA,,,,,,Turtle strategy,,,,midcap,4.27,57.67,68.56,services
+10th Sep'26 3:29:00,MMFL,,,,,,Turtle strategy,,,,smallcap,4.4,57.54,66.36,industrials
+10th Sep'26 3:29:00,GRASIM,,,,,,Turtle strategy,,,,largecap,0.576,55.99,66.82,textiles
+10th Sep'26 3:29:00,GNA,,,,,,Turtle strategy,,,,smallcap,2.67,55.88,65.26,auto
+10th Sep'26 3:29:00,PGIL,,,,,,Turtle strategy,,,,midcap,4.41,55.44,72.73,consumer discretionary
+10th Sep'26 3:29:00,MACPOWER,,,,,,Turtle strategy,,,,smallcap,0.354,55.27,66.52,industrials
+10th Sep'26 3:29:00,SONACOMS,,,,,,Turtle strategy,,,,largecap,0.5,55.22,68.35,auto
+10th Sep'26 3:29:00,CARTRADE,,,,,,Turtle strategy,,,,midcap,0.251,55.16,67.21,consumer discretionary
+10th Sep'26 3:29:00,SGIL,,,,,,Turtle strategy,,,,smallcap,0.241,55.04,67.14,industrials
