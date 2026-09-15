@@ -1,0 +1,47 @@
+🎯 *SMART MONEY REPORT*
+📅 2026-09-15 | ⏰ 19:31
+
+
+📈 *MARKET STATUS*
+🚨 MARKET WEAK: Nifty 4.2% BELOW 50 MA
+💰 Position Sizing: CASH/MINIMAL POSITIONS ONLY
+
+📊 Analyzed: 9 | Qualified: 1
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 *TOP 10 PICKS*
+
+1. *GRPLTD* 
+   Score: 59 | 👀 Watch
+   Vol: 81% | FII: 0.0%
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 *TOP 10 ANALYSIS*
+
+*#1. GRPLTD* — 59/100
+
+📊 *Scores:*
+   • Volume: 36/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 81.0%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.0% | DII: 0.0%
+   Momentum: +2.24%
+
+─────────────────────
+
+💡 *Legend:*
+Vol = % volume on up days (target >65%)
+Bonus = Multibagger signal points
+Del = Delivery %
