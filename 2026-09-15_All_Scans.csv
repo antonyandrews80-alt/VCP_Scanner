@@ -1,0 +1,10 @@
+Date,Symbol,Price,% change,Roc 10days,Rsi 14,Sma 8,Scanner_Source,D change,M change,Rsi weekly,Mcap,Change,Dpower,Mpower,Sector
+15th Sep'26 3:29:00,OFSS,11803.0,0.34,-5.88,50.79,11844.38,M Swing scan,,,,,,,,
+15th Sep'26 3:29:00,PRICOLLTD,740.75,-2.71,-7.78,45.87,757.36,M Swing scan,,,,,,,,
+15th Sep'26 3:29:00,INDOBORAX,460.8,-4.9,-9.37,44.91,497.81,M Swing scan,,,,,,,,
+15th Sep'26 3:29:00,EMUDHRA,592.85,,8.21,67.95,519.06,RSI 5 SWING TRADE STRATEGY,20.0,8.21,62.54,,,,,
+15th Sep'26 3:29:00,FSL,283.35,,7.01,59.48,260.52,RSI 5 SWING TRADE STRATEGY,14.44,7.01,54.15,,,,,
+15th Sep'26 3:29:00,GRPLTD,2046.2,,4.11,55.58,1998.61,RSI 5 SWING TRADE STRATEGY,6.29,4.11,56.12,,,,,
+15th Sep'26 3:29:00,KPRMILL,1120.2,,-4.87,47.79,1143.54,RSI 5 SWING TRADE STRATEGY,1.0,-4.87,55.66,,,,,
+15th Sep'26 3:29:00,MACPOWER,,,,,,Turtle strategy,,,,smallcap,2.13,55.8,66.85,industrials
+15th Sep'26 3:29:00,SVLL,,,,,,Turtle strategy,,,,smallcap,0.681,55.45,67.12,transportation
