@@ -1,0 +1,172 @@
+🎯 *SMART MONEY REPORT*
+📅 2026-09-17 | ⏰ 19:37
+
+
+📈 *MARKET STATUS*
+🚨 MARKET WEAK: Nifty 3.4% BELOW 50 MA
+💰 Position Sizing: CASH/MINIMAL POSITIONS ONLY
+
+📊 Analyzed: 86 | Qualified: 6
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 *TOP 10 PICKS*
+
+1. *SMSPHARMA* 
+   Score: 71 | ✅ Buy
+   Vol: 77% | FII: 0.7%
+
+2. *MAZDA* 
+   Score: 65 | ✅ Buy
+   Vol: 81% | FII: 0.1%
+
+3. *RPGLIFE* 
+   Score: 61 | 👀 Watch
+   Vol: 88% | FII: 0.9%
+
+4. *SYRMA* 
+   Score: 58 | 👀 Watch
+   Vol: 80% | FII: 7.5%
+
+5. *BHAGYANGR* 
+   Score: 57 | 👀 Watch
+   Vol: 64% | FII: 2.1%
+
+6. *AXISCADES* 
+   Score: 52 | 👀 Watch
+   Vol: 67% | FII: 1.4%
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 *TOP 10 ANALYSIS*
+
+*#1. SMSPHARMA* — 71/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 22/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 77.0%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.7% | DII: 2.8%
+   Momentum: -10.72%
+
+─────────────────────
+
+*#2. MAZDA* — 65/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 80.5%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.1% | DII: 0.1%
+   Momentum: +0.94%
+
+─────────────────────
+
+*#3. RPGLIFE* — 61/100
+
+📊 *Scores:*
+   • Volume: 44/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 88.1%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.9% | DII: 8.7%
+   Momentum: +4.67%
+
+─────────────────────
+
+*#4. SYRMA* — 58/100
+
+📊 *Scores:*
+   • Volume: 36/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 6/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 80.2%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 7.5% | DII: 15.9%
+   Momentum: +1.79%
+
+─────────────────────
+
+*#5. BHAGYANGR* — 57/100
+
+📊 *Scores:*
+   • Volume: 40/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 63.6%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 2.1% | DII: 2.1%
+   Momentum: +5.67%
+
+─────────────────────
+
+*#6. AXISCADES* — 52/100
+
+📊 *Scores:*
+   • Volume: 34/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 67.2%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 1.4% | DII: 2.0%
+   Momentum: -0.93%
+
+─────────────────────
+
+💡 *Legend:*
+Vol = % volume on up days (target >65%)
+Bonus = Multibagger signal points
+Del = Delivery %
