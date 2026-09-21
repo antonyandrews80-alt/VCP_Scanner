@@ -1,0 +1,63 @@
+Date,Symbol,Price,% change,Roc 10days,Rsi 14,Sma 8,Scanner_Source,D change,M change,Rsi weekly,Mcap,Change,Dpower,Mpower,Sector
+21st Sep'26 3:29:00,TARSONS,341.3,11.5,1.71,59.18,313.86,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,ENGINERSIN,285.25,7.1,2.08,67.01,269.07,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,AVTNPL,90.04,5.06,-1.08,59.93,88.29,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,SCPL,653.2,5.0,1.04,55.99,638.84,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,UCAL,145.05,4.99,-0.664,55.57,141.86,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,PVP,62.24,4.99,-8.39,61.06,61.77,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,ENTERO,1795.5,3.65,-1.76,61.4,1770.61,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,SHANTIGOLD,258.69,2.95,0.917,56.01,252.62,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,UNIPARTS,854.85,2.81,-2.2,51.77,870.83,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,TORNTPHARM,4970.0,2.69,2.33,53.47,4896.63,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,ASAHISONG,381.75,2.4,2.44,57.67,368.96,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,AYMSYNTEX,288.35,1.84,-7.19,54.73,284.93,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,ALPHAGEO,296.5,1.51,-8.45,49.16,304.26,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,NYKAA,336.0,1.16,1.05,52.06,335.39,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,NIFTYMIDSMLHLTH,53096.0,0.895,2.23,60.88,52190.98,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,PNBHOUSING,1141.1,0.706,-2.14,49.08,1144.58,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,APCOTEXIND,608.7,0.636,-4.22,50.27,598.89,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,JSWINFRA,349.6,0.388,4.99,60.53,337.86,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,NAHARINDUS,131.7,0.312,-4.31,51.46,131.34,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,GNFC,589.9,0.17,-1.14,57.75,568.97,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,VMART,808.8,0.08,-1.87,48.89,803.9,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,THEMISMED,123.92,-0.04,2.91,53.7,125.26,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,ORIENTBELL,392.55,-0.178,-6.56,55.87,397.72,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,VIJAYA,1556.1,-0.18,4.21,63.37,1500.35,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,SMALLCAP,48.98,-0.224,0.164,54.3,48.7,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,KMEW,2878.9,-0.232,-5.09,53.88,2847.57,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,SML100CASE,11.28,-0.353,-1.31,51.49,11.23,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,GULFPETRO,61.66,-0.372,-6.45,47.63,63.06,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,NAZARA,367.25,-0.569,-0.38,56.35,365.88,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,FLUOROCHEM,4560.0,-0.582,0.132,47.6,4633.46,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,INDGN,595.95,-0.692,-0.923,60.43,584.32,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,GLAND,2940.2,-0.733,0.266,57.29,2928.43,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,AZAD,2764.9,-0.91,-0.447,53.05,2734.34,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,PRECWIRE,473.7,-0.982,0.19,55.97,460.32,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,ADOR,1576.4,-0.986,-5.85,49.01,1584.06,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,RKFORGE,716.5,-1.05,2.23,52.2,710.25,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,ANTHEM,917.45,-1.19,-1.78,53.08,931.35,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,NAVINFLUOR,8486.5,-1.2,-0.83,53.11,8463.06,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,NITINSPIN,610.8,-1.36,-4.42,48.39,633.73,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,BHEL,433.4,-1.48,0.533,54.86,427.52,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,SHRIPISTON,4508.7,-1.48,-0.622,52.91,4421.89,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,SONACOMS,795.25,-1.58,0.792,51.8,791.27,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,SEAMECLTD,1698.8,-1.59,-5.29,52.33,1742.0,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,VISAKAIND,95.42,-1.99,2.2,57.86,91.69,M Swing scan,,,,,,,,
+21st Sep'26 3:29:00,TARSONS,341.3,,1.71,59.18,313.86,RSI 5 SWING TRADE STRATEGY,11.5,2.91,63.76,,,,,
+21st Sep'26 3:29:00,JUBLCPL,2111.4,,-5.0,49.7,2088.53,RSI 5 SWING TRADE STRATEGY,5.56,-8.81,53.03,,,,,
+21st Sep'26 3:29:00,SCPL,653.2,,1.04,55.99,638.84,RSI 5 SWING TRADE STRATEGY,5.0,2.91,68.91,,,,,
+21st Sep'26 3:29:00,SHIVATEX,172.35,,-5.75,49.49,175.89,RSI 5 SWING TRADE STRATEGY,2.28,-4.87,54.79,,,,,
+21st Sep'26 3:29:00,VIMTALABS,616.05,,-3.08,48.01,615.74,RSI 5 SWING TRADE STRATEGY,2.15,-4.26,57.27,,,,,
+21st Sep'26 3:29:00,TOTAL,70.3,,-0.818,51.06,73.66,RSI 5 SWING TRADE STRATEGY,1.4,2.42,57.7,,,,,
+21st Sep'26 3:29:00,OIL,478.35,,-2.04,49.17,486.71,RSI 5 SWING TRADE STRATEGY,0.557,-0.994,54.7,,,,,
+21st Sep'26 3:29:00,ASHIANA,,,,,,Turtle strategy,,,,smallcap,14.32,72.69,62.35,realty
+21st Sep'26 3:29:00,ARVEE,,,,,,Turtle strategy,,,,smallcap,20.0,65.18,60.51,chemicals
+21st Sep'26 3:29:00,MARKSANS,,,,,,Turtle strategy,,,,midcap,5.61,62.61,68.28,healthcare
+21st Sep'26 3:29:00,KDDL,,,,,,Turtle strategy,,,,smallcap,3.85,62.07,68.08,consumer discretionary
+21st Sep'26 3:29:00,MARINE,,,,,,Turtle strategy,,,,midcap,9.65,60.86,71.67,industrials
+21st Sep'26 3:29:00,TNPETRO,,,,,,Turtle strategy,,,,smallcap,3.67,59.77,65.33,energy
+21st Sep'26 3:29:00,QUESS,,,,,,Turtle strategy,,,,midcap,3.26,58.74,63.26,miscellaneous
+21st Sep'26 3:29:00,KINGFA,,,,,,Turtle strategy,,,,midcap,4.02,56.54,77.69,plastic products
+21st Sep'26 3:29:00,SOTL,,,,,,Turtle strategy,,,,smallcap,2.35,56.32,72.24,energy
+21st Sep'26 3:29:00,SCPL,,,,,,Turtle strategy,,,,smallcap,5.0,55.99,73.91,fmcg
+21st Sep'26 3:29:00,HEG,,,,,,Turtle strategy,,,,midcap,4.83,55.64,64.01,industrials
