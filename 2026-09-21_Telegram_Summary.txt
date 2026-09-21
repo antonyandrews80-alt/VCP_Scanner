@@ -1,0 +1,122 @@
+🎯 *SMART MONEY REPORT*
+📅 2026-09-21 | ⏰ 19:35
+
+
+📈 *MARKET STATUS*
+🚨 MARKET WEAK: Nifty 2.7% BELOW 50 MA
+💰 Position Sizing: CASH/MINIMAL POSITIONS ONLY
+
+📊 Analyzed: 58 | Qualified: 4
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 *TOP 10 PICKS*
+
+1. *GNFC* 
+   Score: 77 | 🔥 Strong Buy
+   Vol: 81% | FII: 13.1%
+
+2. *JSWINFRA* 
+   Score: 77 | 🔥 Strong Buy
+   Vol: 88% | FII: 11.2%
+
+3. *ASHIANA* 
+   Score: 71 | ✅ Buy
+   Vol: 88% | FII: 8.2%
+
+4. *ARVEE* 
+   Score: 68 | ✅ Buy
+   Vol: 89% | FII: 0.0%
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 *TOP 10 ANALYSIS*
+
+*#1. GNFC* — 77/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 6/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 80.8%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 13.1% | DII: 11.0%
+   Momentum: +9.12%
+
+─────────────────────
+
+*#2. JSWINFRA* — 77/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 6/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 88.1%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 11.2% | DII: 9.2%
+   Momentum: +7.29%
+
+─────────────────────
+
+*#3. ASHIANA* — 71/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 5/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 87.8%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 8.2% | DII: 8.1%
+   Momentum: +18.62%
+
+─────────────────────
+
+*#4. ARVEE* — 68/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 89.1%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.0% | DII: 0.0%
+   Momentum: +23.88%
+
+─────────────────────
+
+💡 *Legend:*
+Vol = % volume on up days (target >65%)
+Bonus = Multibagger signal points
+Del = Delivery %
