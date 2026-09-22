@@ -1,0 +1,122 @@
+🎯 *SMART MONEY REPORT*
+📅 2026-09-22 | ⏰ 19:34
+
+
+📈 *MARKET STATUS*
+🚨 MARKET WEAK: Nifty 3.0% BELOW 50 MA
+💰 Position Sizing: CASH/MINIMAL POSITIONS ONLY
+
+📊 Analyzed: 43 | Qualified: 4
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 *TOP 10 PICKS*
+
+1. *GABRIEL* 
+   Score: 68 | ✅ Buy
+   Vol: 88% | FII: 6.0%
+
+2. *PGIL* 
+   Score: 68 | ✅ Buy
+   Vol: 65% | FII: 6.8%
+
+3. *OPTIEMUS* 
+   Score: 68 | ✅ Buy
+   Vol: 94% | FII: 3.3%
+
+4. *STEELCAS* 
+   Score: 61 | 👀 Watch
+   Vol: 78% | FII: 0.3%
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 *TOP 10 ANALYSIS*
+
+*#1. GABRIEL* — 68/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 5/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 88.0%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 6.0% | DII: 11.9%
+   Momentum: +13.56%
+
+─────────────────────
+
+*#2. PGIL* — 68/100
+
+📊 *Scores:*
+   • Volume: 40/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 8/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 64.6%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 6.8% | DII: 20.1%
+   Momentum: +1.27%
+
+─────────────────────
+
+*#3. OPTIEMUS* — 68/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 94.1%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 3.3% | DII: 2.4%
+   Momentum: +19.57%
+
+─────────────────────
+
+*#4. STEELCAS* — 61/100
+
+📊 *Scores:*
+   • Volume: 44/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 77.9%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.3% | DII: 2.5%
+   Momentum: +17.01%
+
+─────────────────────
+
+💡 *Legend:*
+Vol = % volume on up days (target >65%)
+Bonus = Multibagger signal points
+Del = Delivery %
