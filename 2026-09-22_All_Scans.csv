@@ -1,0 +1,49 @@
+Date,Symbol,Price,% change,Roc 10days,Rsi 14,Sma 8,Scanner_Source,D change,M change,Rsi weekly,Mcap,Change,Dpower,Mpower,Sector
+22nd Sep'26 3:29:00,GABRIEL,1471.4,14.04,7.91,61.01,1331.06,M Swing scan,,,,,,,,
+22nd Sep'26 3:29:00,STEELCAS,350.15,10.3,7.13,60.16,318.97,M Swing scan,,,,,,,,
+22nd Sep'26 3:29:00,AVTNPL,98.26,9.13,9.06,70.89,89.02,M Swing scan,,,,,,,,
+22nd Sep'26 3:29:00,MARALOVER,61.11,7.46,-4.9,56.52,60.18,M Swing scan,,,,,,,,
+22nd Sep'26 3:29:00,KTKBANK,331.5,5.39,-0.629,58.13,320.73,M Swing scan,,,,,,,,
+22nd Sep'26 3:29:00,PVP,65.35,5.0,0.292,64.75,61.87,M Swing scan,,,,,,,,
+22nd Sep'26 3:29:00,MAWANASUG,131.43,4.77,-9.43,48.99,129.39,M Swing scan,,,,,,,,
+22nd Sep'26 3:29:00,ENTERO,1841.8,2.58,-2.98,64.45,1772.3,M Swing scan,,,,,,,,
+22nd Sep'26 3:29:00,HITECHCORP,329.75,1.4,-1.38,49.12,330.04,M Swing scan,,,,,,,,
+22nd Sep'26 3:29:00,SCPL,659.5,0.965,0.679,57.87,640.27,M Swing scan,,,,,,,,
+22nd Sep'26 3:29:00,ALBERTDAVD,848.9,0.849,-1.63,54.3,846.17,M Swing scan,,,,,,,,
+22nd Sep'26 3:29:00,AZAD,2776.2,0.409,-3.2,53.7,2730.74,M Swing scan,,,,,,,,
+22nd Sep'26 3:29:00,ALPHAGEO,296.1,-0.135,-8.77,48.95,300.65,M Swing scan,,,,,,,,
+22nd Sep'26 3:29:00,SHANTIGOLD,258.04,-0.251,-4.68,55.58,252.22,M Swing scan,,,,,,,,
+22nd Sep'26 3:29:00,NITINSPIN,608.4,-0.393,-3.04,47.47,628.37,M Swing scan,,,,,,,,
+22nd Sep'26 3:29:00,NAVINFLUOR,8438.0,-0.572,-1.92,51.64,8420.88,M Swing scan,,,,,,,,
+22nd Sep'26 3:29:00,NYKAA,333.55,-0.729,0.256,50.04,334.21,M Swing scan,,,,,,,,
+22nd Sep'26 3:29:00,TARSONS,331.5,-2.87,0.898,54.05,315.13,M Swing scan,,,,,,,,
+22nd Sep'26 3:29:00,KTKBANK,331.5,,-0.629,58.13,320.73,RSI 5 SWING TRADE STRATEGY,5.39,-1.09,69.06,,,,,
+22nd Sep'26 3:29:00,MAWANASUG,131.43,,-9.43,48.99,129.39,RSI 5 SWING TRADE STRATEGY,4.77,-11.85,60.15,,,,,
+22nd Sep'26 3:29:00,HITECHCORP,329.75,,-1.38,49.12,330.04,RSI 5 SWING TRADE STRATEGY,1.4,-1.45,76.17,,,,,
+22nd Sep'26 3:29:00,AUSOMENT,147.23,,-5.75,46.76,150.35,RSI 5 SWING TRADE STRATEGY,0.177,-1.67,58.43,,,,,
+22nd Sep'26 3:29:00,OPTIEMUS,,,,,,Turtle strategy,,,,midcap,20.0,73.78,60.91,telecom
+22nd Sep'26 3:29:00,SGIL,,,,,,Turtle strategy,,,,smallcap,6.47,66.02,70.22,industrials
+22nd Sep'26 3:29:00,RBLBANK,,,,,,Turtle strategy,,,,largecap,5.17,64.25,74.43,bank
+22nd Sep'26 3:29:00,BLSE,,,,,,Turtle strategy,,,,smallcap,3.42,64.06,60.62,i.t
+22nd Sep'26 3:29:00,GABRIEL,,,,,,Turtle strategy,,,,largecap,14.04,61.01,73.27,auto
+22nd Sep'26 3:29:00,DEEPINDS,,,,,,Turtle strategy,,,,smallcap,4.86,59.53,72.73,energy
+22nd Sep'26 3:29:00,GHCLTEXTIL,,,,,,Turtle strategy,,,,smallcap,3.4,58.8,71.46,textiles
+22nd Sep'26 3:29:00,KMEW,,,,,,Turtle strategy,,,,midcap,3.4,58.76,80.0,transportation
+22nd Sep'26 3:29:00,KTKBANK,,,,,,Turtle strategy,,,,midcap,5.39,58.13,74.72,bank
+22nd Sep'26 3:29:00,AYMSYNTEX,,,,,,Turtle strategy,,,,smallcap,2.44,57.81,69.83,textiles
+22nd Sep'26 3:29:00,VADILALIND,,,,,,Turtle strategy,,,,midcap,2.47,57.66,70.03,fmcg
+22nd Sep'26 3:29:00,KRISHANA,,,,,,Turtle strategy,,,,smallcap,3.92,57.63,82.34,chemicals
+22nd Sep'26 3:29:00,SEAMECLTD,,,,,,Turtle strategy,,,,smallcap,2.11,57.37,68.36,miscellaneous
+22nd Sep'26 3:29:00,MBAPL,,,,,,Turtle strategy,,,,smallcap,3.06,56.8,87.06,chemicals
+22nd Sep'26 3:29:00,KANPRPLA,,,,,,Turtle strategy,,,,smallcap,4.69,56.55,68.72,industrials
+22nd Sep'26 3:29:00,RPEL,,,,,,Turtle strategy,,,,midcap,2.96,56.54,73.95,building materials
+22nd Sep'26 3:29:00,BOSCHLTD,,,,,,Turtle strategy,,,,largecap,1.52,56.51,68.26,auto
+22nd Sep'26 3:29:00,BEPL,,,,,,Turtle strategy,,,,smallcap,1.66,56.21,62.75,energy
+22nd Sep'26 3:29:00,SONACOMS,,,,,,Turtle strategy,,,,largecap,1.73,55.74,68.96,auto
+22nd Sep'26 3:29:00,HEG,,,,,,Turtle strategy,,,,midcap,4.83,55.64,64.01,industrials
+22nd Sep'26 3:29:00,PGIL,,,,,,Turtle strategy,,,,midcap,4.96,55.57,73.12,consumer discretionary
+22nd Sep'26 3:29:00,ICIL,,,,,,Turtle strategy,,,,midcap,2.92,55.43,63.22,textiles
+22nd Sep'26 3:29:00,MCX,,,,,,Turtle strategy,,,,largecap,1.67,55.41,74.84,financials
+22nd Sep'26 3:29:00,APLAPOLLO,,,,,,Turtle strategy,,,,largecap,0.637,55.37,64.63,industrials
+22nd Sep'26 3:29:00,ARIES,,,,,,Turtle strategy,,,,smallcap,1.54,55.36,68.11,chemicals
+22nd Sep'26 3:29:00,SKYGOLD,,,,,,Turtle strategy,,,,midcap,0.981,55.15,81.16,consumer discretionary
