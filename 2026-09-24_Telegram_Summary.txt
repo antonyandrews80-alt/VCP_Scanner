@@ -1,0 +1,122 @@
+🎯 *SMART MONEY REPORT*
+📅 2026-09-24 | ⏰ 19:33
+
+
+📈 *MARKET STATUS*
+🚨 MARKET WEAK: Nifty 4.0% BELOW 50 MA
+💰 Position Sizing: CASH/MINIMAL POSITIONS ONLY
+
+📊 Analyzed: 14 | Qualified: 4
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 *TOP 10 PICKS*
+
+1. *JAGSNPHARM* 
+   Score: 70 | ✅ Buy
+   Vol: 97% | FII: 2.3%
+
+2. *UNIDT* 
+   Score: 68 | ✅ Buy
+   Vol: 93% | FII: 0.4%
+
+3. *INDIAGLYCO* 
+   Score: 65 | ✅ Buy
+   Vol: 78% | FII: 2.2%
+
+4. *PREMIERPOL* 
+   Score: 61 | 👀 Watch
+   Vol: 92% | FII: 0.1%
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 *TOP 10 ANALYSIS*
+
+*#1. JAGSNPHARM* — 70/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 97.0%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 2.3% | DII: 0.6%
+   Momentum: +6.81%
+
+─────────────────────
+
+*#2. UNIDT* — 68/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 92.8%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.4% | DII: 0.0%
+   Momentum: +15.96%
+
+─────────────────────
+
+*#3. INDIAGLYCO* — 65/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 78.3%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 2.2% | DII: 5.2%
+   Momentum: +16.04%
+
+─────────────────────
+
+*#4. PREMIERPOL* — 61/100
+
+📊 *Scores:*
+   • Volume: 44/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 92.2%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.1% | DII: 1.0%
+   Momentum: +23.43%
+
+─────────────────────
+
+💡 *Legend:*
+Vol = % volume on up days (target >65%)
+Bonus = Multibagger signal points
+Del = Delivery %
