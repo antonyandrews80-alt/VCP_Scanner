@@ -1,0 +1,50 @@
+Date,Symbol,Price,% change,Roc 10days,Rsi 14,Sma 8,Scanner_Source,D change,M change,Rsi weekly,Mcap,Change,Dpower,Mpower,Sector
+25th Sep'26 3:29:00,AVADHSUGAR,796.5,10.0,0.258,60.08,736.8,M Swing scan,,,,,,,,
+25th Sep'26 3:29:00,BIRLACABLE,362.45,5.0,-3.26,55.8,378.44,M Swing scan,,,,,,,,
+25th Sep'26 3:29:00,MAZDA,280.05,4.67,7.3,63.57,259.97,M Swing scan,,,,,,,,
+25th Sep'26 3:29:00,BALRAMCHIN,685.8,4.0,-2.74,53.5,672.15,M Swing scan,,,,,,,,
+25th Sep'26 3:29:00,RANASUG,14.41,3.97,-2.96,51.3,14.31,M Swing scan,,,,,,,,
+25th Sep'26 3:29:00,ASIANENE,487.75,2.76,-8.65,51.77,487.22,M Swing scan,,,,,,,,
+25th Sep'26 3:29:00,RBA,92.51,2.05,-4.45,45.56,94.24,M Swing scan,,,,,,,,
+25th Sep'26 3:29:00,NITINSPIN,612.35,1.12,-5.72,49.38,614.87,M Swing scan,,,,,,,,
+25th Sep'26 3:29:00,SUNDRMFAST,1178.9,0.563,-6.15,46.71,1201.21,M Swing scan,,,,,,,,
+25th Sep'26 3:29:00,CRAFTSMAN,10735.0,0.233,-9.42,46.63,10884.0,M Swing scan,,,,,,,,
+25th Sep'26 3:29:00,ARVIND,549.05,-2.94,-3.64,49.29,547.17,M Swing scan,,,,,,,,
+25th Sep'26 3:29:00,UNIDT,241.71,-6.95,4.88,56.67,230.3,M Swing scan,,,,,,,,
+25th Sep'26 3:29:00,AVADHSUGAR,796.5,,0.258,60.08,736.8,RSI 5 SWING TRADE STRATEGY,10.0,-6.87,71.7,,,,,
+25th Sep'26 3:29:00,BIRLACABLE,362.45,,-3.26,55.8,378.44,RSI 5 SWING TRADE STRATEGY,5.0,16.97,69.48,,,,,
+25th Sep'26 3:29:00,RANASUG,14.41,,-2.96,51.3,14.31,RSI 5 SWING TRADE STRATEGY,3.97,-7.86,60.38,,,,,
+25th Sep'26 3:29:00,ASIANENE,487.75,,-8.65,51.77,487.22,RSI 5 SWING TRADE STRATEGY,2.76,3.45,65.18,,,,,
+25th Sep'26 3:29:00,ANDHRSUGAR,95.41,,-1.13,49.72,94.38,RSI 5 SWING TRADE STRATEGY,2.61,-4.25,57.34,,,,,
+25th Sep'26 3:29:00,SIGMA,45.61,,1.42,48.11,46.03,RSI 5 SWING TRADE STRATEGY,2.43,-5.67,51.72,,,,,
+25th Sep'26 3:29:00,CUB,225.57,,-0.389,49.13,228.55,RSI 5 SWING TRADE STRATEGY,2.29,-1.58,56.84,,,,,
+25th Sep'26 3:29:00,DIFFNKG,430.45,,-4.25,48.85,436.63,RSI 5 SWING TRADE STRATEGY,0.749,-11.34,59.08,,,,,
+25th Sep'26 3:29:00,SUNDRMFAST,1178.9,,-6.15,46.71,1201.21,RSI 5 SWING TRADE STRATEGY,0.563,-2.08,65.8,,,,,
+25th Sep'26 3:29:00,FINEORG,5083.0,,-1.42,44.77,5143.13,RSI 5 SWING TRADE STRATEGY,0.405,-3.78,55.01,,,,,
+25th Sep'26 3:29:00,AETHER,,,,,,Turtle strategy,,,,largecap,7.34,68.78,81.39,chemicals
+25th Sep'26 3:29:00,ARTEMISMED,,,,,,Turtle strategy,,,,midcap,7.51,65.0,66.96,healthcare
+25th Sep'26 3:29:00,MAWANASUG,,,,,,Turtle strategy,,,,smallcap,14.49,64.55,69.25,fmcg
+25th Sep'26 3:29:00,SHRIPISTON,,,,,,Turtle strategy,,,,largecap,4.86,64.09,80.21,auto
+25th Sep'26 3:29:00,ORIENTBELL,,,,,,Turtle strategy,,,,smallcap,4.22,63.51,60.83,building materials
+25th Sep'26 3:29:00,OCCLLTD,,,,,,Turtle strategy,,,,smallcap,5.0,61.69,66.33,chemicals
+25th Sep'26 3:29:00,TNPETRO,,,,,,Turtle strategy,,,,smallcap,4.69,61.32,66.08,energy
+25th Sep'26 3:29:00,AVADHSUGAR,,,,,,Turtle strategy,,,,smallcap,10.0,60.08,65.15,fmcg
+25th Sep'26 3:29:00,RBZJEWEL,,,,,,Turtle strategy,,,,smallcap,5.0,58.91,61.61,consumer discretionary
+25th Sep'26 3:29:00,MBAPL,,,,,,Turtle strategy,,,,smallcap,2.68,58.72,87.39,chemicals
+25th Sep'26 3:29:00,NEOGEN,,,,,,Turtle strategy,,,,midcap,2.54,57.88,66.03,chemicals
+25th Sep'26 3:29:00,KALYANIFRG,,,,,,Turtle strategy,,,,smallcap,3.98,57.51,73.34,"castings, forgings & fasteners"
+25th Sep'26 3:29:00,ADOR,,,,,,Turtle strategy,,,,smallcap,1.61,57.34,67.66,industrials
+25th Sep'26 3:29:00,MARINE,,,,,,Turtle strategy,,,,midcap,3.05,57.17,71.55,industrials
+25th Sep'26 3:29:00,APLAPOLLO,,,,,,Turtle strategy,,,,largecap,1.37,57.13,65.47,industrials
+25th Sep'26 3:29:00,ARIES,,,,,,Turtle strategy,,,,smallcap,1.37,56.58,68.67,chemicals
+25th Sep'26 3:29:00,MOTHERSON,,,,,,Turtle strategy,,,,largecap,1.98,56.33,67.4,auto
+25th Sep'26 3:29:00,AYMSYNTEX,,,,,,Turtle strategy,,,,smallcap,3.0,56.16,69.65,textiles
+25th Sep'26 3:29:00,NAVINFLUOR,,,,,,Turtle strategy,,,,largecap,1.46,56.12,79.48,chemicals
+25th Sep'26 3:29:00,YASHO,,,,,,Turtle strategy,,,,smallcap,4.71,56.1,77.7,chemicals
+25th Sep'26 3:29:00,BOSCHLTD,,,,,,Turtle strategy,,,,largecap,1.05,55.83,68.19,auto
+25th Sep'26 3:29:00,BIRLACABLE,,,,,,Turtle strategy,,,,smallcap,5.0,55.8,72.96,industrials
+25th Sep'26 3:29:00,HEG,,,,,,Turtle strategy,,,,midcap,4.83,55.64,64.01,industrials
+25th Sep'26 3:29:00,JGCHEM,,,,,,Turtle strategy,,,,smallcap,3.05,55.58,68.8,chemicals
+25th Sep'26 3:29:00,PANACHE,,,,,,Turtle strategy,,,,smallcap,1.96,55.53,68.39,i.t
+25th Sep'26 3:29:00,VADILALIND,,,,,,Turtle strategy,,,,midcap,1.63,55.13,69.37,fmcg
+25th Sep'26 3:29:00,AKSHARCHEM,,,,,,Turtle strategy,,,,smallcap,3.98,55.05,66.04,chemicals
