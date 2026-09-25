@@ -1,0 +1,97 @@
+🎯 *SMART MONEY REPORT*
+📅 2026-09-25 | ⏰ 19:34
+
+
+📈 *MARKET STATUS*
+🚨 MARKET WEAK: Nifty 3.6% BELOW 50 MA
+💰 Position Sizing: CASH/MINIMAL POSITIONS ONLY
+
+📊 Analyzed: 42 | Qualified: 3
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 *TOP 10 PICKS*
+
+1. *ARTEMISMED* 
+   Score: 69 | ✅ Buy
+   Vol: 93% | FII: 12.3%
+
+2. *UNIDT* 
+   Score: 68 | ✅ Buy
+   Vol: 82% | FII: 0.4%
+
+3. *MARINE* 
+   Score: 65 | ✅ Buy
+   Vol: 79% | FII: 1.1%
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 *TOP 10 ANALYSIS*
+
+*#1. ARTEMISMED* — 69/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 3/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 93.3%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 12.3% | DII: 2.4%
+   Momentum: +5.50%
+
+─────────────────────
+
+*#2. UNIDT* — 68/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 82.5%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.4% | DII: 0.0%
+   Momentum: +8.66%
+
+─────────────────────
+
+*#3. MARINE* — 65/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 79.0%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 1.1% | DII: 0.4%
+   Momentum: -0.49%
+
+─────────────────────
+
+💡 *Legend:*
+Vol = % volume on up days (target >65%)
+Bonus = Multibagger signal points
+Del = Delivery %
