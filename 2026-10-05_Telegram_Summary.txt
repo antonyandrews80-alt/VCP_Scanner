@@ -1,0 +1,197 @@
+🎯 *SMART MONEY REPORT*
+📅 2026-10-05 | ⏰ 21:19
+
+
+📈 *MARKET STATUS*
+🚨 MARKET WEAK: Nifty 5.4% BELOW 50 MA
+💰 Position Sizing: CASH/MINIMAL POSITIONS ONLY
+
+📊 Analyzed: 39 | Qualified: 7
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 *TOP 10 PICKS*
+
+1. *PREMIERPOL* 
+   Score: 68 | ✅ Buy
+   Vol: 91% | FII: 0.1%
+
+2. *GNA* 
+   Score: 67 | ✅ Buy
+   Vol: 85% | FII: 1.7%
+
+3. *SCI* 
+   Score: 65 | ✅ Buy
+   Vol: 82% | FII: 9.0%
+
+4. *TFCILTD* 
+   Score: 62 | 👀 Watch
+   Vol: 68% | FII: 5.5%
+
+5. *KMEW* 
+   Score: 61 | 👀 Watch
+   Vol: 63% | FII: 12.6%
+
+6. *NYKAA* 
+   Score: 55 | 👀 Watch
+   Vol: 69% | FII: 13.7%
+
+7. *APLLTD* 
+   Score: 54 | 👀 Watch
+   Vol: 66% | FII: 4.2%
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 *TOP 10 ANALYSIS*
+
+*#1. PREMIERPOL* — 68/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 90.7%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.1% | DII: 1.0%
+   Momentum: +9.41%
+
+─────────────────────
+
+*#2. GNA* — 67/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 3/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 84.7%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 1.7% | DII: 11.6%
+   Momentum: -1.62%
+
+─────────────────────
+
+*#3. SCI* — 65/100
+
+📊 *Scores:*
+   • Volume: 44/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 3/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 81.7%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 9.0% | DII: 2.1%
+   Momentum: +6.82%
+
+─────────────────────
+
+*#4. TFCILTD* — 62/100
+
+📊 *Scores:*
+   • Volume: 42/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 67.8%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 5.5% | DII: 0.0%
+   Momentum: -0.02%
+
+─────────────────────
+
+*#5. KMEW* — 61/100
+
+📊 *Scores:*
+   • Volume: 40/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 5/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 62.6%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 12.6% | DII: 3.9%
+   Momentum: +4.02%
+
+─────────────────────
+
+*#6. NYKAA* — 55/100
+
+📊 *Scores:*
+   • Volume: 24/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 8/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 69.5%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 13.7% | DII: 24.1%
+   Momentum: +4.32%
+
+─────────────────────
+
+*#7. APLLTD* — 54/100
+
+📊 *Scores:*
+   • Volume: 34/30
+   • Pattern: 9/25
+   • Sector: 10/12
+   • Institutional: 6/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 66.3%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 4.2% | DII: 15.9%
+   Momentum: -2.70%
+
+─────────────────────
+
+💡 *Legend:*
+Vol = % volume on up days (target >65%)
+Bonus = Multibagger signal points
+Del = Delivery %
