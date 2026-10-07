@@ -1,0 +1,46 @@
+Date,Symbol,Price,% change,Roc 10days,Rsi 14,Sma 8,Scanner_Source,D change,M change,Rsi weekly,Mcap,Change,Dpower,Mpower,Sector
+7th Oct'26 3:29:00,CHENNPETRO,1612.3,14.7,15.83,66.56,1427.89,M Swing scan,,,,,,,,
+7th Oct'26 3:29:00,ASIANENE,480.15,3.54,-1.93,51.02,472.66,M Swing scan,,,,,,,,
+7th Oct'26 3:29:00,WELENT,740.75,3.13,-5.49,51.91,737.2,M Swing scan,,,,,,,,
+7th Oct'26 3:29:00,BALRAMCHIN,706.6,2.21,6.89,58.45,677.59,M Swing scan,,,,,,,,
+7th Oct'26 3:29:00,INNOVACAP,1166.2,2.14,-4.93,50.36,1200.58,M Swing scan,,,,,,,,
+7th Oct'26 3:29:00,KAMDHENU,38.08,2.06,-8.26,49.11,38.15,M Swing scan,,,,,,,,
+7th Oct'26 3:29:00,PRABHA,225.82,2.03,-4.2,54.13,222.63,M Swing scan,,,,,,,,
+7th Oct'26 3:29:00,ORCHPHARMA,1023.95,1.73,-7.52,52.21,1010.83,M Swing scan,,,,,,,,
+7th Oct'26 3:29:00,DOLPHIN,652.9,1.48,-9.86,53.46,646.12,M Swing scan,,,,,,,,
+7th Oct'26 3:29:00,SHYAMMETL,1067.3,1.26,-2.45,51.37,1060.33,M Swing scan,,,,,,,,
+7th Oct'26 3:29:00,KALYANIFRG,914.8,1.08,-1.34,48.87,956.28,M Swing scan,,,,,,,,
+7th Oct'26 3:29:00,VSSL,393.75,1.03,-3.45,55.18,397.38,M Swing scan,,,,,,,,
+7th Oct'26 3:29:00,OAL,515.6,0.831,-7.42,54.0,529.52,M Swing scan,,,,,,,,
+7th Oct'26 3:29:00,CORDSCABLE,316.0,0.525,-17.47,48.28,323.37,M Swing scan,,,,,,,,
+7th Oct'26 3:29:00,CPCAP,155.22,0.447,2.32,62.82,147.64,M Swing scan,,,,,,,,
+7th Oct'26 3:29:00,DIVISLAB,9588.0,0.398,2.52,61.5,9434.38,M Swing scan,,,,,,,,
+7th Oct'26 3:29:00,SAILIFE,1561.8,0.237,-2.42,53.01,1553.97,M Swing scan,,,,,,,,
+7th Oct'26 3:29:00,SBCL,1099.3,-0.027,-2.45,53.6,1098.69,M Swing scan,,,,,,,,
+7th Oct'26 3:29:00,ENTERO,1713.3,-0.482,-6.98,49.46,1737.31,M Swing scan,,,,,,,,
+7th Oct'26 3:29:00,PASUPTAC,70.5,-0.55,-7.69,51.64,71.85,M Swing scan,,,,,,,,
+7th Oct'26 3:29:00,UCAL,141.57,-0.562,-2.45,51.15,140.62,M Swing scan,,,,,,,,
+7th Oct'26 3:29:00,VINDHYATEL,2810.1,-0.693,-1.93,58.16,2683.56,M Swing scan,,,,,,,,
+7th Oct'26 3:29:00,IVP,227.25,-0.73,-1.54,63.43,226.24,M Swing scan,,,,,,,,
+7th Oct'26 3:29:00,CAPLIPOINT,2649.1,-1.14,-4.62,46.78,2714.28,M Swing scan,,,,,,,,
+7th Oct'26 3:29:00,WOCKPHARMA,2150.4,-1.19,-1.6,52.86,2154.74,M Swing scan,,,,,,,,
+7th Oct'26 3:29:00,SVLL,824.9,-1.28,-4.93,54.57,818.08,M Swing scan,,,,,,,,
+7th Oct'26 3:29:00,DICIND,610.35,-1.43,-6.71,49.38,623.51,M Swing scan,,,,,,,,
+7th Oct'26 3:29:00,BIL,1072.9,-1.83,2.13,64.98,1029.04,M Swing scan,,,,,,,,
+7th Oct'26 3:29:00,MANALIPETC,90.48,-2.04,6.61,60.44,84.5,M Swing scan,,,,,,,,
+7th Oct'26 3:29:00,SAKAR,1020.1,-2.71,-14.16,44.95,1073.85,M Swing scan,,,,,,,,
+7th Oct'26 3:29:00,BLBLIMITED,16.91,,4.25,56.32,16.68,RSI 5 SWING TRADE STRATEGY,5.1,1.08,54.91,,,,,
+7th Oct'26 3:29:00,JTLIND,88.2,,-1.13,53.66,87.52,RSI 5 SWING TRADE STRATEGY,4.34,-0.091,59.28,,,,,
+7th Oct'26 3:29:00,WELENT,740.75,,-5.49,51.91,737.2,RSI 5 SWING TRADE STRATEGY,3.13,-0.263,62.94,,,,,
+7th Oct'26 3:29:00,INNOVACAP,1166.2,,-4.93,50.36,1200.58,RSI 5 SWING TRADE STRATEGY,2.14,0.552,64.42,,,,,
+7th Oct'26 3:29:00,CGCL,250.74,,-6.11,47.12,248.86,RSI 5 SWING TRADE STRATEGY,1.56,1.33,58.49,,,,,
+7th Oct'26 3:29:00,KALYANIFRG,914.8,,-1.34,48.87,956.28,RSI 5 SWING TRADE STRATEGY,1.08,-7.69,65.51,,,,,
+7th Oct'26 3:29:00,CHENNPETRO,,,,,,Turtle strategy,,,,largecap,14.7,66.56,79.12,energy
+7th Oct'26 3:29:00,DEEPINDS,,,,,,Turtle strategy,,,,smallcap,6.23,62.12,74.11,energy
+7th Oct'26 3:29:00,AEGISLOG,,,,,,Turtle strategy,,,,largecap,4.61,59.79,78.25,services
+7th Oct'26 3:29:00,MCX,,,,,,Turtle strategy,,,,largecap,1.59,57.31,76.53,financials
+7th Oct'26 3:29:00,ANTELOPUS,,,,,,Turtle strategy,,,,smallcap,2.69,56.35,71.25,energy
+7th Oct'26 3:29:00,WELCORP,,,,,,Turtle strategy,,,,largecap,1.64,56.0,88.57,industrials
+7th Oct'26 3:29:00,MBAPL,,,,,,Turtle strategy,,,,smallcap,0.641,55.78,85.45,chemicals
+7th Oct'26 3:29:00,TCPLPACK,,,,,,Turtle strategy,,,,smallcap,0.589,55.32,63.2,industrials
+7th Oct'26 3:29:00,VSSL,,,,,,Turtle strategy,,,,smallcap,1.03,55.18,67.74,metals & mining
