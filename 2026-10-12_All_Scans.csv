@@ -1,0 +1,82 @@
+Date,Symbol,Price,% change,Roc 10days,Rsi 14,Sma 8,Scanner_Source,D change,M change,Rsi weekly,Mcap,Change,Dpower,Mpower,Sector
+12th Oct'26 3:29:00,SBCL,1100.7,5.67,-4.66,53.72,1075.8,M Swing scan,,,,,,,,
+12th Oct'26 3:29:00,MACPOWER,2000.2,5.34,-3.02,50.8,2054.29,M Swing scan,,,,,,,,
+12th Oct'26 3:29:00,TBZ,624.65,4.99,-4.72,62.46,605.72,M Swing scan,,,,,,,,
+12th Oct'26 3:29:00,CORDSCABLE,301.5,4.98,-13.56,45.26,310.01,M Swing scan,,,,,,,,
+12th Oct'26 3:29:00,VENUSPIPES,2142.6,4.96,-0.952,56.41,2167.63,M Swing scan,,,,,,,,
+12th Oct'26 3:29:00,KOPRAN,261.5,4.16,-8.09,52.32,267.75,M Swing scan,,,,,,,,
+12th Oct'26 3:29:00,FINCABLES,1438.3,3.57,-1.55,56.1,1445.39,M Swing scan,,,,,,,,
+12th Oct'26 3:29:00,BODALCHEM,177.77,3.0,-12.0,54.72,183.05,M Swing scan,,,,,,,,
+12th Oct'26 3:29:00,WORTHPERI,159.47,2.95,10.02,62.46,146.13,M Swing scan,,,,,,,,
+12th Oct'26 3:29:00,REDINGTON,390.2,2.68,-4.19,51.02,398.51,M Swing scan,,,,,,,,
+12th Oct'26 3:29:00,SANSERA,4228.2,2.51,-9.31,51.59,4260.29,M Swing scan,,,,,,,,
+12th Oct'26 3:29:00,KAMDHENU,37.35,2.41,-6.53,46.61,37.29,M Swing scan,,,,,,,,
+12th Oct'26 3:29:00,ACE,1201.1,2.06,-2.08,52.2,1216.46,M Swing scan,,,,,,,,
+12th Oct'26 3:29:00,UFLEX,633.95,1.97,-4.55,49.14,638.0,M Swing scan,,,,,,,,
+12th Oct'26 3:29:00,LALPATHLAB,1969.7,1.87,0.891,56.36,1959.36,M Swing scan,,,,,,,,
+12th Oct'26 3:29:00,VSSL,377.95,1.22,-8.15,46.8,385.18,M Swing scan,,,,,,,,
+12th Oct'26 3:29:00,ENGINERSIN,296.45,1.14,-6.08,54.38,303.79,M Swing scan,,,,,,,,
+12th Oct'26 3:29:00,RML,1297.4,0.949,-1.88,49.52,1332.54,M Swing scan,,,,,,,,
+12th Oct'26 3:29:00,AUROPHARMA,1706.9,0.821,-0.298,55.67,1680.42,M Swing scan,,,,,,,,
+12th Oct'26 3:29:00,NRBBEARING,524.2,-0.143,-1.98,54.59,529.83,M Swing scan,,,,,,,,
+12th Oct'26 3:29:00,MWL,41.23,-0.794,-4.27,48.78,41.91,M Swing scan,,,,,,,,
+12th Oct'26 3:29:00,VALIANTLAB,118.59,-1.01,-5.03,53.0,122.4,M Swing scan,,,,,,,,
+12th Oct'26 3:29:00,INDORAMA,91.41,-1.06,-8.0,53.43,94.11,M Swing scan,,,,,,,,
+12th Oct'26 3:29:00,SUBEXLTD,18.75,-2.24,-12.42,48.39,19.17,M Swing scan,,,,,,,,
+12th Oct'26 3:29:00,STARPAPER,157.8,,1.77,55.74,152.04,RSI 5 SWING TRADE STRATEGY,6.99,3.46,56.51,,,,,
+12th Oct'26 3:29:00,SBCL,1100.7,,-4.66,53.72,1075.8,RSI 5 SWING TRADE STRATEGY,5.67,2.71,68.23,,,,,
+12th Oct'26 3:29:00,MACPOWER,2000.2,,-3.02,50.8,2054.29,RSI 5 SWING TRADE STRATEGY,5.34,-4.57,64.96,,,,,
+12th Oct'26 3:29:00,RPGLIFE,2863.5,,-6.13,51.37,2885.57,RSI 5 SWING TRADE STRATEGY,5.31,-5.72,58.53,,,,,
+12th Oct'26 3:29:00,CORDSCABLE,301.5,,-13.56,45.26,310.01,RSI 5 SWING TRADE STRATEGY,4.98,-9.32,60.07,,,,,
+12th Oct'26 3:29:00,VENUSPIPES,2142.6,,-0.952,56.41,2167.63,RSI 5 SWING TRADE STRATEGY,4.96,-0.21,66.74,,,,,
+12th Oct'26 3:29:00,PDMJEPAPER,96.05,,1.67,51.67,95.22,RSI 5 SWING TRADE STRATEGY,4.18,-1.2,54.93,,,,,
+12th Oct'26 3:29:00,KOPRAN,261.5,,-8.09,52.32,267.75,RSI 5 SWING TRADE STRATEGY,4.16,-6.04,65.87,,,,,
+12th Oct'26 3:29:00,EDELWEISS,132.9,,-2.87,49.79,134.24,RSI 5 SWING TRADE STRATEGY,3.92,-6.89,57.45,,,,,
+12th Oct'26 3:29:00,FINCABLES,1438.3,,-1.55,56.1,1445.39,RSI 5 SWING TRADE STRATEGY,3.57,-0.827,66.58,,,,,
+12th Oct'26 3:29:00,ZUARIIND,277.05,,-4.53,51.24,279.03,RSI 5 SWING TRADE STRATEGY,3.15,-1.82,52.96,,,,,
+12th Oct'26 3:29:00,VETO,135.7,,-9.73,50.29,137.02,RSI 5 SWING TRADE STRATEGY,3.09,-4.92,56.75,,,,,
+12th Oct'26 3:29:00,BODALCHEM,177.77,,-12.0,54.72,183.05,RSI 5 SWING TRADE STRATEGY,3.0,-10.38,74.41,,,,,
+12th Oct'26 3:29:00,REDINGTON,390.2,,-4.19,51.02,398.51,RSI 5 SWING TRADE STRATEGY,2.68,-4.13,67.06,,,,,
+12th Oct'26 3:29:00,AARTIPHARM,878.35,,-6.51,48.57,926.26,RSI 5 SWING TRADE STRATEGY,2.67,-7.91,58.58,,,,,
+12th Oct'26 3:29:00,VIDHIING,341.0,,-1.37,48.03,345.84,RSI 5 SWING TRADE STRATEGY,2.59,-4.64,55.76,,,,,
+12th Oct'26 3:29:00,SANSERA,4228.2,,-9.31,51.59,4260.29,RSI 5 SWING TRADE STRATEGY,2.51,-6.82,68.13,,,,,
+12th Oct'26 3:29:00,KAMDHENU,37.35,,-6.53,46.61,37.29,RSI 5 SWING TRADE STRATEGY,2.41,-1.92,61.67,,,,,
+12th Oct'26 3:29:00,HARSHA,452.45,,-2.08,50.12,458.62,RSI 5 SWING TRADE STRATEGY,2.38,-3.8,57.41,,,,,
+12th Oct'26 3:29:00,ACE,1201.1,,-2.08,52.2,1216.46,RSI 5 SWING TRADE STRATEGY,2.06,-2.51,66.0,,,,,
+12th Oct'26 3:29:00,GMMPFAUDLR,1325.7,,-11.93,49.3,1390.79,RSI 5 SWING TRADE STRATEGY,1.99,-9.61,64.75,,,,,
+12th Oct'26 3:29:00,GALAPREC,1093.1,,-4.83,49.13,1138.21,RSI 5 SWING TRADE STRATEGY,1.98,-8.7,57.16,,,,,
+12th Oct'26 3:29:00,UFLEX,633.95,,-4.55,49.14,638.0,RSI 5 SWING TRADE STRATEGY,1.97,-3.63,66.26,,,,,
+12th Oct'26 3:29:00,SHIVALIK,355.05,,-13.07,47.31,372.57,RSI 5 SWING TRADE STRATEGY,1.6,-12.0,58.98,,,,,
+12th Oct'26 3:29:00,VSSL,377.95,,-8.15,46.8,385.18,RSI 5 SWING TRADE STRATEGY,1.22,-5.76,66.16,,,,,
+12th Oct'26 3:29:00,GREAVESCOT,209.66,,-10.7,49.05,217.56,RSI 5 SWING TRADE STRATEGY,1.18,-8.95,52.66,,,,,
+12th Oct'26 3:29:00,ASHIANA,374.55,,-3.89,49.53,379.38,RSI 5 SWING TRADE STRATEGY,0.537,-2.97,54.68,,,,,
+12th Oct'26 3:29:00,ARCHIDPLY,100.2,,-5.7,45.84,101.56,RSI 5 SWING TRADE STRATEGY,0.451,-3.19,59.73,,,,,
+12th Oct'26 3:29:00,IVP,,,,,,Turtle strategy,,,,smallcap,11.22,71.02,64.59,chemicals
+12th Oct'26 3:29:00,GOODLUCK,,,,,,Turtle strategy,,,,smallcap,13.21,67.72,68.72,metals & mining
+12th Oct'26 3:29:00,NRAIL,,,,,,Turtle strategy,,,,smallcap,11.0,67.02,72.83,building materials
+12th Oct'26 3:29:00,NEOGEN,,,,,,Turtle strategy,,,,midcap,6.57,62.83,68.13,chemicals
+12th Oct'26 3:29:00,CARTRADE,,,,,,Turtle strategy,,,,midcap,8.14,62.8,68.0,consumer discretionary
+12th Oct'26 3:29:00,SANATHAN,,,,,,Turtle strategy,,,,smallcap,4.06,60.2,62.97,textiles
+12th Oct'26 3:29:00,MODISONLTD,,,,,,Turtle strategy,,,,smallcap,5.0,59.13,81.04,industrials
+12th Oct'26 3:29:00,WELCORP,,,,,,Turtle strategy,,,,largecap,5.81,58.92,89.52,industrials
+12th Oct'26 3:29:00,KRONOX,,,,,,Turtle strategy,,,,smallcap,4.97,58.87,62.47,chemicals
+12th Oct'26 3:29:00,KTKBANK,,,,,,Turtle strategy,,,,midcap,2.88,58.18,74.93,bank
+12th Oct'26 3:29:00,ORBTEXP,,,,,,Turtle strategy,,,,smallcap,2.48,58.17,61.12,textiles
+12th Oct'26 3:29:00,AZAD,,,,,,Turtle strategy,,,,midcap,2.0,57.69,74.64,aerospace & defence
+12th Oct'26 3:29:00,TATVA,,,,,,Turtle strategy,,,,smallcap,3.67,57.66,62.77,chemicals
+12th Oct'26 3:29:00,MCX,,,,,,Turtle strategy,,,,largecap,2.16,57.59,76.79,financials
+12th Oct'26 3:29:00,RGL,,,,,,Turtle strategy,,,,smallcap,2.21,57.08,62.95,consumer discretionary
+12th Oct'26 3:29:00,RPEL,,,,,,Turtle strategy,,,,midcap,3.71,57.08,75.14,building materials
+12th Oct'26 3:29:00,MOTILALOFS,,,,,,Turtle strategy,,,,largecap,2.44,56.74,62.2,financials
+12th Oct'26 3:29:00,SHYAMMETL,,,,,,Turtle strategy,,,,largecap,2.68,56.62,66.36,metals & mining
+12th Oct'26 3:29:00,VENUSPIPES,,,,,,Turtle strategy,,,,smallcap,4.96,56.41,67.12,metals & mining
+12th Oct'26 3:29:00,LALPATHLAB,,,,,,Turtle strategy,,,,largecap,1.87,56.36,68.71,healthcare
+12th Oct'26 3:29:00,IGPL,,,,,,Turtle strategy,,,,smallcap,2.33,56.23,62.34,chemicals
+12th Oct'26 3:29:00,DCBBANK,,,,,,Turtle strategy,,,,midcap,5.45,56.15,63.45,bank
+12th Oct'26 3:29:00,FINCABLES,,,,,,Turtle strategy,,,,largecap,3.57,56.1,64.36,industrials
+12th Oct'26 3:29:00,BALRAMCHIN,,,,,,Turtle strategy,,,,midcap,3.34,55.91,67.46,fmcg
+12th Oct'26 3:29:00,EBGNG,,,,,,Turtle strategy,,,,midcap,1.86,55.75,72.35,services
+12th Oct'26 3:29:00,JGCHEM,,,,,,Turtle strategy,,,,smallcap,2.1,55.61,70.48,chemicals
+12th Oct'26 3:29:00,AVALON,,,,,,Turtle strategy,,,,midcap,3.37,55.59,80.59,consumer discretionary
+12th Oct'26 3:29:00,RUBYMILLS,,,,,,Turtle strategy,,,,smallcap,1.05,55.24,76.35,textiles
+12th Oct'26 3:29:00,DIVISLAB,,,,,,Turtle strategy,,,,largecap,0.921,55.12,74.62,healthcare
