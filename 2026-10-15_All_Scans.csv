@@ -1,0 +1,11 @@
+Date,Symbol,Price,% change,Roc 10days,Rsi 14,Sma 8,Scanner_Source,D change,M change,Rsi weekly,Mcap,Change,Dpower,Mpower,Sector
+15th Oct'26 3:29:00,IRISDOREME,63.13,5.71,2.57,58.43,59.54,M Swing scan,,,,,,,,
+15th Oct'26 3:29:00,KANORICHEM,190.04,4.87,-4.39,58.95,177.99,M Swing scan,,,,,,,,
+15th Oct'26 3:29:00,VSSL,372.3,0.662,-7.17,45.24,377.18,M Swing scan,,,,,,,,
+15th Oct'26 3:29:00,CEIGALL,389.0,0.167,1.63,61.81,377.56,M Swing scan,,,,,,,,
+15th Oct'26 3:29:00,INDSWFTLAB,357.95,-3.18,-7.92,44.32,371.07,M Swing scan,,,,,,,,
+15th Oct'26 3:29:00,SIKKO,6.05,-3.2,-4.42,52.8,6.02,M Swing scan,,,,,,,,
+15th Oct'26 3:29:00,GALAPREC,1068.2,,-10.78,45.45,1102.78,RSI 5 SWING TRADE STRATEGY,0.169,-10.78,55.24,,,,,
+15th Oct'26 3:29:00,KANORICHEM,,,,,,Turtle strategy,,,,smallcap,4.87,58.95,71.39,chemicals
+15th Oct'26 3:29:00,MOTILALOFS,,,,,,Turtle strategy,,,,largecap,2.26,57.18,62.61,financials
+15th Oct'26 3:29:00,IGPL,,,,,,Turtle strategy,,,,smallcap,0.477,55.14,62.2,chemicals
