@@ -1,0 +1,15 @@
+Date,Symbol,Price,% change,Roc 10days,Rsi 14,Sma 8,Scanner_Source,D change,M change,Rsi weekly,Mcap,Change,Dpower,Mpower,Sector
+23rd Oct'26 3:29:00,ANTELOPUS,1136.4,13.0,2.77,57.66,1048.6,M Swing scan,,,,,,,,
+23rd Oct'26 3:29:00,BHAGERIA,354.35,2.84,-3.45,51.64,360.45,M Swing scan,,,,,,,,
+23rd Oct'26 3:29:00,WHEELS,2157.8,2.33,-2.28,48.0,2311.15,M Swing scan,,,,,,,,
+23rd Oct'26 3:29:00,PGIL,1224.0,1.02,-3.8,46.87,1259.08,M Swing scan,,,,,,,,
+23rd Oct'26 3:29:00,WELSPUNLIV,209.92,-1.88,-6.73,43.21,218.13,M Swing scan,,,,,,,,
+23rd Oct'26 3:29:00,ANTELOPUS,1136.4,,2.77,57.66,1048.6,RSI 5 SWING TRADE STRATEGY,13.0,0.933,62.71,,,,,
+23rd Oct'26 3:29:00,GRWRHITECH,7034.0,,1.52,53.39,6975.5,RSI 5 SWING TRADE STRATEGY,5.62,0.264,66.1,,,,,
+23rd Oct'26 3:29:00,BHAGERIA,354.35,,-3.45,51.64,360.45,RSI 5 SWING TRADE STRATEGY,2.84,-12.82,70.48,,,,,
+23rd Oct'26 3:29:00,WHEELS,2157.8,,-2.28,48.0,2311.15,RSI 5 SWING TRADE STRATEGY,2.33,-2.85,63.88,,,,,
+23rd Oct'26 3:29:00,PGIL,1224.0,,-3.8,46.87,1259.08,RSI 5 SWING TRADE STRATEGY,1.02,-4.53,60.82,,,,,
+23rd Oct'26 3:29:00,SHIVAUM,540.0,,-2.09,59.6,548.35,RSI 5 SWING TRADE STRATEGY,0.185,-3.08,72.16,,,,,
+23rd Oct'26 3:29:00,SSWL,,,,,,Turtle strategy,,,,midcap,19.99,70.8,77.12,auto
+23rd Oct'26 3:29:00,NAZARA,,,,,,Turtle strategy,,,,midcap,3.66,58.25,70.95,i.t
+23rd Oct'26 3:29:00,ANTELOPUS,,,,,,Turtle strategy,,,,smallcap,13.0,57.66,71.41,energy
