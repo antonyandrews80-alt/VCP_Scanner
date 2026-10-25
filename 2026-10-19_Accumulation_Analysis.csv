@@ -1,9 +1,0 @@
-symbol,volume_conviction,accumulation_pattern,sector_strength,institutional_score,multibagger_bonus,delivery_pct,fii_holding,dii_holding,volume_trend,price_momentum,block_buying_detected,sustained_volume,price_tightening,volume_distribution,total_score,signal,close
-SMARTLINK,52.0,15,10,1,0,0.0,0.0,0.0,Rising,17.369269042317413,False,False,False,92.94827684331976,65.0,Buy,256.9800109863281
-RGL,10.0,15,10,1,6,0.0,4.15,0.14,Declining,-1.6032914894371642,False,False,True,66.36277940543926,35.0,Avoid,165.08999633789062
-GESHIP,4.0,12,10,8,6,0.0,29.52,11.61,Rising,-1.4721109709387115,False,False,True,48.251541336811535,33.33333333333333,Avoid,1519.300048828125
-KOPRAN,10.0,15,10,1,0,0.0,0.91,0.0,Rising,5.258178012313475,False,False,False,68.96587753380459,30.0,Avoid,278.25
-ACMESOLAR,4.0,9,10,6,0,0.0,4.39,19.1,Stable,0.9179822879358257,False,False,False,52.1279190567502,24.166666666666668,Avoid,417.75
-RPTECH,4.0,9,10,5,0,0.0,3.99,11.89,Stable,-3.386304734726886,False,False,False,34.43704723799901,23.333333333333332,Avoid,860.2000122070312
-MARINE,4.0,9,10,1,0,0.0,1.12,0.41,Declining,-8.903171654580754,False,False,False,45.394949154284866,20.0,Avoid,432.29998779296875
-CCAVENUE,4.0,5,10,1,0,0.0,5.85,0.17,Declining,-5.965292710017145,False,False,False,25.585347019621334,16.666666666666664,Avoid,130.0500030517578
