@@ -1,0 +1,45 @@
+Date,Symbol,Price,% change,Roc 10days,Rsi 14,Sma 8,Scanner_Source,D change,M change,Rsi weekly,Mcap,Change,Dpower,Mpower,Sector
+27th Oct'26 3:29:00,ATHERENERG,1674.0,6.29,10.79,66.27,1487.56,M Swing scan,,,,,,,,
+27th Oct'26 3:29:00,BHAGERIA,358.2,5.4,-5.82,52.77,352.16,M Swing scan,,,,,,,,
+27th Oct'26 3:29:00,RUBYMILLS,466.7,4.78,-3.58,46.85,486.18,M Swing scan,,,,,,,,
+27th Oct'26 3:29:00,MBAPL,167.26,4.5,0.463,54.31,164.01,M Swing scan,,,,,,,,
+27th Oct'26 3:29:00,GLAND,2960.3,4.09,-3.84,50.91,2943.24,M Swing scan,,,,,,,,
+27th Oct'26 3:29:00,LAURUSLABS,2142.0,4.04,3.52,64.75,2041.69,M Swing scan,,,,,,,,
+27th Oct'26 3:29:00,PTCIL,24055.0,3.73,-6.46,53.15,24416.25,M Swing scan,,,,,,,,
+27th Oct'26 3:29:00,STOVEKRAFT,840.7,3.69,5.1,55.13,833.11,M Swing scan,,,,,,,,
+27th Oct'26 3:29:00,MMP,444.5,3.61,-10.17,45.77,461.37,M Swing scan,,,,,,,,
+27th Oct'26 3:29:00,CPCAP,152.07,3.46,-13.43,52.36,150.91,M Swing scan,,,,,,,,
+27th Oct'26 3:29:00,AAREYDRUGS,106.58,3.29,1.71,53.94,109.3,M Swing scan,,,,,,,,
+27th Oct'26 3:29:00,LOTUSDEV,242.84,2.86,2.03,59.89,238.09,M Swing scan,,,,,,,,
+27th Oct'26 3:29:00,SHREEPUSHK,503.5,2.62,2.14,54.78,489.51,M Swing scan,,,,,,,,
+27th Oct'26 3:29:00,CPPLUS,3968.2,2.61,-4.01,52.05,3953.15,M Swing scan,,,,,,,,
+27th Oct'26 3:29:00,NRAIL,674.25,2.27,-4.51,51.95,693.21,M Swing scan,,,,,,,,
+27th Oct'26 3:29:00,WESTLIFE,600.7,2.23,2.35,58.85,566.17,M Swing scan,,,,,,,,
+27th Oct'26 3:29:00,WHEELS,2251.6,2.08,-3.64,53.4,2276.36,M Swing scan,,,,,,,,
+27th Oct'26 3:29:00,BIL,1024.1,0.333,-4.81,51.42,1026.77,M Swing scan,,,,,,,,
+27th Oct'26 3:29:00,VALIANTORG,426.45,-2.1,-9.62,49.31,441.75,M Swing scan,,,,,,,,
+27th Oct'26 3:29:00,MAZDA,276.0,,-5.56,50.05,276.44,RSI 5 SWING TRADE STRATEGY,7.37,-9.0,58.43,,,,,
+27th Oct'26 3:29:00,MANAKCOAT,128.22,,1.52,52.74,125.86,RSI 5 SWING TRADE STRATEGY,6.84,0.977,55.73,,,,,
+27th Oct'26 3:29:00,RUBYMILLS,466.7,,-3.58,46.85,486.18,RSI 5 SWING TRADE STRATEGY,4.78,-6.61,63.28,,,,,
+27th Oct'26 3:29:00,KRONOX,193.6,,-6.98,48.2,197.81,RSI 5 SWING TRADE STRATEGY,4.69,-10.53,57.37,,,,,
+27th Oct'26 3:29:00,GOODLUCK,553.2,,-2.32,54.12,566.32,RSI 5 SWING TRADE STRATEGY,4.41,8.89,59.34,,,,,
+27th Oct'26 3:29:00,GLAND,2960.3,,-3.84,50.91,2943.24,RSI 5 SWING TRADE STRATEGY,4.09,2.1,64.03,,,,,
+27th Oct'26 3:29:00,PTCIL,24055.0,,-6.46,53.15,24416.25,RSI 5 SWING TRADE STRATEGY,3.73,8.4,66.47,,,,,
+27th Oct'26 3:29:00,MMP,444.5,,-10.17,45.77,461.37,RSI 5 SWING TRADE STRATEGY,3.61,-6.39,64.26,,,,,
+27th Oct'26 3:29:00,ABDL,693.15,,-1.76,50.52,707.3,RSI 5 SWING TRADE STRATEGY,3.29,-3.58,58.52,,,,,
+27th Oct'26 3:29:00,AAREYDRUGS,106.58,,1.71,53.94,109.3,RSI 5 SWING TRADE STRATEGY,3.29,3.76,64.22,,,,,
+27th Oct'26 3:29:00,SANATHAN,496.65,,-5.16,45.88,519.54,RSI 5 SWING TRADE STRATEGY,1.98,-2.26,55.22,,,,,
+27th Oct'26 3:29:00,SONAMLTD,70.14,,-1.53,47.85,73.24,RSI 5 SWING TRADE STRATEGY,1.14,2.92,59.24,,,,,
+27th Oct'26 3:29:00,PROZONER,51.07,,-3.64,46.18,52.26,RSI 5 SWING TRADE STRATEGY,1.07,-9.64,51.82,,,,,
+27th Oct'26 3:29:00,IIFLCAPS,341.95,,-0.393,46.2,344.17,RSI 5 SWING TRADE STRATEGY,0.352,-1.17,54.02,,,,,
+27th Oct'26 3:29:00,SAMBHV,,,,,,Turtle strategy,,,,smallcap,6.83,61.74,62.09,metals & mining
+27th Oct'26 3:29:00,RATNAVEER,,,,,,Turtle strategy,,,,smallcap,4.4,59.74,78.71,metals & mining
+27th Oct'26 3:29:00,MOREPENLAB,,,,,,Turtle strategy,,,,midcap,4.9,58.63,76.94,healthcare
+27th Oct'26 3:29:00,DIVISLAB,,,,,,Turtle strategy,,,,largecap,5.03,58.3,74.95,healthcare
+27th Oct'26 3:29:00,APLAPOLLO,,,,,,Turtle strategy,,,,largecap,6.55,57.82,65.01,industrials
+27th Oct'26 3:29:00,SHYAMMETL,,,,,,Turtle strategy,,,,largecap,2.45,56.88,69.16,metals & mining
+27th Oct'26 3:29:00,INDIAGLYCO,,,,,,Turtle strategy,,,,smallcap,16.12,56.55,75.8,fmcg
+27th Oct'26 3:29:00,TBZ,,,,,,Turtle strategy,,,,smallcap,4.59,56.45,87.77,consumer discretionary
+27th Oct'26 3:29:00,ETERNAL,,,,,,Turtle strategy,,,,largecap,1.67,56.27,65.26,i.t
+27th Oct'26 3:29:00,BLUSPRING,,,,,,Turtle strategy,,,,smallcap,3.98,55.24,75.24,miscellaneous
+27th Oct'26 3:29:00,THELEELA,,,,,,Turtle strategy,,,,midcap,1.77,55.13,73.54,services
