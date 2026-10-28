@@ -1,0 +1,27 @@
+Date,Symbol,Price,% change,Roc 10days,Rsi 14,Sma 8,Scanner_Source,D change,M change,Rsi weekly,Mcap,Change,Dpower,Mpower,Sector
+28th Oct'26 3:29:00,SMSPHARMA,475.45,7.37,8.48,61.67,437.34,M Swing scan,,,,,,,,
+28th Oct'26 3:29:00,VALIANTORG,456.2,6.98,0.907,56.88,440.24,M Swing scan,,,,,,,,
+28th Oct'26 3:29:00,MAZDA,293.2,6.23,-5.69,56.15,274.63,M Swing scan,,,,,,,,
+28th Oct'26 3:29:00,SETL,386.65,4.95,2.67,54.22,350.39,M Swing scan,,,,,,,,
+28th Oct'26 3:29:00,RUBYMILLS,485.5,4.03,-1.33,51.7,482.16,M Swing scan,,,,,,,,
+28th Oct'26 3:29:00,MANAKSTEEL,106.95,3.78,-4.06,50.38,107.35,M Swing scan,,,,,,,,
+28th Oct'26 3:29:00,GLAND,3049.0,3.0,-1.36,57.02,2941.07,M Swing scan,,,,,,,,
+28th Oct'26 3:29:00,NAVINFLUOR,8501.0,2.99,0.39,56.55,8045.75,M Swing scan,,,,,,,,
+28th Oct'26 3:29:00,LAURUSLABS,2181.9,1.86,5.95,67.63,2062.11,M Swing scan,,,,,,,,
+28th Oct'26 3:29:00,STOVEKRAFT,856.3,1.86,5.16,58.62,834.4,M Swing scan,,,,,,,,
+28th Oct'26 3:29:00,AAREYDRUGS,108.05,1.38,4.94,56.18,109.21,M Swing scan,,,,,,,,
+28th Oct'26 3:29:00,MMP,450.25,1.29,-7.51,47.5,455.8,M Swing scan,,,,,,,,
+28th Oct'26 3:29:00,LOTUSDEV,245.93,1.27,6.59,61.48,238.81,M Swing scan,,,,,,,,
+28th Oct'26 3:29:00,KOPRAN,252.45,1.26,-4.5,46.59,259.04,M Swing scan,,,,,,,,
+28th Oct'26 3:29:00,CPCAP,153.64,1.03,-7.48,53.38,150.0,M Swing scan,,,,,,,,
+28th Oct'26 3:29:00,MBAPL,168.87,0.963,3.65,56.25,163.78,M Swing scan,,,,,,,,
+28th Oct'26 3:29:00,NRAIL,677.2,0.438,-10.2,52.54,682.67,M Swing scan,,,,,,,,
+28th Oct'26 3:29:00,CPPLUS,3979.0,0.272,-9.08,52.46,3936.89,M Swing scan,,,,,,,,
+28th Oct'26 3:29:00,PTCIL,24005.0,-0.208,-5.86,52.74,24286.25,M Swing scan,,,,,,,,
+28th Oct'26 3:29:00,BIL,1017.9,-0.605,-3.5,50.01,1022.92,M Swing scan,,,,,,,,
+28th Oct'26 3:29:00,ATHERENERG,1650.0,-1.43,10.38,63.57,1510.06,M Swing scan,,,,,,,,
+28th Oct'26 3:29:00,MANAKSTEEL,106.95,,-4.06,50.38,107.35,RSI 5 SWING TRADE STRATEGY,3.78,-3.06,63.54,,,,,
+28th Oct'26 3:29:00,PPLPHARMA,,,,,,Turtle strategy,,,,largecap,17.15,71.93,61.06,healthcare
+28th Oct'26 3:29:00,SHREEPUSHK,,,,,,Turtle strategy,,,,smallcap,7.79,64.28,68.61,chemicals
+28th Oct'26 3:29:00,SMSPHARMA,,,,,,Turtle strategy,,,,smallcap,7.37,61.67,71.3,healthcare
+28th Oct'26 3:29:00,AAREYDRUGS,,,,,,Turtle strategy,,,,smallcap,1.38,56.18,61.77,healthcare
