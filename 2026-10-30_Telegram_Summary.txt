@@ -1,0 +1,72 @@
+🎯 *SMART MONEY REPORT*
+📅 2026-10-30 | ⏰ 19:31
+
+
+📈 *MARKET STATUS*
+🚨 MARKET WEAK: Nifty 0.9% BELOW 50 MA
+💰 Position Sizing: CASH/MINIMAL POSITIONS ONLY
+
+📊 Analyzed: 5 | Qualified: 2
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 *TOP 10 PICKS*
+
+1. *BOROLTD* 
+   Score: 65 | ✅ Buy
+   Vol: 92% | FII: 0.4%
+
+2. *SAREGAMA* 
+   Score: 53 | 👀 Watch
+   Vol: 80% | FII: 11.9%
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 *TOP 10 ANALYSIS*
+
+*#1. BOROLTD* — 65/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 15/25
+   • Sector: 10/12
+   • Institutional: 1/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 91.8%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 0.4% | DII: 6.4%
+   Momentum: +20.67%
+
+─────────────────────
+
+*#2. SAREGAMA* — 53/100
+
+📊 *Scores:*
+   • Volume: 26/30
+   • Pattern: 22/25
+   • Sector: 10/12
+   • Institutional: 6/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 80.3%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 11.9% | DII: 9.4%
+   Momentum: +12.19%
+
+─────────────────────
+
+💡 *Legend:*
+Vol = % volume on up days (target >65%)
+Bonus = Multibagger signal points
+Del = Delivery %
