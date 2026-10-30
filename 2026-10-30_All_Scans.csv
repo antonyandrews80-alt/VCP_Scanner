@@ -1,0 +1,6 @@
+Date,Symbol,Price,% change,Roc 10days,Rsi 14,Sma 8,Scanner_Source,D change,M change,Rsi weekly,Mcap,Change,Dpower,Mpower,Sector
+30th Oct'26 3:29:00,MANAKSTEEL,108.31,-3.07,-1.79,51.58,106.67,M Swing scan,,,,,,,,
+30th Oct'26 3:28:00,BOROLTD,286.4,,5.96,63.1,246.36,RSI 5 SWING TRADE STRATEGY,19.98,-2.38,59.07,,,,,
+30th Oct'26 3:29:00,ZYDUSLIFE,,,,,,Turtle strategy,,,,largecap,5.16,70.87,72.96,healthcare
+30th Oct'26 3:29:00,SAREGAMA,,,,,,Turtle strategy,,,,midcap,2.36,66.33,60.71,media
+30th Oct'26 3:29:00,SHYAMMETL,,,,,,Turtle strategy,,,,largecap,1.87,58.02,69.51,metals & mining
