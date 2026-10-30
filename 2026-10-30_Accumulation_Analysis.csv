@@ -1,0 +1,6 @@
+symbol,volume_conviction,accumulation_pattern,sector_strength,institutional_score,multibagger_bonus,delivery_pct,fii_holding,dii_holding,volume_trend,price_momentum,block_buying_detected,sustained_volume,price_tightening,volume_distribution,total_score,signal,close
+BOROLTD,52.0,15,10,1,0,0.0,0.43,6.43,Rising,20.665677915161517,False,False,False,91.8179524851815,65.0,Buy,286.3999938964844
+SAREGAMA,26.0,22,10,6,0,0.0,11.88,9.36,Rising,12.186900748134665,False,False,False,80.34814079981439,53.333333333333336,Watch,548.6500244140625
+ZYDUSLIFE,12.0,18,10,5,6,0.0,7.05,11.28,Rising,7.333675783823623,False,False,True,76.43962987836017,42.5,Avoid,1245.5
+SHYAMMETL,6.0,9,10,5,0,0.0,5.29,11.16,Declining,3.2587528710154023,False,False,False,56.277411841796166,25.0,Avoid,1162.9000244140625
+MANAKSTEEL,4.0,12,10,1,0,0.0,0.66,1.04,Declining,4.96171624774866,False,False,False,48.039049062863285,22.5,Avoid,108.30999755859375
