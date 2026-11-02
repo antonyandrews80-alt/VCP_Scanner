@@ -1,0 +1,19 @@
+Date,Symbol,Price,% change,Roc 10days,Rsi 14,Sma 8,Scanner_Source,D change,M change,Rsi weekly,Mcap,Change,Dpower,Mpower,Sector
+2nd Nov'26 3:29:00,PGIL,1254.2,5.17,-2.71,53.92,1210.42,M Swing scan,,,,,,,,
+2nd Nov'26 3:29:00,SWANDEF,2723.7,3.52,-7.5,48.47,2696.49,M Swing scan,,,,,,,,
+2nd Nov'26 3:29:00,PGIL,1254.2,,-2.71,53.92,1210.42,RSI 5 SWING TRADE STRATEGY,5.17,5.17,61.74,,,,,
+2nd Nov'26 3:29:00,MBAPL,,,,,,Turtle strategy,,,,midcap,4.92,71.35,89.3,chemicals
+2nd Nov'26 3:29:00,WELSPUNLIV,,,,,,Turtle strategy,,,,largecap,10.62,67.2,70.43,textiles
+2nd Nov'26 3:29:00,CUPID,,,,,,Turtle strategy,,,,largecap,4.91,59.84,94.58,fmcg
+2nd Nov'26 3:29:00,NRAIL,,,,,,Turtle strategy,,,,smallcap,6.51,57.79,72.73,building materials
+2nd Nov'26 3:29:00,MANAKSTEEL,,,,,,Turtle strategy,,,,smallcap,4.99,57.74,69.23,metals & mining
+2nd Nov'26 3:29:00,CHENNPETRO,,,,,,Turtle strategy,,,,largecap,2.28,57.32,77.93,energy
+2nd Nov'26 3:29:00,BHAGERIA,,,,,,Turtle strategy,,,,smallcap,4.8,57.29,68.82,chemicals
+2nd Nov'26 3:29:00,BIL,,,,,,Turtle strategy,,,,smallcap,3.14,56.96,67.32,consumer discretionary
+2nd Nov'26 3:29:00,BODALCHEM,,,,,,Turtle strategy,,,,smallcap,5.0,56.72,71.17,chemicals
+2nd Nov'26 3:29:00,NAZARA,,,,,,Turtle strategy,,,,midcap,0.715,56.4,70.92,i.t
+2nd Nov'26 3:29:00,SHRINGARMS,,,,,,Turtle strategy,,,,smallcap,2.41,56.36,69.04,consumer discretionary
+2nd Nov'26 3:29:00,RAYMOND,,,,,,Turtle strategy,,,,midcap,2.25,55.84,72.26,transportation
+2nd Nov'26 3:29:00,AAREYDRUGS,,,,,,Turtle strategy,,,,smallcap,2.53,55.72,62.04,healthcare
+2nd Nov'26 3:29:00,OAL,,,,,,Turtle strategy,,,,smallcap,3.44,55.6,67.64,chemicals
+2nd Nov'26 3:29:00,KMEW,,,,,,Turtle strategy,,,,midcap,4.17,55.28,82.03,transportation
