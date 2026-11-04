@@ -1,0 +1,97 @@
+🎯 *SMART MONEY REPORT*
+📅 2026-11-04 | ⏰ 19:32
+
+
+📈 *MARKET STATUS*
+✅ MARKET HEALTHY: Nifty 3.2% above 50 MA
+💰 Position Sizing: FULL POSITION SIZE OK
+
+📊 Analyzed: 25 | Qualified: 3
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 *TOP 10 PICKS*
+
+1. *SATIN* 
+   Score: 72 | ✅ Buy
+   Vol: 84% | FII: 4.9%
+
+2. *EBGNG* 
+   Score: 69 | ✅ Buy
+   Vol: 91% | FII: 5.5%
+
+3. *APLAPOLLO* 
+   Score: 52 | 👀 Watch
+   Vol: 53% | FII: 34.1%
+
+━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔍 *TOP 10 ANALYSIS*
+
+*#1. SATIN* — 72/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 22/25
+   • Sector: 10/12
+   • Institutional: 3/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 84.4%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 4.9% | DII: 6.3%
+   Momentum: +2.19%
+
+─────────────────────
+
+*#2. EBGNG* — 69/100
+
+📊 *Scores:*
+   • Volume: 52/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 3/8
+   • 🆕 Multibagger: 0/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+      Tightening: No
+   📈 VolDist: 90.6%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 5.5% | DII: 5.1%
+   Momentum: +5.62%
+
+─────────────────────
+
+*#3. APLAPOLLO* — 52/100
+
+📊 *Scores:*
+   • Volume: 20/30
+   • Pattern: 18/25
+   • Sector: 10/12
+   • Institutional: 8/8
+   • 🆕 Multibagger: 6/10
+
+🎯 *Signals:*
+      Block Buy: No
+      Sustained Vol: No
+   ✓ Tightening: YES
+   📈 VolDist: 52.7%
+
+📈 *Metrics:*
+   Del: 0.0% | FII: 34.1% | DII: 20.8%
+   Momentum: +0.22%
+
+─────────────────────
+
+💡 *Legend:*
+Vol = % volume on up days (target >65%)
+Bonus = Multibagger signal points
+Del = Delivery %
