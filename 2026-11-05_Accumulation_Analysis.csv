@@ -1,0 +1,7 @@
+symbol,volume_conviction,accumulation_pattern,sector_strength,institutional_score,multibagger_bonus,delivery_pct,fii_holding,dii_holding,volume_trend,price_momentum,block_buying_detected,sustained_volume,price_tightening,volume_distribution,total_score,signal,close
+CYIENT,52.0,9,10,8,0,0.0,14.72,38.96,Declining,-0.5286809296790485,False,False,False,85.7560208433339,65.83333333333333,Buy,1128.9000244140625
+EBGNG,36.0,18,10,3,0,0.0,5.54,5.12,Rising,10.630066614348621,False,False,False,88.6601439716464,55.833333333333336,Watch,729.5499877929688
+PGIL,12.0,18,10,8,0,0.0,6.7,20.16,Rising,12.258936461101122,False,False,False,78.90573746252292,40.0,Avoid,1338.800048828125
+KARURVYSYA,6.0,18,10,8,0,0.0,18.1,42.1,Stable,1.2356062401204682,False,False,False,59.407063485979116,35.0,Avoid,360.5
+BLUSPRING,6.0,18,10,3,0,0.0,5.28,8.62,Stable,12.28271062133457,False,False,False,56.240821496207225,30.833333333333336,Avoid,166.00999450683594
+SKYGOLD,4.0,16,10,5,0,0.0,4.7,12.44,Declining,7.455839523981078,False,False,False,31.72492637021835,29.166666666666668,Avoid,949.0499877929688
